@@ -13,9 +13,7 @@
 
 [📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
-[📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): 
-
-[SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI),
+[📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): [SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI),
                           [SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII),
                           [Gestaltung Ton]( https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton).
 
