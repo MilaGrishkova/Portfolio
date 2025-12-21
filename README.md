@@ -6,8 +6,8 @@
 > Hallo, ich heiße Mila Grishkova.
 
 
-Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich Programmierung,
-meine Unterrichtsmaterialien, meine Tätigkeit als Audioingenieurin, im Game Development,  
+Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
+Programmierung, meine Unterrichtsmaterialien, meine Tätigkeit als Audioingenieurin, im Game Development,  
 als Sounddesignerin sowie über meine soziokulturellen Projekte und Art-Therapie. 
                                                                                
 
