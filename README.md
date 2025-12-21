@@ -6,7 +6,7 @@ Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert.
 
 Viel Spaß!
 
-[📄Lebenslauf](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
+[📄ÜberMich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
 [📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): [💻SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI), [💻SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII)
 
