@@ -5,7 +5,7 @@ werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin
 (🎵GroßeRegieHSAnsbach)[],
 (🎶KleineRegieHSAnsbach)[],
 (🖥️ComputerRoomHSAnsbach)[],
-(🥁Schlagzeugstudio_Allgäu)[https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🥁Schlagzeugstudio_Allgäu]
+[🥁Schlagzeugstudio_Allgäu](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🥁Schlagzeugstudio_Allgäu)
 (🖤BlackSheepClub)[].
 
 In einem separaten Unterbereich wird zudem Audio Engineering als soziale Arbeit präsentiert: Gemeinsam mit Jugendlichen haben wir Mikrofone gebaut und kreative Noise-Projekte realisiert.
