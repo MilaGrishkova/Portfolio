@@ -5,7 +5,7 @@
 
 
 >Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
->Programmierung, Unterrichtsmaterialien, Audio Engineering,Game Dev,SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
+>Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
 
 
 
