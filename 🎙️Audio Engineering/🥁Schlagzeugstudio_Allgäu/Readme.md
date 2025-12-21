@@ -6,7 +6,8 @@
 8. Mac -> 9. ProTools ->
 10. Head amp sound 6 ->
 
-**1. Mic Stell die Mikrofone auf.**
+> [!NOTE]
+> **1. Mic Stell die Mikrofone auf.**
 
 
 
@@ -278,3 +279,17 @@ Output Thunderbolt -> Input AD (Head amp sound 6)
 
 
 
+
+Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
