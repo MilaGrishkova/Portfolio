@@ -7,7 +7,8 @@
 10. Head amp sound 6 ->
 
 > [!NOTE]
-> **1. Mic Stell die Mikrofone auf.**
+> **1. Mic**
+Stell die Mikrofone auf.
 
 
 
