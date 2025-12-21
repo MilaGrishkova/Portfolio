@@ -1,7 +1,8 @@
 **Einleitung 🥁Schlagzeugstudio**
 **Pro tools**
 
-1. Mic ->  2. Multicore Pro Snake 12 In ->  3. Avid Digisnake 8 In->  4. Matrix -> 
+> [!IMPORTANT]
+> 1. Mic ->  2. Multicore Pro Snake 12 In ->  3. Avid Digisnake 8 In->  4. Matrix -> 
 5. HDX -> 6. Thunderbolt ->  7. DADman -> 
 8. Mac -> 9. ProTools ->
 10. Head amp sound 6 ->
@@ -167,9 +168,8 @@ Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von 
 
 
 **5.  HDX**
-
-
-Die Matrix ist mit dem HDX (Port) verbunden.
+> [!WARNING]
+> Die Matrix ist mit dem HDX (Port) verbunden.
 
 
 
@@ -241,7 +241,8 @@ Systemeinstellung -> Ton-> MatrixII (als Hauptgerät)
 
 
 
-**9. ProTools**
+> [!IMPORTANT]
+> **9. ProTools**
 
 Playback Engine -> Matrix  
 
