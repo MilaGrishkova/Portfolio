@@ -4,6 +4,8 @@
 > [!NOTE]
 > **Pro tools**
 
+
+
 1. Mic ->
 2. Multicore Pro Snake 12 In ->
 3.  Avid Digisnake 8 In->
@@ -15,10 +17,12 @@
 9.  ProTools ->
 10. Head amp sound 6
 
+
     
 
 > [!NOTE]
 > **1. Mic**
+
 
 
 Stell die Mikrofone auf.
@@ -53,11 +57,15 @@ Stell die Mikrofone auf.
 > **2. Multicore Pro Snake**
 
 
+
+
  Schließe die Mikrofone über XLR-Kabel an den Multicore-Snake an. Im Studio gibt es zwei Multicore-Snakes.  Die zweite Multicore-Snake hat die Kanäle 13 bis 24 beschriftet. Im Routing sind die Kanäle ebenfalls von 1 bis 24 angeordnet, und sie werden eins zu eins abgebildet. 
 
 
 > [!NOTE]
 > 2.1 In 1-12
+
+
 
 
 
@@ -110,6 +118,7 @@ Stell die Mikrofone auf.
 
 
 
+
 <img width="342" height="260" alt="3" src="https://github.com/user-attachments/assets/aa2889e1-eda1-4f3c-a9fd-f789f70d3d6e" />
 
 
@@ -148,6 +157,7 @@ Der Multicore-Snake ist korrekt mit dem Avid Digisnake verbunden. Da der Multico
 
 > [!NOTE]
 > **4. Matrix II**
+
 
 
 
@@ -199,6 +209,7 @@ Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von 
 
 
 
+
 <img width="364" height="274" alt="7" src="https://github.com/user-attachments/assets/86578d11-8312-43b8-9458-079f9da0d64d" />
 
 
@@ -215,6 +226,7 @@ Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von 
 
 > [!NOTE]
 > **6. Thunderbolt**
+
 
 
 Das gesamte AD-System ist über Thunderbolt mit dem Computer verbunden (Ivanky).
@@ -241,9 +253,11 @@ Das gesamte AD-System ist über Thunderbolt mit dem Computer verbunden (Ivanky).
 > [!NOTE]
 > **7. DADman**
 
+
    
 
 AD Routing  Im Programm DADman ist folgendes Routing eingestellt:  
+
 
 
 
@@ -265,10 +279,13 @@ Systemeinstellung -> Ton-> MatrixII (als Hauptgerät)
 
 
 
+
 > [!NOTE]
 > **9. ProTools**
 
+
 Playback Engine -> Matrix  
+
 
 
 
@@ -280,8 +297,10 @@ Playback Engine -> Matrix  
 
 
 
+
 > [!NOTE]
 > Playback Engine -> Matrix
+
 
 
 
@@ -294,16 +313,21 @@ Playback Engine -> Matrix  
 
 
 
+
 > [!NOTE]
 > **10. Head amp sound 6**
 DA Routing  Im Programm DADman ist folgendes Routing eingestellt: 
+
 
 
 DA  
 Output Thunderbolt -> Input AD (Head amp sound 6)
 
 
+
 <img width="515" height="166" alt="12" src="https://github.com/user-attachments/assets/d5c6345e-55a9-4c3a-af65-71b89bff75c7" />
+
+
 
 > [!TIP]
 > Hier können Sie das PDF herunterladen. ✅
