@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+> [!Info]
 > Der Kurs „Gestaltung Ton“
 
 ist eine propädeutische Lehrveranstaltung für Studierendengruppen des ersten Semesters in den Studienrichtungen Medien und Kommunikation (Audio, Video).
