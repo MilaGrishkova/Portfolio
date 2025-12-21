@@ -1,9 +1,13 @@
 > [!NOTE]
 > # ✨Portfolio✨
-> Hallo, ich heiße Mila Grishkova.                          <img width="294" height="389" alt="1" src="https://github.com/user-attachments/assets/0a4c557b-a692-4bd4-84cc-6d94613584a1">
-
-
-
+> Hallo, ich heiße Mila Grishkova.
+> <img 
+  src="https://github.com/user-attachments/assets/0a4c557b-a692-4bd4-84cc-6d94613584a1"
+  alt="1"
+  width="294"
+  height="389"
+  style="float: right; margin-left: 20px;"
+>
 Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich Programmierung, meine Unterrichtsmaterialien, meine Tätigkeit als Audioingenieurin, im Game Development, als Sounddesignerin sowie über meine soziokulturellen Projekte und Art-Therapie.
 
 > 
