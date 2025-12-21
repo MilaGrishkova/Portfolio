@@ -11,19 +11,19 @@
 
 
 
-[📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
+📍[📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
-[📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien)➡️ [💻SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI),
+📍[📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien)➡️ [💻SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI),
                           [💻SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII),
                           [🔊Gestaltung Ton]( https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton).
 
-[🎮GameDev](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev): [🏃2D Platformer](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer), [🏃3D Platformer]()
+📍[🎮GameDev](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev): [🏃2D Platformer](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer), [🏃3D Platformer]()
 
-[🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
+📍[🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
 
-[🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie)
+📍[🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie)
 
-[🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur)
+📍[🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur)
 
 
 >Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
