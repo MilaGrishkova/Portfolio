@@ -2,7 +2,7 @@
 >
 > **✨Portfolio✨**                                                    
 >                                  
-> Hallo, ich heiße Mila Grishkova.
+> `#RRGGBB`Hallo, ich heiße Mila Grishkova.
 
 
 Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
