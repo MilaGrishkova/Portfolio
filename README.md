@@ -6,10 +6,13 @@
 
 Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich Programmierung, meine Unterrichtsmaterialien, meine Tätigkeit als Audioingenieurin, im Game Development, als Sounddesignerin sowie über meine soziokulturellen Projekte und Art-Therapie.
 
-Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert.
+> [!Hinweis]
+>Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert.
 
 > [!IMPORTANT]
 > Viel Spaß!
+
+
 
 [📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
