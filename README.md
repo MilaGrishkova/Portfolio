@@ -1,6 +1,6 @@
 > [!NOTE]
 > # ✨Portfolio✨
-> Hallo, ich heiße Mila Grishkova.<img width="294" height="389" alt="1" src="https://github.com/user-attachments/assets/0a4c557b-a692-4bd4-84cc-6d94613584a1">
+> Hallo, ich heiße Mila Grishkova.                          <img width="294" height="389" alt="1" src="https://github.com/user-attachments/assets/0a4c557b-a692-4bd4-84cc-6d94613584a1">
 
 
 
