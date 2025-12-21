@@ -11,6 +11,7 @@ im Game Dev, als Sounddesignerin sowie über meine soziokulturellen Projekte und
 Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
 
+
 [📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
 [📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): 
@@ -24,6 +25,8 @@ Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert.
 [🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie)
 
 [🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur)
+
+
 
 
 > [!IMPORTANT]
