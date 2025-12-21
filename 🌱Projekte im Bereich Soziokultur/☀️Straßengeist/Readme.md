@@ -2,7 +2,7 @@
 „Straßengeist“ Projektbeschreibung
                                Mila Grishkova 
                                
-                               <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
+<img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
 
 Karlsruhe gehört zu den sonnigsten Städten Deutschlands. Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
