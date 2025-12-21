@@ -48,7 +48,8 @@ Stell die Mikrofone auf.
  Schließe die Mikrofone über XLR-Kabel an den Multicore-Snake an. Im Studio gibt es zwei Multicore-Snakes.  Die zweite Multicore-Snake hat die Kanäle 13 bis 24 beschriftet. Im Routing sind die Kanäle ebenfalls von 1 bis 24 angeordnet, und sie werden eins zu eins abgebildet. 
 
 
-2.1 In 1-12
+> [!NOTE]
+> 2.1 In 1-12
 
 
 
@@ -70,7 +71,8 @@ Stell die Mikrofone auf.
 
 
 
-2.2 In 13-24
+> [!NOTE]
+> 2.2 In 13-24
 
 
 
@@ -90,7 +92,8 @@ Stell die Mikrofone auf.
 
 
 
-**3. Avid Digisnake 8 In**
+> [!NOTE]
+> **3. Avid Digisnake 8 In**
 
 
 
@@ -135,7 +138,8 @@ Der Multicore-Snake ist korrekt mit dem Avid Digisnake verbunden. Da der Multico
 
 
 
-**4. Matrix II**
+> [!NOTE]
+> **4. Matrix II**
 
 
 
@@ -175,7 +179,8 @@ Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von 
 
 
 
-**5.  HDX**
+> [!NOTE]
+> **5.  HDX**
 > [!WARNING]
 > Die Matrix ist mit dem HDX (Port) verbunden.
 
@@ -200,7 +205,8 @@ Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von 
 
 
 
-**6. Thunderbolt**
+> [!NOTE]
+> **6. Thunderbolt**
 
 
 Das gesamte AD-System ist über Thunderbolt mit dem Computer verbunden (Ivanky).
@@ -224,7 +230,8 @@ Das gesamte AD-System ist über Thunderbolt mit dem Computer verbunden (Ivanky).
 
 
 
-**7. DADman**
+> [!NOTE]
+> **7. DADman**
 
    
 
@@ -244,12 +251,13 @@ Output Matrix -> Input Thunderbolt 1:1
 
 
 
-**8. Mac**
+> [!NOTE]
+> **8. Mac**
 Systemeinstellung -> Ton-> MatrixII (als Hauptgerät) 
 
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > **9. ProTools**
 
 Playback Engine -> Matrix  
@@ -264,7 +272,8 @@ Playback Engine -> Matrix  
 
 
 
-Playback Engine -> Matrix
+> [!NOTE]
+> Playback Engine -> Matrix
 
 
 
@@ -277,7 +286,8 @@ Playback Engine -> Matrix
 
 
 
-**10. Head amp sound 6**
+> [!NOTE]
+> **10. Head amp sound 6**
 DA Routing  Im Programm DADman ist folgendes Routing eingestellt: 
 
 
@@ -287,19 +297,6 @@ Output Thunderbolt -> Input AD (Head amp sound 6)
 
 <img width="515" height="166" alt="12" src="https://github.com/user-attachments/assets/d5c6345e-55a9-4c3a-af65-71b89bff75c7" />
 
-
-
-
-Useful information that users should know, even when skimming content.
-
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> [**Einleitung Schlagzeustudio.pdf**](https://github.com/user-attachments/files/24280894/Einleitung.Schlagzeugraum.pdf)
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
