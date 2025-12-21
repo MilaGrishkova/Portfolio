@@ -1,14 +1,18 @@
 **Einleitung 🥁Schlagzeugstudio**
-**Pro tools**
+
 
 > [!IMPORTANT]
-> 1. Mic ->  2. Multicore Pro Snake 12 In ->  3. Avid Digisnake 8 In->  4. Matrix -> 
+> **Pro tools**
+
+1. Mic ->  2. Multicore Pro Snake 12 In ->  3. Avid Digisnake 8 In->  4. Matrix -> 
 5. HDX -> 6. Thunderbolt ->  7. DADman -> 
 8. Mac -> 9. ProTools ->
 10. Head amp sound 6 ->
 
 > [!NOTE]
 > **1. Mic**
+
+
 Stell die Mikrofone auf.
 
 
