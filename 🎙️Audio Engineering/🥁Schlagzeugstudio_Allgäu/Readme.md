@@ -41,8 +41,12 @@ Stell die Mikrofone auf.
 
 
 
-**2. Multicore Pro Snake**
+> [!NOTE]
+> **2. Multicore Pro Snake**
+
+
  Schließe die Mikrofone über XLR-Kabel an den Multicore-Snake an. Im Studio gibt es zwei Multicore-Snakes.  Die zweite Multicore-Snake hat die Kanäle 13 bis 24 beschriftet. Im Routing sind die Kanäle ebenfalls von 1 bis 24 angeordnet, und sie werden eins zu eins abgebildet. 
+
 
 2.1 In 1-12
 
