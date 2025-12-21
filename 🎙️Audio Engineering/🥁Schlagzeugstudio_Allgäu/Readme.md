@@ -1,7 +1,7 @@
 **Einleitung 🥁Schlagzeugstudio**
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Pro tools**
 
 1. Mic ->  2. Multicore Pro Snake 12 In ->  3. Avid Digisnake 8 In->  4. Matrix -> 
@@ -298,5 +298,6 @@ Output Thunderbolt -> Input AD (Head amp sound 6)
 <img width="515" height="166" alt="12" src="https://github.com/user-attachments/assets/d5c6345e-55a9-4c3a-af65-71b89bff75c7" />
 
 > [!TIP]
+> Hier können Sie das PDF herunterladen. ✅
 > [**Einleitung Schlagzeustudio.pdf**](https://github.com/user-attachments/files/24280894/Einleitung.Schlagzeugraum.pdf)
 
