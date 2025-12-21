@@ -29,10 +29,6 @@
 
 >Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
-> [!IMPORTANT]
-> 🙂 Viel Spaß!
-> 
-> 🌼 LG
->  
-> ✨ Mila
-
+🙂 Viel Spaß! 
+🌼 LG
+✨ Mila
