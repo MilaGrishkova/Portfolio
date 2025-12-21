@@ -307,5 +307,6 @@ Output Thunderbolt -> Input AD (Head amp sound 6)
 
 > [!TIP]
 > Hier können Sie das PDF herunterladen. ✅
+> 
 > [**Einleitung Schlagzeustudio.pdf**](https://github.com/user-attachments/files/24280894/Einleitung.Schlagzeugraum.pdf)
 
