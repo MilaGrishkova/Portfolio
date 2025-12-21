@@ -7,7 +7,7 @@
 >Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
 >Programmierung, Unterrichtsmaterialien, Audio Engineering,Game Dev,SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
 
-Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
+
 
 
 
@@ -26,7 +26,7 @@ Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert.
 [🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur)
 
 
-
+>Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
 > [!IMPORTANT]
 > 🙂 Viel Spaß!
