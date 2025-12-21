@@ -1,7 +1,7 @@
 
-                                                         **„Straßengeist“**
-
-                                                         **Mila Grishkova**
+> [!IMPORTANT]
+> „Straßengeist“
+>  Mila Grishkova
                                
 <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
@@ -49,8 +49,8 @@ Durchführung einer öffentlichen Ausstellung, die die Aufmerksamkeit der Stadtb
 Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zur kulturellen Identitätsbildung bei Jugendlichen.
 
 Fotos / Inspiration:
-Beispiel 1 – Solarography auf Instagram
-Beispiel 2 – Solarography auf Wikipedia
+[Beispiel 1] (https://www.instagram.com/p/DEN4fj0Cinr/)
+[Beispiel 2] (https://en.wikipedia.org/wiki/Solarigraphy)
 
 
 
