@@ -15,29 +15,29 @@
 
 [📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): 
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI),
+&nbsp;&nbsp;&nbsp;&nbsp;•[SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII),
+&nbsp;&nbsp;&nbsp;&nbsp;•[SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Gestaltung Ton]( https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton).
+&nbsp;&nbsp;&nbsp;&nbsp;•[Gestaltung Ton]( https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton)
 
 [🎮GameDev](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev): 
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[2D Platformer](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer), 
+&nbsp;&nbsp;&nbsp;&nbsp;•[2D Platformer](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[3D Spiel](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel).
+&nbsp;&nbsp;&nbsp;&nbsp;•[3D Spiel](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel)
 
 [🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
 
 [🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie): 
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube), 
+&nbsp;&nbsp;&nbsp;&nbsp;•[Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic).
+&nbsp;&nbsp;&nbsp;&nbsp;•[PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 
 [🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur):
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe).
+&nbsp;&nbsp;&nbsp;&nbsp;•[SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
 
 >Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
