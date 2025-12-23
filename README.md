@@ -29,8 +29,6 @@
 
 [🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
-
 &nbsp;&nbsp;&nbsp;&nbsp;•[Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
