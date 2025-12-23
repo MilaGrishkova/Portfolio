@@ -1,7 +1,5 @@
 > [!NOTE]
->In diesem Bereich
-
-werden von mir entwickelte Unterrichtsmaterialien für verschiedene Kurse veröffentlicht.
+>In diesem Bereich werden von mir entwickelte Unterrichtsmaterialien für verschiedene Kurse veröffentlicht.
 
 [SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI)
 
