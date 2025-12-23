@@ -1,7 +1,5 @@
 > [!NOTE]
-> In diesem Bereich
-
-sind Spiele veröffentlicht, die ich entwickelt habe, einschließlich der Spielmechaniken, des Sounddesigns und der Musik.
+> In diesem Bereich sind Spiele veröffentlicht, die ich entwickelt habe, einschließlich der Spielmechaniken, des Sounddesigns und der Musik.
 
 In Unity:
 
