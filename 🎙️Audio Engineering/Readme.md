@@ -3,7 +3,7 @@
 
 werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
-[🎵Große Regie HSAnsbach]()
+[🎵Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
 
 [🎶Kleine Regie HSAnsbach]()
 
