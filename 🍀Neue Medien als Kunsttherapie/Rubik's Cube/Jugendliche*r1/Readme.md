@@ -35,4 +35,4 @@ Die Erstellung des Spiels, ergänzt durch Musik und Klang, zeigte, wie wichtig f
 
 
 
-[pdf](https://github.com/user-attachments/files/24317576/T1.pdf)
+[PDF](https://github.com/user-attachments/files/24317576/T1.pdf)
