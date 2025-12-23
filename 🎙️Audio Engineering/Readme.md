@@ -5,7 +5,7 @@ werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin
 
 [🎵Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
 
-[🎶Kleine Regie HSAnsbach]()
+[🎶Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
 
 [🖥️Computer Room HSAnsbach]()
 
