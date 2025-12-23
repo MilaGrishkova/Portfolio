@@ -52,7 +52,7 @@ Ebenso wichtig ist es zu betonen, dass H1 den Würfel (die Persönlichkeit) klar
 
 Bedeutsam ist auch, dass H1 ein klares Verständnis davon hat, wie er für sich selbst ist. Das Vorhandensein einer Fläche für andere verändert seine Persönlichkeit nicht. Obwohl H1 erkennt, dass er sich mit jedem Menschen anders zeigt, bleibt er für sich selbst immer in den Farben Weiß, Violett und Orange.
 
-[H1.mov.zip](https://github.com/user-attachments/files/24318029/H1.mov.zip)
+[Das Video mit Musik und Sounddesign von Jugendlichem 2 steht hier zum Download bereit.](https://github.com/user-attachments/files/24318029/H1.mov.zip)
 
 
 [PDF](https://github.com/user-attachments/files/24318034/H1.pdf)
