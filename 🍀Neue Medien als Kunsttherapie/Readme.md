@@ -1,5 +1,7 @@
 > [!NOTE]
->❇️ In meiner psychologischen Praxis setze ich Neue Medien gezielt als Methode der Art-Therapie ein. Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das Entwickeln von Sounddesign für Games arbeiten Jugendliche mit spielerischen und kreativen Ausdrucksformen. 
+>❇️ In meiner psychologischen Praxis setze ich Neue Medien gezielt als Methode der Art-Therapie ein.
+
+Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das Entwickeln von Sounddesign für Games arbeiten Jugendliche mit spielerischen und kreativen Ausdrucksformen. 
 
 ✨ Dabei fließen Elemente der Spieltherapie, der Märchen und Narrativtherapie (über die Spielwelten und Geschichten) sowie der 
 🌟emotionalen Selbstwahrnehmung 🌟 ein, insbesondere über Musik🎼 und SoundDesign🎧.
