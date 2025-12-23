@@ -1,4 +1,4 @@
-H1 kam mit dem Anliegen, sich selbst und seinen Platz zu finden sowie die Beziehungen innerhalb der Familie zu klären.
+H1 kam mit dem Anliegen, sich selbst und _seinen Platz zu finden_ sowie die _Beziehungen innerhalb der Familie zu klären_.
 
 Ich habe H1 eingeladen, am Projekt teilzunehmen, und ihm das Konzept des Spiels als Metapher erklärt, die er kreativ neu interpretieren kann. H1 war von der Idee begeistert und stimmte gerne zu.
 
