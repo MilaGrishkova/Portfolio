@@ -13,7 +13,7 @@ schwierige Erfahrungen und Ereignisse in einer sicheren Umgebung erforschen kann
 
 Das Spiel **„Rubik's Cube“**
 
-[68747470733a2f2f7777772e6970686f6e65732e72752f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6b7562696b5f727562696b2d3030305f726573697a652e6a7067](https://github.com/user-attachments/assets/11684da2-419b-4024-8683-2f17e6b7343d)
+![68747470733a2f2f7777772e6970686f6e65732e72752f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6b7562696b5f727562696b2d3030305f726573697a652e6a7067](https://github.com/user-attachments/assets/11684da2-419b-4024-8683-2f17e6b7343d)
 
 
 Im Rahmen des Projekts haben Jugendliche ein Spiel in Unity entwickelt, in dem der
