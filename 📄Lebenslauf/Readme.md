@@ -19,7 +19,7 @@ Links zu meinem Portfolio:
 - Kooperation (Steam)  
 Mit freundlichen Grüßen Mila
 
-[![images](https://github.com/user-attachments/assets/b5fa22f8-5fe1-4534-a4ea-78d653a5e7de)](https://github.com/MilaGrishkova/Portfolio/tree/main)
+[![back-button-icon](https://github.com/user-attachments/assets/80792ebf-1393-4520-a2fa-86a12ca007ee)](https://github.com/MilaGrishkova/Portfolio/tree/main)
 
 ![IMG_3280](https://github.com/user-attachments/assets/e4cd50e5-73d8-4154-a531-06367c2b7af5)
 
