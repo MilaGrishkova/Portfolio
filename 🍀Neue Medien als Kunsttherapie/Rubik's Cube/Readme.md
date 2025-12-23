@@ -51,4 +51,4 @@ Unabhängigkeit und Freiheit des Jugendlichen ist. Gleichzeitig gebe ich zu vers
 dass ich ihn voll unterstütze und auf seiner Seite bin.
 
 Beispiel:
-[Ügendliche1]()
+[Ügendliche*r1]()
