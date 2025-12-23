@@ -1,4 +1,5 @@
-T1 arbeitet an Themen wie _Aggressionsproblemen_ und _Panikattacken_, _ADHS_.                [Zurück](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
+T1 arbeitet an Themen wie _Aggressionsproblemen_ und _Panikattacken_, _ADHS_.                                                               [🔙](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
+        
 
 Ich habe T1 eingeladen, am Projekt teilzunehmen, und ihm das Konzept des Spiels als Metapher erklärt, die er kreativ neu interpretieren kann. T1 war von der Idee begeistert und stimmte gerne zu.
 
@@ -36,3 +37,7 @@ Die Erstellung des Spiels, ergänzt durch Musik und Klang, zeigte, wie wichtig f
 
 
 [PDF](https://github.com/user-attachments/files/24317576/T1.pdf)
+
+
+
+[Zurück](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
