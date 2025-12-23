@@ -1,3 +1,5 @@
+[T1.mov.zip](https://github.com/user-attachments/files/24317601/T1.mov.zip)T1 arbeitet an Themen wie Aggressionsproblemen und Panikattacken.
+
 Ich habe T1 eingeladen, am Projekt teilzunehmen, und ihm das Konzept des Spiels als Metapher erklärt, die er kreativ neu interpretieren kann. T1 war von der Idee begeistert und stimmte gerne zu.
 
 Im Rahmen des Projekts erstellte T1 Musik als Metapher für seine Haltung zum Leben und den Klang der Drehbewegungen des Würfels als Symbol für seine Einstellung zu Veränderungen und den Anstrengungen, die für Transformation erforderlich sind.
@@ -28,4 +30,7 @@ Für den Klang der Drehbewegungen des Würfels wählte T1 einen Shaker und erkl�
 
 Die Erstellung des Spiels, ergänzt durch Musik und Klang, zeigte, wie wichtig für T1 eine kreative Umgebung ist, in der Kritik minimiert wird und der Fokus nicht auf Fehlern liegt. Unter solchen Bedingungen arbeitet T1 konzentriert, reguliert seine Pausen selbstständig und wechselt mühelos zwischen intensiver kreativer Arbeit und Erholung. In dieser Umgebung arbeitet er engagiert, fokussiert und mit Freude.   Wichtig ist zu betonen, wie T1 für sich die Bedeutung des Lebens reflektiert und den Wunsch äußert, dass das Leben ruhig sein sollte. T1 sagt, dass er Schwierigkeiten hat, diese Ruhe auszudrücken. Positiv ist jedoch, dass sein Wunsch deutlich wird: T1 betont, dass das Leben RUHIG sein SOLLTE.
 
-T1 arbeitet an Themen wie Aggressionsproblemen und Panikattacken.
+[1Video.mov.zip](https://github.com/user-attachments/files/24317624/1Video.mov.zip)
+
+
+[T1.pdf](https://github.com/user-attachments/files/24317576/T1.pdf)
