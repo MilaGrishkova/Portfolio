@@ -49,3 +49,6 @@ nicht durch eine subjektive Bewertung zu beeinflussen. Ich stehe für Fragen ode
 Unterstützung zur Verfügung, halte mich aber zurück, was wichtig für die
 Unabhängigkeit und Freiheit des Jugendlichen ist. Gleichzeitig gebe ich zu verstehen,
 dass ich ihn voll unterstütze und auf seiner Seite bin.
+
+Beispiel:
+[Ügendliche1]()
