@@ -1,4 +1,4 @@
-Das Projekt **„Der spielende Teenager“**
+Das Projekt **„Der spielende Teenager“** 👩‍💻👨‍💻
 
 Das Projekt basiert auf der Philosophie von Johan Huizinga aus seinem Buch Homo
 Ludens, in dem der Autor die Rolle des Spiels als wichtigen kulturprägenden Faktor
@@ -27,7 +27,7 @@ schaffen?“
 - „Kann ich Lebensherausforderungen neu interpretieren und sie als Quelle von
 Einzigartigkeit betrachten?“
 
-**Musik und Sounddesign**
+🎵**Musik und Sounddesign**🎶
 Die Jugendlichen sind eingeladen, ihre Haltung zu Veränderungen durch Musik und
 Klang auszudrücken.
 - Die Musik wird zur Metapher für den Lebenshintergrund und vermittelt die
