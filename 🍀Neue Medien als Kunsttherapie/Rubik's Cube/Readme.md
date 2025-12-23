@@ -55,4 +55,4 @@ Unabhängigkeit und Freiheit des Jugendlichen ist. Gleichzeitig gebe ich zu vers
 dass ich ihn voll unterstütze und auf seiner Seite bin.
 
 Beispiel:
-[Ügendliche*r1]()
+[Ügendliche*r1](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r1)
