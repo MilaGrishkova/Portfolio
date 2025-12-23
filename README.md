@@ -29,6 +29,19 @@
 
 [🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
 
+&nbsp;&nbsp;&nbsp;&nbsp;•[Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•[Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•[Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•[Computer Room HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖥%EF%B8%8FComputer%20Room%20HSAnsbach)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•[Schlagzeugstudio Allgäu](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🥁Schlagzeugstudio_Allgäu)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•[BlackSheepClub](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub)
+
+
 [🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie): 
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube) 
