@@ -73,10 +73,9 @@ Fotos / Inspiration:
 >
 > [Beispiel 2](https://en.wikipedia.org/wiki/Solarigraphy)
 
-<a href="https:[//github.com/MilaGrishkova/Portfolio/tree/main](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur)">]
+<a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
-
 
 
 
