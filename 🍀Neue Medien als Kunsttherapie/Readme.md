@@ -5,3 +5,5 @@
 
 📝 In diesem Bereich präsentiere ich ausgewählte Beispiele dieser Form der Art-Therapie mithilfe von Computerspielen, selbstverständlich in anonymisierter Form.
 
+
+[Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubi
