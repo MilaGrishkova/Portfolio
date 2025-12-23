@@ -3,6 +3,7 @@
 >                                                                             
 👋 Hallo, ich heiße Mila Grishkova.
 
+Ich habe diese Seite auf GitHub als Webseite programmiert, auf der ich mein Portfolio präsentiere. GitHub ist dafür sehr praktisch: Hier finden Sie Videos, Fotos, PDF-Materialien und vor allem den Code, falls Sie sehen möchten, wie meine Projekte aufgebaut sind.
 
 Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
 Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
@@ -27,7 +28,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[3D Spiel](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel)
 
-[🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering)
+[🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
 
