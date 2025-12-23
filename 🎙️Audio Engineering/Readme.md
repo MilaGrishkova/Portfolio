@@ -7,7 +7,7 @@ werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin
 
 [🎶Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
 
-[🖥️Computer Room HSAnsbach]()
+[🖥️Computer Room HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖥%EF%B8%8FComputer%20Room%20HSAnsbach)
 
 [🥁Schlagzeugstudio Allgäu](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🥁Schlagzeugstudio_Allgäu)
 
