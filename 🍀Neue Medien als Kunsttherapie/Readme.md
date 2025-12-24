@@ -9,7 +9,7 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 🌟emotionalen Selbstwahrnehmung 🌟 ein, insbesondere über Musik🎼 und SoundDesign🎧.
 
 
-> [!NOTE]
+> [!IMPORTANT]
 >[🟧Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
 >
 >
