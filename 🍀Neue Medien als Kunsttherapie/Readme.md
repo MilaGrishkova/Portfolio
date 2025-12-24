@@ -13,15 +13,6 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 
 [🔘PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 
-<a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic">
-  <img src="https://github.com/user-attachments/assets/1beba921-c23c-433e-a784-df15e8da21c0" alt="PiezoMic" width="220">
-</a>
-<br><br> <!-- два переноса для большего расстояния -->
-
-<a href="https://github.com/MilaGrishkova/Portfolio/tree/main">
-  <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="Back" width="70">
-</a>
-<br><br>
 
 
 
@@ -29,10 +20,7 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic">
   <img src="https://github.com/user-attachments/assets/1beba921-c23c-433e-a784-df15e8da21c0" alt="back-button-icon" width="220">
 </a>
-<a>
-</a>
-<a>
-</a>
+<br><br> <!-- два переноса для большего расстояния -->
 
 
 
