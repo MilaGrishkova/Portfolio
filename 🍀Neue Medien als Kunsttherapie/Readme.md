@@ -13,6 +13,9 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 
 [🔘PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 
+<a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic">
+  <img src="![Piezo Mic](https://github.com/user-attachments/assets/1beba921-c23c-433e-a784-df15e8da21c0)" alt="back-button-icon" width="70">
+</a>
 
 
 
