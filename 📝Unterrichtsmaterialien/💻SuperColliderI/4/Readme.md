@@ -5,9 +5,8 @@ Unterrichtsinhalte:
 &nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe4](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/Hausaufgabe4.scd)
 
 
-
 > [!TIP]
-> 
+> Helpful advice for doing things better or more easily.
 
 
 
