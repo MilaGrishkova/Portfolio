@@ -5,7 +5,7 @@ Themen:
 
 [Grundlagen: Variablen(locale, globale), SinOsc](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/3)
 
-[4](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/4)
+[Filtern: HF,TF, BPF, BRF](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/4)
 
 [5](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/5)
 
