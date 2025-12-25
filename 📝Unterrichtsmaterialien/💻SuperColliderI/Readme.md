@@ -1,9 +1,9 @@
 Themen:
 [](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/1)
 
-[Grundlagen: Mathe(+, -, *, /), Liste](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/2)
+[Grundlagen: Mathe, Liste](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/2)
 
-[Grundlagen: Varialen(locale, globale), SinOsc](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/3)
+[Grundlagen: Variablen(locale, globale), SinOsc](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/3)
 
 [4](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/4)
 
