@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Filtern und Oszillatoren](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/4.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe4](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/Hausaufgab4.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe4](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/Hausaufgabe4.scd)
 
 
 > [!WARNING]
