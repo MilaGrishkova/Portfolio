@@ -141,3 +141,7 @@ s.scope
 
 // Addition mischt Signale
 ~sound = {SinOsc.ar(300) + SinOsc.ar(400) * 0.01};
+
+
+
+https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/3/Readme.md
