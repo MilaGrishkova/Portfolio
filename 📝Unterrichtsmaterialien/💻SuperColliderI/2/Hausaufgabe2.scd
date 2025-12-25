@@ -1,7 +1,7 @@
 
-// ********************************
+// --------------------------------
 // Beispiel 1
-// ********************************
+// --------------------------------
 Beispiel: Wetter im Jahr
 Aufgabe:
 Wir haben die Durchschnittstemperaturen eines Monats in einem Array.
@@ -15,9 +15,9 @@ var durchschnitt = winter.sum / winter.size;                        // Summe / A
 durchschnitt.postln;                                                // Ausgabe
 )
 
-// ********************************
+// --------------------------------
 // Aufgabe 1
-// ********************************
+// --------------------------------
 Aufgabe:
 Gegeben ist ein Array mit Frequenzen von verschiedenen Noten:
 var freqs = [220, 233, 247, 262, 277, 294, 311, 330, 349, 370, 392, 415];
@@ -25,9 +25,9 @@ var freqs = [220, 233, 247, 262, 277, 294, 311, 330, 349, 370, 392, 415];
 Aufgabe: Berechne die durchschnittliche Frequenz der letzten drei Werte im Array.
 Hinweis: Gib das Ergebnis mit postln aus.
 
-// ********************************
+// --------------------------------
 // Beispiel 2
-// ********************************
+// --------------------------------
 Aufgabe: Quadratisches Wachstum von Zahlen
 Aufgabe:
 Erstelle in SuperCollider ein Array mit 10 Werten (n = 10), das von 100 bis 800 reicht.
@@ -47,9 +47,9 @@ var zahlen = Array.fill(n, { |i|
 zahlen.postln;
 )
 
-// ********************************
+// --------------------------------
 // Aufgabe 2
-// ********************************
+// --------------------------------
 Aufgabe: Quadratisches Wachstum der Lautstärke
 Aufgabe:
 In SuperCollider wollen wir die Lautstärke (volume) eines Sinus-Oszillators über 8 Schritte quadratisch steigern.
