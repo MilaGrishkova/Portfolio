@@ -21,7 +21,6 @@ Experimentiert mit der Tonhöhe (Frequenz).
 Seid vorsichtig mit der Lautstärke (Amplitude)
 sie beeinflusst die Lautstärke des Tons.
 
-
 Ziel:
 Den Unterschied zwischen lokalen und globalen Variablen erkennen.
 Mit fadeTime ein sanftes Ein- und Ausblenden des Signals ausprobieren.
