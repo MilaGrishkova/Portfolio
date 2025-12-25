@@ -1,8 +1,6 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Filtern: HF, TF, BPF, BRF
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oscilatoren: Saw](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/4.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Filtern: HF, TF, BPF, BRF;Oscilatoren: Saw](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/4.scd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe4](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/4/Hausaufgab4.scd)
 
