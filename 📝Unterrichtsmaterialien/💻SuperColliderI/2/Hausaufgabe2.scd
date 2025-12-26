@@ -1,3 +1,5 @@
+SuperCollider I – Hausaufgaben Sitzung2
+
 // --------------------------------
 // Beispiel 1
 // --------------------------------
