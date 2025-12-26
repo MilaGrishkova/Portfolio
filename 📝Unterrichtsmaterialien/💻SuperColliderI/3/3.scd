@@ -1,5 +1,6 @@
-SuperCollider I – Sitzung 03
-
+SuperCollider I 
+Sitzung 03
+// Variablen
 s.boot
 
 // --------------------------------
