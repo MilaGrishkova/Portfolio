@@ -10,7 +10,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [2. Plugins und Automatisation in ProTools](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/2)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [3. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/3)
+&nbsp;&nbsp;&nbsp;&nbsp;• [3. Compressor und Limiter](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/3)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [4. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/4)
 
