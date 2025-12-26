@@ -39,7 +39,6 @@ Pbind(
 // 3. Unendliche Sequenzen
 // --------------------------------
 // Wenn statt einer Zahl 'inf' verwendet wird, wiederholt sich die Sequenz unendlich
-
 (
 Pbind(
     \instrument, \default,
@@ -53,7 +52,6 @@ Pbind(
 // 4. Nutzung von Arrays und Funktionen
 // --------------------------------
 // Pbind und Pseq können mit Arrays und Funktionen kombiniert werden, um dynamische Effekte zu erzeugen
-
 (
 Pbind(
     \instrument, \default,
@@ -67,7 +65,6 @@ Pbind(
 // --------------------------------
 // Melodie mit unterschiedlichen Dauern
 // --------------------------------
-
 (
 Pbind(
     \instrument, \default,
@@ -164,7 +161,7 @@ Pbind(
     \len, Pseq([0.35,0.25,0.3,0.6,0.4,0.3,0.5,0.4,0.3], inf)
 ).play;
 )
-// --------------------------------
+
 // ---------------------------
 // Task & do in SuperCollider
 // ---------------------------
