@@ -92,6 +92,29 @@
   <em>13 Praktikum – Folien</em>
 </p>
 
+<p align="center">
+<img width= "900" alt="14" src="https://github.com/user-attachments/assets/6a87efe6-a1a8-41f9-a697-37e84b588e9e" />
+  <br>
+  <em>14 Praktikum – Folien</em>
+</p>
+
+<p align="center">
+<img width= "900" alt="15" src="https://github.com/user-attachments/assets/236fc206-f601-4de3-a2c0-87a311d87564" />
+  <br>
+  <em>15 Praktikum – Folien</em>
+</p>
+
+<p align="center">
+<img width= "900" alt="16" src="https://github.com/user-attachments/assets/93d6fce1-e9df-4f33-8a59-e314fa4ca2a4" />
+  <br>
+  <em>16 Praktikum – Folien</em>
+</p>
+
+<p align="center">
+<img width= "900" alt="17" src="https://github.com/user-attachments/assets/2144a2d1-8456-4821-8d79-b05640ccfa10" />
+  <br>
+  <em>17 Praktikum – Folien</em>
+</p>
 
 <p align="center">
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton">
