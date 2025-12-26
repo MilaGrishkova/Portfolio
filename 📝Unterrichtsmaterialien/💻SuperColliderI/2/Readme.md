@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[Grundlagen der Programmierung, Mathematik im Supercollider](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/2/2.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Hausaufgaben 2](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/2/Hausaufgabe2.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;•[🏠Hausaufgaben 2](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/2/Hausaufgabe2.scd)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
