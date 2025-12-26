@@ -1,4 +1,5 @@
-Themen:
+> [!IMPORTANT]
+> In diesem Abschnitt werden Lernmaterialien zum Studium von SuperCollider I vorgestellt:
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[1. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/1)
 
