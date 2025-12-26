@@ -1,5 +1,9 @@
+In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von SuperCollider I vorgestellt.
+
 > [!IMPORTANT]
-> In diesem Abschnitt werden Lernmaterialien zum Studium von SuperCollider I vorgestellt:
+> Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail eingesendet werden.
+
+Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[1. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/1)
 
