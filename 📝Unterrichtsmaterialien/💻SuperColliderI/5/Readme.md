@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Additive Synthese](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/5/5.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe5](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/5/Hausaufgabe5.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe5](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/5/Hausaufgabe5.scd)
 
 > [!IMPORTANT]
 > Additive Synthese = Summe von Oszillatoren
