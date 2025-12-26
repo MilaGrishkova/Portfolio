@@ -1,6 +1,6 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Buffers & Audiofiles](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/9/9.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Pbind & Midi](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/9/9.scd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe9](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe9.scd)
 
