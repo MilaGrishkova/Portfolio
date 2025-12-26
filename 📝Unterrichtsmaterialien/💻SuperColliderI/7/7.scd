@@ -1,7 +1,7 @@
 SuperCollider I
 Sitzung 07
 // --------------------------------
-// SuperCollider – Einführung in SynthDef
+// SynthDef
 // --------------------------------
 
 // Symbol
