@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img width="900" alt="3" src="(https://github.com/user-attachments/assets/341cd332-6049-4a0e-9083-1ba4f8f25808" />
+<img width="900" alt="3" src="https://github.com/user-attachments/assets/341cd332-6049-4a0e-9083-1ba4f8f25808" />
  <br>
   <em>03 Praktikum – Folien</em>
 </p>
