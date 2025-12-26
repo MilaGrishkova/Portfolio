@@ -68,7 +68,6 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 
 Fotos / Inspiration:
 
-> [!IMPORTANT]
 >[Beispiel 1](https://www.instagram.com/p/DEN4fj0Cinr/)
 >
 > [Beispiel 2](https://en.wikipedia.org/wiki/Solarigraphy)
