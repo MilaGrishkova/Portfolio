@@ -25,9 +25,9 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[10. Midi](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[11.Distortions](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
+&nbsp;&nbsp;&nbsp;&nbsp;•[11. Distortions](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[12.Busse, Gruppen & Klangeffekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/12)
+&nbsp;&nbsp;&nbsp;&nbsp;•[12. Busse, Gruppen & Klangeffekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/12)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien">
