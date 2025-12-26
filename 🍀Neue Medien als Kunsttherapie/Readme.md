@@ -8,9 +8,9 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 ✨ Dabei fließen Elemente der Spieltherapie, der Märchen und Narrativtherapie (über die Spielwelten und Geschichten) sowie der 
 🌟emotionalen Selbstwahrnehmung 🌟 ein, insbesondere über Musik🎼 und SoundDesign🎧.
 <br><br>
-[🟧Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
+&nbsp;&nbsp;&nbsp;&nbsp;• [🟧Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
 <br><br>
-[🔘PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
+&nbsp;&nbsp;&nbsp;&nbsp;• [🔘PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 <br><br><br>
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
