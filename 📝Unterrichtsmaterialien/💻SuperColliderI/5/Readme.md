@@ -10,6 +10,7 @@ Unterrichtsinhalte:
 
 > [!IMPORTANT]
 > Additive Synthese = Summe von Oszillatoren
+> 
 > Subtraktive Synthese = Quelle + Filter
 
 
