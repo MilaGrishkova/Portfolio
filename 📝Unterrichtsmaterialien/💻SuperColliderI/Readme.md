@@ -21,9 +21,9 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [8. Buffers & Audiofiles](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/8)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [9. Pbind](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/9)
+&nbsp;&nbsp;&nbsp;&nbsp;• [9. Pbind & Midi](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/9)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [10. Midi](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
+&nbsp;&nbsp;&nbsp;&nbsp;• [10. Task, Do, Routine](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [11. Distortions](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
 
