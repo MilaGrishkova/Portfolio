@@ -13,7 +13,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[4. Filtern und Oszillatoren](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/4)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[5. Additive und subtraktive Synthese](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/5)
+&nbsp;&nbsp;&nbsp;&nbsp;•[5. Additive Synthese](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/5)
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[6. Modulationssynthese](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/6)
 
