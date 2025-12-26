@@ -1,9 +1,8 @@
 > [!NOTE]
 > In diesem Abschnitt werden behandelt:
 > 
-> &nbsp;&nbsp;&nbsp;&nbsp;• Compressor und Limiter
+> &nbsp;&nbsp;&nbsp;&nbsp;• Aux, Mixer, Parallel Compression
 >
-
 
 <p align="center">
   <img width="300" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/eb496d21-749e-4038-8151-ccd4f6dd4894" />
