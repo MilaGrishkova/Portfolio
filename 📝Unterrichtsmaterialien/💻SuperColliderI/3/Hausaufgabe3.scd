@@ -1,4 +1,5 @@
-SuperCollider I – Hausaufgaben Sitzung3
+SuperCollider I 
+Hausaufgaben Sitzung 03
 // --------------------------------
 // Variablen und SinOsc
 // --------------------------------
