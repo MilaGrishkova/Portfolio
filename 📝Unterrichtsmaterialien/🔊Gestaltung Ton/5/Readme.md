@@ -3,7 +3,7 @@
 > 
 > &nbsp;&nbsp;&nbsp;&nbsp;• Frequenzen und Kreative Technick
 >
-
+ <br>
 <p align="center">
   <img width="300" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/a6e165f8-7c5d-483e-a026-41d4e069ae2d" />
   <br>
