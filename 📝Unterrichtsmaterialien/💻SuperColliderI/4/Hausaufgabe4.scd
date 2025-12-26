@@ -1,4 +1,5 @@
-SuperCollider I – Hausaufgaben Sitzung 04
+SuperCollider I
+Hausaufgaben Sitzung 04
 // --------------------------------
 // Filtren und Osszilatoren
 // --------------------------------
