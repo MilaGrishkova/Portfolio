@@ -68,9 +68,9 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 
 Fotos / Inspiration:
 
->[Beispiel 1](https://www.instagram.com/p/DEN4fj0Cinr/)
+>&nbsp;&nbsp;&nbsp;&nbsp;•[Beispiel 1](https://www.instagram.com/p/DEN4fj0Cinr/)
 >
-> [Beispiel 2](https://en.wikipedia.org/wiki/Solarigraphy)
+>&nbsp;&nbsp;&nbsp;&nbsp;•[Beispiel 2](https://en.wikipedia.org/wiki/Solarigraphy)
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
