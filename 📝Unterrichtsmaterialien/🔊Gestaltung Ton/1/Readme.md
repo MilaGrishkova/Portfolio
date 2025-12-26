@@ -1,16 +1,15 @@
 <p align="center">
   <img width="700" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/792b208b-1d8b-411f-bb1e-70ed4f394a2d" />
   <br>
-  <em>01 Praktikum – Folien</em>
+  <em>00 Praktikum – Folien</em>
 </p>
 
 
-
-<img width="700" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/792b208b-1d8b-411f-bb1e-70ed4f394a2d" />
-<br><br><br>
-
+<p align="center">
 <img width="900" alt="1" src="https://github.com/user-attachments/assets/cbb2c49b-2861-4bb7-8fdb-c2d7c600558c" />
-<br><br><br>
+ <br>
+  <em>01 Praktikum – Folien</em>
+</p>
 
 <img width="900" alt="2" src="https://github.com/user-attachments/assets/f7db9e37-4595-46fb-bfd9-2d391998a00d" />
 <br><br><br>
