@@ -4,10 +4,6 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Hausaufgabe5](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/5/Hausaufgabe5.scd)
 
-
-> [!TIP]
-> Welches Instrument klingt wie additive Synthese?
-
 > [!IMPORTANT]
 > Additive Synthese = Summe von Oszillatoren
 > 
