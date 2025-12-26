@@ -4,11 +4,8 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe6](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/6/Hausaufgabe6.scd)
 
-> [!IMPORTANT]
-> Additive Synthese = Summe von Oszillatoren
-> 
-> Subtraktive Synthese = Quelle + Filter
-
+> [!TIP]
+> Achte auf Amplitude!
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
