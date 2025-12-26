@@ -133,93 +133,15 @@
 </p>
 
 <p align="center">
-<img width= "900" alt="21" src="https://github.com/user-attachments/assets/c889a323-3372-4120-aa4f-0914a6f4b464" />
+<img width= "900" alt="21" src=" https://github.com/user-attachments/assets/a07cb4c4-0455-4ad3-8d9b-01179cabee8f" />
   <br>
   <em>21 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="22" src="https://github.com/user-attachments/assets/413f790c-45a4-4707-8f9c-7d4eed9d48b8" />
+<img width= "900" alt="22" src="https://github.com/user-attachments/assets/9af30641-0b7d-4a7c-aae3-727e5fa86770" />
   <br>
   <em>22 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="23" src="https://github.com/user-attachments/assets/7b581983-74fa-4ebd-8e85-8cb73ec5e288" />
-  <br>
-  <em>23 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="24" src="https://github.com/user-attachments/assets/e88bdc9e-afeb-496b-8606-7c5958e6382e" />
-  <br>
-  <em>24 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="25" src="https://github.com/user-attachments/assets/456f158b-34e9-4149-81b1-aa2875e517ad" />
-  <br>
-  <em>25 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="26" src="https://github.com/user-attachments/assets/d14b04f9-db9b-450a-b5f0-0ae625732d31" />
-  <br>
-  <em>26 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="27" src="https://github.com/user-attachments/assets/17241f2d-bfbe-4fd4-859d-60f2d167a1aa"/>
-  <br>
-  <em>27 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="28" src="https://github.com/user-attachments/assets/e41a94ed-374b-4f22-a6b2-8b12587560b5" />
-  <br>
-  <em>28 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="29" src="https://github.com/user-attachments/assets/5e03555f-5234-40bf-8da8-e2e3a7231381" />
-  <br>
-  <em>29 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="30" src="https://github.com/user-attachments/assets/39b74a8a-c1bc-48b4-90df-9a465012c835" />
-  <br>
-  <em>30 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="31" src="https://github.com/user-attachments/assets/1df47987-74f7-4a84-ae33-abced0c943fc" />
-  <br>
-  <em>31 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="32" src="https://github.com/user-attachments/assets/e6b3b754-0a41-4a42-af8b-277992916abc" />
-  <br>
-  <em>32 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="33" src="https://github.com/user-attachments/assets/d1f26dc2-efc3-46f2-ad1a-bd25558a4788" />
-  <br>
-  <em>33 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="34" src="https://github.com/user-attachments/assets/cb518dbd-27eb-442c-9895-399912590f43" />
-  <br>
-  <em>34 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="35" src="https://github.com/user-attachments/assets/9e25a133-908e-42f9-81d7-5a7cee0cf825" />
-  <br>
-  <em>35 Praktikum – Folien</em>
 </p>
 
 
