@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img width="900" alt="1" src="https://github.com/user-attachments/assets/90d638bc-32d8-4204-8d87-c11f33131f6" />
+<img width="900" alt="1" src="https://github.com/user-attachments/assets/7c45e451-9abe-49bf-abf5-cbf2e532b079" />
  <br>
   <em>01 Praktikum – Folien</em>
 </p>
