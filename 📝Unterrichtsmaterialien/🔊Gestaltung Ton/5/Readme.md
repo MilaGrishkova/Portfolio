@@ -54,7 +54,7 @@
 
 <p align="center">
 <img width= "900" alt="8" src= "https://github.com/user-attachments/assets/b9a66314-f427-45bf-95f6-47c5ba4fb679" />
-
+<br>
   <em>08 Praktikum – Folien</em>
 </p>
 
@@ -147,13 +147,11 @@
 </p>
 
 
-
 <p align="center">
 <img width= "900" alt="21" src="https://github.com/user-attachments/assets/21b18101-d5d3-4fb5-ba4d-d63f6564c86d" />
   <br>
   <em>21 Praktikum – Folien</em>
 </p>
-
 
 <p align="center">
 <img width= "900" alt="22" src="https://github.com/user-attachments/assets/f14c005a-9b8c-4d4e-934a-83f54cff8837" />
@@ -167,13 +165,11 @@
   <em>23 Praktikum – Folien</em>
 </p>
 
-
 <p align="center">
 <img width= "900" alt="24" src="https://github.com/user-attachments/assets/ebe9f7da-5067-40fe-b274-65fd462fb97c" />
   <br>
   <em>24 Praktikum – Folien</em>
 </p>
-
 
 <p align="center">
 <img width= "900" alt="25" src="https://github.com/user-attachments/assets/de72e65c-63de-4b7b-943b-a807dc019bda" />
@@ -181,13 +177,11 @@
   <em>25 Praktikum – Folien</em>
 </p>
 
-
 <p align="center">
 <img width= "900" alt="26" src="https://github.com/user-attachments/assets/2c345ab7-b4a2-4ef7-aa28-22ce0bf8d30e" />
   <br>
   <em>26 Praktikum – Folien</em>
 </p>
-
 
 <p align="center">
 <img width= "900" alt="27" src="https://github.com/user-attachments/assets/46ab8a2c-1222-42fe-a865-84df485ffc8d" />
@@ -207,9 +201,7 @@
   <em>28 Praktikum – Folien</em>
 </p>
 
-
 <p align="center">
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
-
