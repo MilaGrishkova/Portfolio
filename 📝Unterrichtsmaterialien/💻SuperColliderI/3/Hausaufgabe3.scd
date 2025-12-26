@@ -1,4 +1,7 @@
-Hausaufgabe 3
+SuperCollider I – Hausaufgaben Sitzung3
+// --------------------------------
+// Variablen und SinOsc
+// --------------------------------
 
 1) ProxySpace initialisieren
 Starte SuperCollider und initialisiere ProxySpace mit
