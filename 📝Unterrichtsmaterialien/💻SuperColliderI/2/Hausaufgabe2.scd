@@ -1,4 +1,5 @@
-SuperCollider I – Hausaufgaben Sitzung2
+SuperCollider I 
+Hausaufgaben Sitzung 02
 // --------------------------------
 // Mathe
 // --------------------------------
