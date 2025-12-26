@@ -102,13 +102,13 @@
 </p>
 
 <p align="center">
-<img width= "900" alt="16" src="https://https://github.com/user-attachments/assets/c4bc225c-6307-4054-b384-cf1e5d77a644" />
+<img width= "900" alt="16" src="https://github.com/user-attachments/assets/c4bc225c-6307-4054-b384-cf1e5d77a644" />
 <br>
   <em>16 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="17" src="https://https://github.com/user-attachments/assets/d8018e69-9748-408b-a3b2-11055cf69381" />
+<img width= "900" alt="17" src="https://github.com/user-attachments/assets/d8018e69-9748-408b-a3b2-11055cf69381" />
 <br>
   <em>17 Praktikum – Folien</em>
 </p>
