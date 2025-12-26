@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="300" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/5227be25-9f9d-4f07-ad58-6cabf5b5d9b5" />
+  <img width="300" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/eb496d21-749e-4038-8151-ccd4f6dd4894" />
   <br>
   <em> Viel Spaß! </em>
 </p>
