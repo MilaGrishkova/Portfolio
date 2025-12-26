@@ -1,7 +1,7 @@
 > [!NOTE]
 > In diesem Abschnitt werden behandelt:
 > 
-> &nbsp;&nbsp;&nbsp;&nbsp;• Mixing
+> &nbsp;&nbsp;&nbsp;&nbsp;• Sound Design
 >
  <br>
 <p align="center">
