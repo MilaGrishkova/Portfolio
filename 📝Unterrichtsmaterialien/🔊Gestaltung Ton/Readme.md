@@ -14,7 +14,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [4. Aux, Mixer, Parallel Compression](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/4)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [5. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/5)
+&nbsp;&nbsp;&nbsp;&nbsp;• [5. Frequenzen und Kreative Technick](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/5)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [6. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/6)
 
