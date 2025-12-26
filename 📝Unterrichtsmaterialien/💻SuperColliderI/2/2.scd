@@ -1,4 +1,5 @@
-SuperCollider I – Sitzung 02
+SuperCollider I 
+Sitzung 02
 
 // --------------------------------
 // Server booten
