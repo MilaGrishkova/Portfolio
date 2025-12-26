@@ -56,9 +56,9 @@ dass ich ihn voll unterstütze und auf seiner Seite bin.
 
 Beispiel:
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Ügendliche*r1](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r1)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Ügendliche*r1](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r1)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Ügendliche*r2](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r2)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Ügendliche*r2](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r2)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie">
