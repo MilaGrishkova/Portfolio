@@ -6,7 +6,7 @@ Unterrichtsinhalte:
 
 
 > [!TIP]
-> Achte auf Amplitude (max. 0.2)
+> Achte auf Amplitude (z.B. 0.2)
 
 
 
