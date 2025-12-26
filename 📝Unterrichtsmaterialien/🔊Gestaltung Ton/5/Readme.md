@@ -1,7 +1,7 @@
 > [!NOTE]
 > In diesem Abschnitt werden behandelt:
 > 
-> &nbsp;&nbsp;&nbsp;&nbsp;• Aux, Mixer, Parallel Compression
+> &nbsp;&nbsp;&nbsp;&nbsp;• Frequenzen und Kreative Technick
 >
 
 <p align="center">
