@@ -82,6 +82,7 @@
   <em>12 Praktikum – Folien</em>
 </p>
 
+
 <p align="center">
 <img width= "900" alt="13" src="https://github.com/user-attachments/assets/d24006e9-d3b7-4692-a673-b6826dd381a7" />
   <br>
@@ -89,66 +90,60 @@
 </p>
 
 <p align="center">
-<img width= "900" alt="14" src="https://github.com/user-attachments/assets/d24006e9-d3b7-4692-a673-b6826dd381a7" />
+<img width= "900" alt="14" src="https://github.com/user-attachments/assets/a67fe50f-a302-4683-939c-b68a759d4d11" />
   <br>
   <em>14 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="15" src="https://github.com/user-attachments/assets/a67fe50f-a302-4683-939c-b68a759d4d11" />
+<img width= "900" alt="15" src="https://github.com/user-attachments/assets/8619c695-0934-47ff-ac71-23b5cf18a427" />
   <br>
   <em>15 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="16" src="https://github.com/user-attachments/assets/8619c695-0934-47ff-ac71-23b5cf18a427" />
+<img width= "900" alt="16" src="https://github.com/user-attachments/assets/882d5979-46e4-4446-811c-09bf9941a1ca" />
   <br>
   <em>16 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="17" src="https://github.com/user-attachments/assets/882d5979-46e4-4446-811c-09bf9941a1ca" />
+<img width= "900" alt="17" src="https://github.com/user-attachments/assets/2810bae3-3d8a-46a0-8aed-c6130a8f997c" />
   <br>
   <em>17 Praktikum – Folien</em>
 </p>
 
+
 <p align="center">
-<img width= "900" alt="18" src="https://github.com/user-attachments/assets/2810bae3-3d8a-46a0-8aed-c6130a8f997c" />
+<img width= "900" alt="18" src="https://github.com/user-attachments/assets/b4ca0386-bc41-498c-8f3e-d191aa8456a0" />
   <br>
   <em>18 Praktikum – Folien</em>
 </p>
 
 
 <p align="center">
-<img width= "900" alt="19" src="https://github.com/user-attachments/assets/b4ca0386-bc41-498c-8f3e-d191aa8456a0" />
+<img width= "900" alt="19" src="https://github.com/user-attachments/assets/89c946be-7d9b-438e-8f06-91cdb03d1146" />
   <br>
   <em>19 Praktikum – Folien</em>
 </p>
 
 
 <p align="center">
-<img width= "900" alt="20" src="https://github.com/user-attachments/assets/89c946be-7d9b-438e-8f06-91cdb03d1146" />
+<img width= "900" alt="20" src="https://github.com/user-attachments/assets/21b18101-d5d3-4fb5-ba4d-d63f6564c86d" />
   <br>
   <em>20 Praktikum – Folien</em>
 </p>
 
-
 <p align="center">
-<img width= "900" alt="21" src="https://github.com/user-attachments/assets/21b18101-d5d3-4fb5-ba4d-d63f6564c86d" />
+<img width= "900" alt="21" src="https://github.com/user-attachments/assets/f14c005a-9b8c-4d4e-934a-83f54cff8837" />
   <br>
   <em>21 Praktikum – Folien</em>
 </p>
 
 <p align="center">
-<img width= "900" alt="22" src="https://github.com/user-attachments/assets/f14c005a-9b8c-4d4e-934a-83f54cff8837" />
+<img width= "900" alt="22" src="https://github.com/user-attachments/assets/11e938e5-4706-4dad-9646-cd16857cd397" />
   <br>
   <em>22 Praktikum – Folien</em>
-</p>
-
-<p align="center">
-<img width= "900" alt="23" src="https://github.com/user-attachments/assets/11e938e5-4706-4dad-9646-cd16857cd397" />
-  <br>
-  <em>23 Praktikum – Folien</em>
 </p>
 
 <p align="center">
