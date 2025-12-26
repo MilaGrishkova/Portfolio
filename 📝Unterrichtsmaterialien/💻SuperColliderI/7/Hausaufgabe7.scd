@@ -1,5 +1,6 @@
 SuperCollider I 
-Sitzung 07
+Hausaufgaben Sitzung 07
+// --------------------------------
 
 Aufgabe 1: Eigener Sinus-Synth
 1) Erstelle einen neuen SynthDef auf Basis des Beispiels \sinus.
