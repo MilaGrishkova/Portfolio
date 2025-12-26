@@ -48,10 +48,10 @@ var freq = 440;  // lokale Variable
 // --------------------------------
 (
 {
-    var freq = 330;  // локальная переменная
-    var amp = 0.2;   // локальная переменная
+    var freq = 330;  // lokale var
+    var amp = 0.2;   // lokale var
 
-    SinOsc.ar(freq, 0, amp); // использование локальных переменных
+    SinOsc.ar(freq, 0, amp); // lokale var
 }.play;
 )
 
