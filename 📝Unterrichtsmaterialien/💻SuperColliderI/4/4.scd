@@ -1,5 +1,5 @@
-SuperCollider I – Sitzung 04
-
+SuperCollider I 
+Sitzung 04
 // --------------------------------
 // Filtern
 // --------------------------------
