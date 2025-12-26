@@ -31,11 +31,11 @@ Für den Klang der Drehbewegungen des Würfels wählte T1 einen Shaker und erkl�
 Die Erstellung des Spiels, ergänzt durch Musik und Klang, zeigte, wie wichtig für T1 eine kreative Umgebung ist, in der Kritik minimiert wird und der Fokus nicht auf Fehlern liegt. Unter solchen Bedingungen arbeitet T1 konzentriert, reguliert seine Pausen selbstständig und wechselt mühelos zwischen intensiver kreativer Arbeit und Erholung. In dieser Umgebung arbeitet er engagiert, fokussiert und mit Freude.   Wichtig ist zu betonen, wie T1 für sich die Bedeutung des Lebens reflektiert und den Wunsch äußert, dass das Leben ruhig sein sollte. T1 sagt, dass er Schwierigkeiten hat, diese Ruhe auszudrücken. Positiv ist jedoch, dass sein Wunsch deutlich wird: T1 betont, dass das Leben RUHIG sein SOLLTE.
 
 
-[Das Video mit Musik und Sounddesign von Jugendlichem 1 steht hier zum Download bereit.](https://github.com/user-attachments/files/24317665/1Video.mov.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;•[Das Video mit Musik und Sounddesign von Jugendlichem 1 steht hier zum Download bereit.](https://github.com/user-attachments/files/24317665/1Video.mov.zip)
 
 
 
-[PDF](https://github.com/user-attachments/files/24317576/T1.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;•[PDF](https://github.com/user-attachments/files/24317576/T1.pdf)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube">
