@@ -1,7 +1,7 @@
 In dieser Kategorie stelle ich die von mir organisierten _soziokulturellen Projekte_ vor.
 
 
-[☀️SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
+&nbsp;&nbsp;&nbsp;&nbsp;• [☀️SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main">
