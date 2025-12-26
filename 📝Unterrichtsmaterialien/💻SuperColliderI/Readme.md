@@ -1,7 +1,7 @@
 In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von SuperCollider I vorgestellt.
 
 > [!IMPORTANT]
-> Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail eingesendet werden.
+> Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail (milagrishkova.de@gmail.com) eingesendet werden.
 
 Themen:
 
