@@ -1,8 +1,11 @@
 > [!NOTE]
 > In diesem Abschnitt werden behandelt:
-> Einführung in Pro Tools
-> Anschluss des Scarlett-Interfaces an Pro Tools
-> Bibliotheken
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;• Einführung in Pro Tools
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;• Anschluss des Scarlett-Interfaces an Pro Tools
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;• Bibliotheken
 
 
 
