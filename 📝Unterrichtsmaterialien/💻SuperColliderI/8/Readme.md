@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Buffers & Audiofiles](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/8.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe7](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe8.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe8](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe8.scd)
 
 > [!TIP]
 > Achte auf Amplitude!
