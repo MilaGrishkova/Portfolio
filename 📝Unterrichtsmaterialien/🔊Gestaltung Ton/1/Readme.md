@@ -1,4 +1,5 @@
-
+<img width="200" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/792b208b-1d8b-411f-bb1e-70ed4f394a2d" />
+<br><br><br>
 
 <img width="400" alt="1" src="https://github.com/user-attachments/assets/cbb2c49b-2861-4bb7-8fdb-c2d7c600558c" />
 <br><br><br>
@@ -17,9 +18,6 @@
 
 
 
-<br><br><br>
 
 
 
-
-<img width="400" alt="01 Praktikum Folien" src="https://github.com/user-attachments/assets/792b208b-1d8b-411f-bb1e-70ed4f394a2d" />
