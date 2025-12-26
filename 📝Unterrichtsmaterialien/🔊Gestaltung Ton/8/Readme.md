@@ -1,7 +1,7 @@
 > [!NOTE]
 > In diesem Abschnitt werden behandelt:
 > 
-> &nbsp;&nbsp;&nbsp;&nbsp;• Mixing
+> &nbsp;&nbsp;&nbsp;&nbsp;• Mastering: LUFS, PEAK, RMS
 >
  <br>
 <p align="center">
@@ -106,7 +106,6 @@
 <br>
   <em>16 Praktikum – Folien</em>
 </p>
-
 
 <p align="center">
 <img width= "900" alt="17" src="https://https://github.com/user-attachments/assets/d8018e69-9748-408b-a3b2-11055cf69381" />
