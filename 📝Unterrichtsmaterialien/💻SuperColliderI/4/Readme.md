@@ -6,7 +6,7 @@ Unterrichtsinhalte:
 
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Achte auf Amplitude (max. 0.2)
 
 
 
