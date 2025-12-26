@@ -72,7 +72,7 @@ a = {
 ~x.play
 
 //Das sind einzelne Sinus-Oszillatoren (Teiltöne).
-//Du addierst und subtrahierst sie:
+//Man addiert und subtrahiert sie:
 //Signal = Sinus + (-Sinus) + (-Sinus)
 /*
 Additive Synthese
@@ -80,7 +80,6 @@ Additive Synthese
 - Frequenzen sind explizit definiert
 - Signale werden linear summiert
 - Kein Filter
-✔ Das entspricht genau deinem Beispiel.
 Subtraktive Synthese
 - Ein komplexes Ausgangssignal (Saw, Pulse, Noise)
 - Ein Filter wird angewendet (LPF, HPF, BPF)
