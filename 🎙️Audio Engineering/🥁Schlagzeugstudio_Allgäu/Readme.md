@@ -1,4 +1,5 @@
 <p align="center">
+    
 **Einleitung 🥁Schlagzeugstudio**
 
 
@@ -37,7 +38,7 @@ Stell die Mikrofone auf.
 
 
 
-
+<p align="center">
 <img width="294" height="389" alt="1" src="https://github.com/user-attachments/assets/7a7cd013-6264-4e83-a19d-703b5aeddf8f" />
 
 
@@ -73,7 +74,7 @@ Stell die Mikrofone auf.
 
 
 
-
+<p align="center">
 <img width="332" height="276" alt="2" src="https://github.com/user-attachments/assets/9ebfa2d1-1611-470e-b7b0-f163a1afdf07" />
 
 
