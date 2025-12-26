@@ -5,8 +5,8 @@ Unterrichtsinhalte:
 &nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe8](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe8.scd)
 
 > [!TIP]
-> Den Pfad zur Audiodatei kann man im Code hinzufügen, indem man sie hinzieht (wie man normale Dateien hinzieht).
-> Wenn die Datei nicht abgespielt wird, löschen Sie sie und ziehen Sie die Audiodatei erneut in den Code.
+> Den Pfad zur Audiodatei kann man im Code hinzufügen, indem man sie einfach hinzieht (wie man normale Dateien hinzieht).
+> Wenn die Datei nicht abgespielt wird, löscht ihr sie und zieht ihr die Audiodatei erneut in den Code.
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
