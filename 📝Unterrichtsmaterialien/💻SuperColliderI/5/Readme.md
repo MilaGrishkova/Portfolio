@@ -8,6 +8,10 @@ Unterrichtsinhalte:
 > [!TIP]
 > Welches Instrument klingt wie additive Synthese?
 
+> [!IMPORTANT]
+> Additive Synthese = Summe von Oszillatoren
+> Subtraktive Synthese = Quelle + Filter
+
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
