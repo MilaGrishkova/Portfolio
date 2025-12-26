@@ -1,5 +1,7 @@
 SuperCollider I
+
 Sitzung 08
+
 // --------------------------------
 
 1) Lade eine beliebige Audiodatei in einen Buffer b.
