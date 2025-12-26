@@ -134,7 +134,6 @@ SynthDef(\fmTexture, { |out=0, freq=180, modRatio=1.8, index=5,
 }).add;
 )
 
-
 (Synth(\fmTexture, [
     \freq, 120,        // Grundfrequenz (Tonhöhe)
     \modRatio, 3,      // Verhältnis Modulator zu Carrier
@@ -146,7 +145,6 @@ SynthDef(\fmTexture, { |out=0, freq=180, modRatio=1.8, index=5,
     \pan, 0            // Mitte
 ]);
 )
-
 
 s.scope;        // Zeitdarstellung
 s.freqscope;   // Frequenzspektrum
@@ -170,7 +168,6 @@ Synth(\fmTexture, [\freq, 260, \modRatio, 2.5, \index, 7]);
     \index, 9,
     \pan, -0.4
 ]);)
-
 
 // --------------------------------
 // Dieser Synth erzeugt einen dichten Bass-Klang mit Sägezahn-Oszillatoren,
