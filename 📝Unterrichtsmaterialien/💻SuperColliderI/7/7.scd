@@ -151,9 +151,9 @@ SynthDef(\fmTexture, { |out=0, freq=180, modRatio=1.8, index=5,
 s.scope;        // Zeitdarstellung
 s.freqscope;   // Frequenzspektrum
 )
-// =======================================================
+// ---------------------------
 // BEISPIELE
-// =======================================================
+// ---------------------------
 
 // Ruhige FM-Fläche
 Synth(\fmTexture, [\freq, 140]);
@@ -221,8 +221,6 @@ Synth(\synthBass, [\freq, 100, \releaseTime, 3]);
     \end_ffreq, rrand(200, 10000)
 ]);)
 
-
-
 // --------------------------------
 (
 SynthDef(\kick, {|freq=60, pan=0, amp=0.1| 
@@ -230,7 +228,6 @@ var sig = SinOsc.ar(XLine.ar(5, 1, 0.02) * freq);
 sig = sig * EnvGen.ar(Env.perc(0.001, 0.4)); 
 Out.ar(0, Pan2.ar(sig, pan) * amp); 
 }).add;
-
 
 SynthDef(\kick2, {|freq=50, amp=0.5, pan=0|
 	var pitchEnv, ampEnv, body, click, sig;
