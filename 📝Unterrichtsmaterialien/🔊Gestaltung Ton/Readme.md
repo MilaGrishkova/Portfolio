@@ -12,7 +12,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [3. Compressor und Limiter](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/3)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [4. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/4)
+&nbsp;&nbsp;&nbsp;&nbsp;• [4. Aux, Mixer, Parallel Compression](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/4)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [5. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton/5)
 
