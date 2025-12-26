@@ -1,6 +1,6 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Modulationssynthese](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/7/7.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• [SynthDefs](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/7/7.scd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe7](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/7/Hausaufgabe7.scd)
 
