@@ -1,4 +1,9 @@
-Aufgabe1: Eigene Klangquelle
+SuperCollider I – Hausaufgaben Sitzung4
+// --------------------------------
+// Filtren und Osszilatoren
+// --------------------------------
+// Aufgabe1
+// --------------------------------
 1) Initialisiere ProxySpace.
 2) Erstelle eine eigene Klangquelle ~sound.
 3) Verwende mindestens zwei verschiedene Oszillatoren
@@ -6,21 +11,28 @@ Aufgabe1: Eigene Klangquelle
 4) Achte auf eine moderate Amplitude (max. 0.2).
 Ziel: Unterschiedliche Klangquellen kombinieren.
 
-Aufgabe2: Erstelle nacheinander mindestens drei verschiedene Filter:
+// --------------------------------
+// Aufgabe2
+// --------------------------------
+Erstelle nacheinander mindestens drei verschiedene Filter:
 1) einen Tiefpass
 2) einen Hochpass
 3) einen Bandfilter
 4) Steuere die Filterfrequenz mit MouseX.kr.
 Ziel: Hören, wie Filter den Klangcharakter verändern.
 
-Aufgabe3:Vergleich der LFNoise-Typen
+// --------------------------------
+// Aufgabe3
+// --------------------------------
 Erstelle drei Versionen desselben Patches:
 mit LFNoise0
 mit LFNoise1
 mit LFNoise2
-Verwende den Noise zur Modulation der Frequenz oder des Filters.
+Verwende den Noise zur Modulation der Frequenz oder des Filters. Vergleich der LFNoise-Typen
 
-Aufgabe4:
+// --------------------------------
+// Aufgabe4
+// --------------------------------
 Unten siehst du zwei verschiedene Schreibweisen desselben Klangs
 (1. mit einer Funktion mit Argumenten, 2. mit einer globalen Variable).
 1.
@@ -36,7 +48,7 @@ a = {
 ~sound = {(Saw.ar(50) + Saw.ar(150.01) + Saw.ar(250.98) + (Pulse.ar(50) * 0.1)).dup * 0.1}
 ~sound.play
 
-- Schreibe nun ein eigenes Klangbeispiel auf zwei verschiedene Arten:
+- Schreibe ein eigenes Klangbeispiel auf zwei verschiedene Arten:
 Variante A:
 - Schreibe eine Funktion mit arg-Parametern (freq, amp).
 Variante B:
