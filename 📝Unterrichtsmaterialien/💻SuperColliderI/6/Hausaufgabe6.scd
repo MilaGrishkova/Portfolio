@@ -1,5 +1,6 @@
 SuperCollider I
-Hausaufgaben Sitzung 05
+
+Hausaufgaben Sitzung 06
 
 // --------------------------------
 
