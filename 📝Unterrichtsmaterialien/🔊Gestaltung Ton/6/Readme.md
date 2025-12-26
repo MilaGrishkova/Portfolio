@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img width="900" alt="5" src="https://github.com/user-attachments/assets/767e4a8f-81d4-49e1-9f1b-a8aa0ffcebe5 />
+<img width="900" alt="5" src="https://github.com/user-attachments/assets/767e4a8f-81d4-49e1-9f1b-a8aa0ffcebe5" />
 <br>
   <em>05 Praktikum – Folien</em>
 </p>
