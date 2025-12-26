@@ -6,7 +6,7 @@ Unterrichtsinhalte:
 
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Welches Instrument klingt wie additive Synthese?
 
 
 
