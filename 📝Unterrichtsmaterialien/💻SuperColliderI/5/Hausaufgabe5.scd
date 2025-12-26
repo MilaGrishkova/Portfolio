@@ -1,4 +1,5 @@
-SuperCollider I – Hausaufgaben Sitzung5
+SuperCollider I 
+Hausaufgaben Sitzung 05
 // --------------------------------
 // Additive Synthese
 // --------------------------------
