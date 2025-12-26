@@ -1,6 +1,6 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;•[Grundlagen im Supercollider: Variabeln und Sound](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/3/3.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;•[Grundlagen im Supercollider: Variabeln und SinOsc](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/3/3.scd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;•[Hausaufgabe3](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/3/Hausaufgabe3.scd)
 
