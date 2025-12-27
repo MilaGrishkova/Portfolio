@@ -10,15 +10,18 @@
 
 Gerät ausschalten
 Den Mischer mit dem Netzschalter ausschalten
+<br> <br>
 
 > [!NOTE]
 > 📦 Schritt 2:
 
 Zugang zum Dante-Kartenslot
 Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren
+<br> <br>
 
 > [!NOTE]
 > 🔄 Schritt 3: Alte Dante Card entfernen
+<br> <br>
  
 <p align="center">
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7" />
