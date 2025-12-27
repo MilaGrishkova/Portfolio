@@ -1,5 +1,4 @@
-**Einleitung Dante Card Austausch
-
+**Einleitung Dante Card Austausch**
 
 > [!NOTE]
 > Dante Card Austausch
