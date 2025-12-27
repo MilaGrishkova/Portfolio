@@ -5,7 +5,7 @@
 > 
 > oder relevante Themen aus der Welt des Creative Codings.
 
-
+Erstellt eine Präsentation eurer Ideen (ca. 10 Minuten).
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
