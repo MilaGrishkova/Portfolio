@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Zufall in SuperCollider](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/10/10.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe9](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/10/Hausaufgabe10.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe10](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/10/Hausaufgabe10.scd)
 
 > [!TIP]
 > Achte auf Amplitude!
