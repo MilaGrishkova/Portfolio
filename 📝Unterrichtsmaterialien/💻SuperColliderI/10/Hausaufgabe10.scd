@@ -1,6 +1,9 @@
 SuperCollider I
+
 Sitzung 10 Hausaufgabe
+
 // --------------------------------
+
 Aufgabe1:
 Erstelle ein Array von Noten, z. B.: [261.63, 293.66, 329.63, 349.23, 392.00] (C D E F G).
 Verwende Pbind, um 16 Noten abzuspielen.
