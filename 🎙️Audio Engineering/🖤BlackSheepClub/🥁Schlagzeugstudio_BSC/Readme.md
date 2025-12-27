@@ -1,19 +1,4 @@
 **Schlagzeugmikrofonierung**
-
-> [!NOTE]
-> SQ5 Routing
-<br> <br>
-
-
-
-<p align="center">
-<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/03a83c31-5bc3-43cb-887d-8c03d9d71479" />
- <br>
-  <em>Schlagzeugmikrofonierung</em>
-</p>
-<br> <br>
-
-
 > [!NOTE]
 > Mic's:
 13. Kick Drum (shure Beta 52A)
@@ -30,6 +15,15 @@
 <br> <br>
 
 <p align="center">
+<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/03a83c31-5bc3-43cb-887d-8c03d9d71479" />
+ <br>
+  <em>Schlagzeugmikrofonierung</em>
+</p>
+<br> <br>
+
+
+
+<p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/assets/e71c8aef-dda2-49f8-b32f-70ddc726a2a5" />
  <br>
   <em>GX 4816</em>
@@ -42,6 +36,9 @@
 >
 > for Qu*, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
 
+> [!NOTE]
+> SQ5 Routing
+<br> <br>
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/0e6de106-5876-4438-bd18-4f87d84f3946" />
