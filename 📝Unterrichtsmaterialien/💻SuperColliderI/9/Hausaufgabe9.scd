@@ -2,6 +2,7 @@ SuperCollider I
 Sitzung 09 Hausaufgabe
 
 // --------------------------------
+
 Aufgabe1:
 1) Erstelle eine eigene SynthDef (z.B. Sinus oder Saw).
 2) Schreibe einen Pbind, der:
@@ -13,6 +14,7 @@ Hinweis:
 Nutze Pseq(..., 2) statt inf.
 
 // --------------------------------
+
 Aufgabe 2:
 1) Verwende die vorhandene SynthDef (Aufgabe1).
 2) Schreibe einen Pbind, der:
@@ -22,6 +24,7 @@ Aufgabe 2:
 3) Die Sequenz soll unendlich laufen, aber manuell stoppbar sein.
 
 // --------------------------------
+
 Aufgabe 3:
 1) Erstelle einen Task, der:
 - 3 Durchläufe macht (3.do)
