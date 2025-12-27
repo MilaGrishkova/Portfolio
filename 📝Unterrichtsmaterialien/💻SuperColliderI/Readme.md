@@ -23,11 +23,11 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [9. Pbind, Task, Do](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/9)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [10. Task, Do, Routine](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
+&nbsp;&nbsp;&nbsp;&nbsp;• [10. Zufall in SC](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [11. Distortions](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
+&nbsp;&nbsp;&nbsp;&nbsp;• [11. Referat](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [12. Busse](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/12)
+&nbsp;&nbsp;&nbsp;&nbsp;• [12. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/12)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien">
