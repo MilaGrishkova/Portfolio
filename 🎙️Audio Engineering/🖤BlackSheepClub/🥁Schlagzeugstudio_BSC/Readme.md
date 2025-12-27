@@ -1,8 +1,17 @@
-**Schlagzeugmikrophonierung**
+**Schlagzeugmikrofonierung**
 
 > [!NOTE]
 > SQ5 Routing
 <br> <br>
+
+
+<p align="center">
+<img width="700" alt="https://github.com/user-attachments/assets/16ed068f-344e-4511-ba3d-e309fffd492b" />
+ <br>
+  <em>Schlagzeugmikrofonierung</em>
+</p>
+<br> <br>
+
 
 > [!NOTE]
 > Mic's:
