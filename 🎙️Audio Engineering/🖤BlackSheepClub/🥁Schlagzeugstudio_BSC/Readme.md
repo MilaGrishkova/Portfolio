@@ -4,11 +4,6 @@
 > SQ5 Routing
 <br> <br>
 
-
-
-
-
-
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/0e6de106-5876-4438-bd18-4f87d84f3946" />
  <br>
@@ -38,6 +33,11 @@
 > EQ
 <br> <br>
 
+
+> [!NOTE]
+> EQ
+<br> <br>
+
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/2cb8cb16-bc58-49b6-bf19-e56a0ba15816" />
  <br>
@@ -45,23 +45,26 @@
 </p>
 <br> <br>
 
+> [!NOTE]
+> Tiefen (Low End)
+>
+> High-Pass-Filter (HPF): 30–40 Hz
+>
+> Boost bei 50–80 Hz: +3 bis +6 dB
+>
+> Absenkung bei 200–400 Hz: −3 bis −6 dB
+>
+> Reduziert „Mumpf“ und Boxiness
+>
+> Leichte Anhebung bei 2–4 kHz: +2 bis +4 dB
+>
+> Mehr Attack und Durchsetzung
+>
+> Optionaler Boost bei 6–8 kHz: +1 bis +3 dB
+>
+> Mehr Klick / Präsenz (abhängig vom Musikstil)
 
-
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/f806f15a-cb3e-4d32-ba7b-1b64bfc39ea6" />
- <br>
-  <em>EQ: SNARE</em>
-</p>
 <br> <br>
-
-
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/7ce8cbfb-74d0-43ef-ab8a-2323b04f124a" />
- <br>
-  <em>EQ: SNARE BOT</em>
-</p>
-<br> <br>
-
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/f26ef2cd-42f8-45e6-aa1a-08abbab46637" />
@@ -70,6 +73,27 @@
 </p>
 <br> <br>
 
+
+
+> [!NOTE]
+> EQ
+<br> <br>
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/f806f15a-cb3e-4d32-ba7b-1b64bfc39ea6" />
+ <br>
+  <em>EQ: SNARE</em>
+</p>
+<br> <br>
+
+> [!NOTE]
+> EQ
+<br> <br>
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/7ce8cbfb-74d0-43ef-ab8a-2323b04f124a" />
+ <br>
+  <em>EQ: SNARE BOT</em>
+</p>
+<br> <br>
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub">
