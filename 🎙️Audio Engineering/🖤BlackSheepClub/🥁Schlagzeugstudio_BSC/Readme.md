@@ -1,1 +1,11 @@
-
+13. Kick Drum (shure Beta 52A)
+14. Snare main Top (Earthworks)
+15. Snare main Bottom (Beyerdynamic)
+16. Hihat (Shure SM57)
+17. 2nd Snare Top (Earthworks)
+18. Tom 1 (High Tom, Sennheiser e904)
+19. Tom 2 (Sennheiser e904)
+20. Tom 3 (Floortom, Sennheiser e904)
+21. Tom 4 (Floortom, Shure SM57)
+22. Overhead L (Sennheiser e614)
+23. Overhead R (Sennheiser e614)
