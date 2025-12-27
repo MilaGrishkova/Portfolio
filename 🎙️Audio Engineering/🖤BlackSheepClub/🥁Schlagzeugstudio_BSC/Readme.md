@@ -4,14 +4,6 @@
 > SQ5 Routing
 <br> <br>
 
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/0e6de106-5876-4438-bd18-4f87d84f3946" />
- <br>
-  <em>SQ5 Routing</em>
-</p>
-<br> <br>
-
-
 > [!NOTE]
 > Mic's:
 13. Kick Drum (shure Beta 52A)
@@ -26,6 +18,28 @@
 22. Overhead L (Sennheiser e614)
 23. Overhead R (Sennheiser e614)
 <br> <br>
+
+<p align="center">
+<img width="700" alt="Routing" src="https://github.com/user-attachments/assets/1c16ce3c-2623-4831-852a-f6ee9c28c09c" />
+ <br>
+  <em>GX 4816</em>
+</p>
+<br> <br>
+
+> [!NOTE]
+> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
+> is a 96kHz audio expander that provides high-input-count remote expansion
+>
+> for Qu*, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/0e6de106-5876-4438-bd18-4f87d84f3946" />
+ <br>
+  <em>SQ5 Routing</em>
+</p>
+<br> <br>
+
 
 > [!WARNING]
 >  POLARITY
