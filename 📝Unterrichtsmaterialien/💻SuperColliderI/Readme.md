@@ -25,7 +25,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [10. Zufall in SC](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/10)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [11. Referat](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
+&nbsp;&nbsp;&nbsp;&nbsp;• [11. Referate](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/11)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [12. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/12)
 
