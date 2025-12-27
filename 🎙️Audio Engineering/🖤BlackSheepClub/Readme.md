@@ -5,12 +5,13 @@ Dante Card Austausch
 
 
 
-
-https://github.com/user-attachments/assets/2500d76b-ec73-495a-b438-eaf18c4693fd
-
+https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7
 
 
-<img width="1648" height="809" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
+
+
+
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
