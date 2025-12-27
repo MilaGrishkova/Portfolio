@@ -2,7 +2,7 @@ In diesem ????? werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als 
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [SQ5: Dante Card Austausch](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/DanteCard)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🎶[Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🥁[Schlagzeugstudio_BSC](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/🥁Schlagzeugstudio_BSC)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🖥️[Computer Room HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖥%EF%B8%8FComputer%20Room%20HSAnsbach)
 
