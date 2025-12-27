@@ -20,7 +20,7 @@
 <br> <br>
 
 <p align="center">
-<img width="400" alt="Routing" src="https://github.com/user-attachments/assets/1c16ce3c-2623-4831-852a-f6ee9c28c09c" />
+<img width="700" alt="Routing" src="https://github.com/user-attachments/assets/e71c8aef-dda2-49f8-b32f-70ddc726a2a5" />
  <br>
   <em>GX 4816</em>
 </p>
