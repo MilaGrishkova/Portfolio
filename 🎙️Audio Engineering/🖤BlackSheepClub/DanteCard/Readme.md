@@ -5,7 +5,7 @@
  <br> <br>
 
 <p align="center">
-<img width="900" alt="1" src="https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7" />
  <br>
   <em>Dante Card Austausch</em>
 </p>
