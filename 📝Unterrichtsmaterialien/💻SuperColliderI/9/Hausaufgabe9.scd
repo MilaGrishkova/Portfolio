@@ -1,5 +1,6 @@
 SuperCollider I
 Sitzung 09 Hausaufgabe
+
 // --------------------------------
 Aufgabe1:
 1) Erstelle eine eigene SynthDef (z.B. Sinus oder Saw).
@@ -10,6 +11,7 @@ Aufgabe1:
 3) Die Melodie soll automatisch stoppen.
 Hinweis:
 Nutze Pseq(..., 2) statt inf.
+
 // --------------------------------
 Aufgabe 2:
 1) Verwende die vorhandene SynthDef (Aufgabe1).
@@ -18,6 +20,7 @@ Aufgabe 2:
 - \amp, \pan und \len mit Pseq steuert
 - mindestens 8 Noten enthält
 3) Die Sequenz soll unendlich laufen, aber manuell stoppbar sein.
+
 // --------------------------------
 Aufgabe 3:
 1) Erstelle einen Task, der:
