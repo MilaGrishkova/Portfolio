@@ -28,7 +28,10 @@
 <br> <br>
 
 > [!WARNING]
->  POLARITI
+>  POLARITY
+>
+> Überprüfe die Polarität der Mikrofone, die in die entgegengesetzte Richtung zu den Hauptmikrofonen ausgerichtet sind.
+> 
 <br> <br>
 
 <p align="center">
