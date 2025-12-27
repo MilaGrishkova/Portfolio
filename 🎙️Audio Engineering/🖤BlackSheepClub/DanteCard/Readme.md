@@ -40,19 +40,21 @@ Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren
   <em>SQ Dante</em>
 </p>
 <br> <br>
-> SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
-> 
-> 96kHz or 48kHz interface to a Dante network.
 
+SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
+
+96kHz or 48kHz interface to a Dante network.
+<br> <br>
 > [!NOTE]
 > 🔌 Schritt 5: Anschluss und Funktionsprüfung
+
 Netzkabel wieder anschließen
 Den Mischer einschalten
 Dante-Kabel anschließen (Primary Port)
 Im Menü navigieren zu:
 Setup → Audio → I/O Port
 Prüfen, ob die Dante Card korrekt erkannt wird
-
+<br> <br>
 > [!NOTE]
 > 🖥 Schritt 6: Prüfung mit Dante Controller
 Computer mit dem Dante-Netzwerk verbinden
