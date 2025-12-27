@@ -39,6 +39,7 @@ Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren
  <br>
   <em>SQ Dante</em>
 </p>
+<br> <br>
 
 > [!NOTE]
 > SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
