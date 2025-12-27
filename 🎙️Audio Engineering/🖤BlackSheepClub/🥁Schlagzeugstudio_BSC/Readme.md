@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/bdc9ceaa-fb0b-4d04-a1b7-1ba551d85600" />
+<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/03a83c31-5bc3-43cb-887d-8c03d9d71479" />
  <br>
   <em>Schlagzeugmikrofonierung</em>
 </p>
