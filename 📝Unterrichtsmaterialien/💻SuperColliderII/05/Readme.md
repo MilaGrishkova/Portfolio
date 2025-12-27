@@ -12,7 +12,11 @@ Hier kann man es sehen: YouTube.
 > Achte auf Amplitude!
 
 
-
+<p align="center">
+<img width="900" alt="3" src="https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg" />
+<br>
+  <em>03 Sky</em>
+</p>
 ![logo](https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg)
 
 
