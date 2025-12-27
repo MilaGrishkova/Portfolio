@@ -23,14 +23,14 @@ Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zuf�
 <p align="center">
 <img width="400" alt="1" src="https://github.com/MilaGrishkova/Die_Erde_Projekt/raw/main/Erde.png" />
  <br>
-  <em>01 Praktikum – Folien</em>
+  <em>Unity & Vuforia</em>
 </p>
 
 Beispiel:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U), 
+&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube2](https://www.youtube.com/watch?v=R-V_-KbjHTw))
+&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube2](https://www.youtube.com/watch?v=R-V_-KbjHTw)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
