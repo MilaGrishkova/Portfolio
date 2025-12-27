@@ -2,7 +2,7 @@ Unterrichtsinhalte:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Pbind, Task, Do](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/9/9.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe9](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe9.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe9](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/9/Hausaufgabe9.scd)
 
 > [!TIP]
 > Den Pfad zur Audiodatei kann man im Code hinzufügen, indem man sie einfach hinzieht (wie man normale Dateien hinzieht).
