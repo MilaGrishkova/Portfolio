@@ -16,9 +16,12 @@
  <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
  <br>
-  <em>SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel, 96kHz or 48kHz interface to a Dante network.</em>
+  <em>SQ Dante</em>
 </p>
 
+> [!NOTE]
+> SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
+> 96kHz or 48kHz interface to a Dante network.
 
 
  <br>
