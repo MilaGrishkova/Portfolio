@@ -1,5 +1,5 @@
 SuperCollider I
-Sitzung 09
+Sitzung 10
 // --------------------------------
 // Zufall in sclang
 // --------------------------------
