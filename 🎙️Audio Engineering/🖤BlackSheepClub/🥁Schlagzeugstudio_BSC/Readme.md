@@ -14,7 +14,7 @@
 
 > [!NOTE]
 > Mic's:
-
+Ыс
 13. Kick Drum (shure Beta 52A)
 14. Snare main Top (Earthworks)
 15. Snare main Bottom (Beyerdynamic)
@@ -33,10 +33,6 @@
 > EQ
 <br> <br>
 
-
-> [!NOTE]
-> EQ
-<br> <br>
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/2cb8cb16-bc58-49b6-bf19-e56a0ba15816" />
@@ -65,6 +61,14 @@
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/7ce8cbfb-74d0-43ef-ab8a-2323b04f124a" />
  <br>
   <em>EQ: SNARE BOT</em>
+</p>
+<br> <br>
+
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/91755067-3961-43ff-af9b-13b707313946" />
+ <br>
+  <em>EQ: SNARE</em>
 </p>
 <br> <br>
 
