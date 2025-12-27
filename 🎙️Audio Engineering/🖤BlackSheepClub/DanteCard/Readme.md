@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
 
 
-<a href="https://github.com/MilaGrishkova/Portfolio/new/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub)">
+<a href="https://github.com/MilaGrishkova/Portfolio/new/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
 
