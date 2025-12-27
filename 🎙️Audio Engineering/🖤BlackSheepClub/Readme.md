@@ -1,23 +1,10 @@
-[**Einleitung Dante Card Austausch
+In diesem ????? werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
+&nbsp;&nbsp;&nbsp;&nbsp;• [Dante Card Austausch](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/DanteCard)
 
-> [!NOTE]
-> **Pro tools**
+&nbsp;&nbsp;&nbsp;&nbsp;• 🎶[Kleine Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎶Kleine%20Regie%20HSAnsbach)
 
-[Allen & Heath SQ5](https://www.thomann.de/de/allen_heath_sq5.htm?gad_source=1&gad_campaignid=17223483515&gbraid=0AAAAADuDMCU72tHTEH24P9Q5w6gUrwdSV&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BhLxKJf8XKdDtf8xKX1KAPjjRB9RH-MjpzOTDJtMQM_jfrVKdkwGgaAryVEALw_wcB)
-
-Dante Card Austausch
-
-
-
-https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7
-
-
-
-
-
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
-](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/DanteCard)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🖥️[Computer Room HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖥%EF%B8%8FComputer%20Room%20HSAnsbach)
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
