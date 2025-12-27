@@ -1,8 +1,8 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Buffers & Audiofiles](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/8.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Buffers & Audiofiles](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/08/8.scd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe8](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/8/Hausaufgabe8.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgabe8](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/08/Hausaufgabe8.scd)
 
 > [!TIP]
 > Den Pfad zur Audiodatei kann man im Code hinzufügen, indem man sie einfach hinzieht (wie man normale Dateien hinzieht).
