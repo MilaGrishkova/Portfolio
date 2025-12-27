@@ -21,6 +21,7 @@
 
 > [!NOTE]
 > SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
+> 
 > 96kHz or 48kHz interface to a Dante network.
 
 
