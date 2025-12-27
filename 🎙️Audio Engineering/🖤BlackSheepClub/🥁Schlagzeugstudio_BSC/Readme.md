@@ -21,7 +21,11 @@
 </p>
 <br> <br>
 
-
+> [!NOTE]
+> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
+> is a 96kHz audio expander that provides high-input-count remote expansion
+>
+> for Qu*, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
 
 <p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/assets/e71c8aef-dda2-49f8-b32f-70ddc726a2a5" />
@@ -30,11 +34,7 @@
 </p>
 <br> <br>
 
-> [!NOTE]
-> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
-> is a 96kHz audio expander that provides high-input-count remote expansion
->
-> for Qu*, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+
 
 > [!NOTE]
 > SQ5 Routing
