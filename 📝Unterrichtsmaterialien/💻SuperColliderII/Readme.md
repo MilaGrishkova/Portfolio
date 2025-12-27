@@ -5,17 +5,17 @@ In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von Supe
 
 Themen:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [1. SuperCollider und LogicPro I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/01)
+&nbsp;&nbsp;&nbsp;&nbsp;• [1. SuperCollider & LogicPro I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/01)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [2.SuperCollider und LogicPro II](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/02)
+&nbsp;&nbsp;&nbsp;&nbsp;• [2. Plugins in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/02)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [3.Plugins in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/03)
+&nbsp;&nbsp;&nbsp;&nbsp;• [3. AR, Unity & SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/03)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [4. OSC](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/04)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [5. SuperCollider und Unity I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/05)
+&nbsp;&nbsp;&nbsp;&nbsp;• [5. SuperCollider & Unity I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/05)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [6. SuperCollider und Unity II](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/06)
+&nbsp;&nbsp;&nbsp;&nbsp;• [6. SuperCollider & Unity II](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/06)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [7. Referate](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/07)
 
