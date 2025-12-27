@@ -25,7 +25,7 @@ Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zuf�
  <br>
   <em>Unity & Vuforia</em>
 </p>
-
+<br>
 Beispiel:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U)
