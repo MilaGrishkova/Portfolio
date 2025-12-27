@@ -1,7 +1,5 @@
 **Einleitung Dante Card Austausch**
-
-> [!NOTE]
-> [Allen & Heath SQ5](https://www.thomann.de/de/allen_heath_sq5.htm?gad_source=1&gad_campaignid=17223483515&gbraid=0AAAAADuDMCU72tHTEH24P9Q5w6gUrwdSV&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BhLxKJf8XKdDtf8xKX1KAPjjRB9RH-MjpzOTDJtMQM_jfrVKdkwGgaAryVEALw_wcB)
+[Allen & Heath SQ5](https://www.thomann.de/de/allen_heath_sq5.htm?gad_source=1&gad_campaignid=17223483515&gbraid=0AAAAADuDMCU72tHTEH24P9Q5w6gUrwdSV&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BhLxKJf8XKdDtf8xKX1KAPjjRB9RH-MjpzOTDJtMQM_jfrVKdkwGgaAryVEALw_wcB)
 
 <br> <br>
 
