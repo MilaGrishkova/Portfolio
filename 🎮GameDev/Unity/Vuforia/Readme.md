@@ -1,9 +1,6 @@
 # Die Erde (Unity & Vuforia)
 
-Mein Projekt ist ([YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U), [YouTube2](https://www.youtube.com/watch?v=R-V_-KbjHTw))
-
-einerseits
-ein Versuch, die Gegenwart der Sphäre zu hypostasieren. Die [Sphäre](https://de.wikipedia.org/wiki/Sphären_(Sloterdijk)), die am scheitern ist, die ihre Ganzheit verliert. Der Kosmos ist für uns kein Ganzes mehr, weil wir Löcher darin gefunden haben. Die Erde ist nicht das Zentrum vom Universum. Gott ist tot. Wir haben nicht mehr diese gemütliche Welt unter deren Kuppel wir uns zuhause fühlen.
+Das Projekt ist einerseits ein Versuch, die Gegenwart der Sphäre zu hypostasieren. Die [Sphäre](https://de.wikipedia.org/wiki/Sphären_(Sloterdijk)), die am scheitern ist, die ihre Ganzheit verliert. Der Kosmos ist für uns kein Ganzes mehr, weil wir Löcher darin gefunden haben. Die Erde ist nicht das Zentrum vom Universum. Gott ist tot. Wir haben nicht mehr diese gemütliche Welt unter deren Kuppel wir uns zuhause fühlen.
 
 Andererseits
 es ist ein Versuch, die Gegenwart der Sphäre zu hypostasieren, die zusammenbricht, aber erneut scheitert: Sie wird zu einem Simulacrum, einer leeren Sphäre, die immer mehr neue Sphären hervorbringt. Die Sphäre ist der Mittelpunkt, der alles um sich selbst zentriert, der alle neu erzeugten Sphären-Mengen um sich herum zentriert.
@@ -28,3 +25,14 @@ Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zuf�
  <br>
   <em>01 Praktikum – Folien</em>
 </p>
+
+Beispiel:
+
+&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U), 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube2](https://www.youtube.com/watch?v=R-V_-KbjHTw))
+
+
+<a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
+  <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
+</a>
