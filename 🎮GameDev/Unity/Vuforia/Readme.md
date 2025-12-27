@@ -22,8 +22,6 @@ Glitch wurde als eine ["Ästhetik des Scheiterns"](https://de.wikipedia.org/wiki
 Die Hauptmusik ist ein Mix, den ich aus dem NASA-Sound von Jupiter und Kompositionen «The Bug» aus dem Album (Juni 2021) [Return to Solaris](https://phantomlimblabel.bandcamp.com/album/return-to-solaris) by Kevin Richard Martin erstellt habe. 
 
 Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zufällig. Die Klänge wurden in der Glitch - Ästhetik gemacht. Für die benutzte ich Samples aus John Zorn [«Simulacrum»](https://en.wikipedia.org/wiki/Simulacrum). 
-![logo](https://github.com/MilaGrishkova/Die_Erde_Projekt/raw/main/Erde.png)
-
 
 <p align="center">
 <img width="400" alt="1" src="https://github.com/MilaGrishkova/Die_Erde_Projekt/raw/main/Erde.png" />
