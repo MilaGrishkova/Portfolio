@@ -14,7 +14,6 @@
 
 > [!NOTE]
 > Mic's:
-Ыс
 13. Kick Drum (shure Beta 52A)
 14. Snare main Top (Earthworks)
 15. Snare main Bottom (Beyerdynamic)
@@ -28,6 +27,16 @@
 23. Overhead R (Sennheiser e614)
 <br> <br>
 
+> [!WARNING]
+>  POLARITI
+<br> <br>
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/91755067-3961-43ff-af9b-13b707313946" />
+ <br>
+  <em>Schema</em>
+</p>
+<br> <br>
 
 > [!NOTE]
 > EQ
@@ -65,12 +74,6 @@
 <br> <br>
 
 
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/91755067-3961-43ff-af9b-13b707313946" />
- <br>
-  <em>EQ: SNARE</em>
-</p>
-<br> <br>
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub">
