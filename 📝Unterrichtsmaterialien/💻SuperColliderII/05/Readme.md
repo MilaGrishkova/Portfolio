@@ -13,12 +13,10 @@ Hier kann man es sehen: YouTube.
 
 
 <p align="center">
-<img width="900" alt="3" src="https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg" />
+<img width="500" alt="3" src="https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg" />
 <br>
   <em>03 Sky</em>
 </p>
-![logo](https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg)
-
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
