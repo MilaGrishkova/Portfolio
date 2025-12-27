@@ -30,7 +30,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [AR: Unity & Vuforia](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/Vuforia)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Unity.SuperCollider & MotionCapture](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/Vuforia)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Unity, SuperCollider & MotionCapture](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/Vuforia)
 
 
 [🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
