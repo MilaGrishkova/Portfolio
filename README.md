@@ -28,6 +28,9 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [3D Spiel](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel)
 
+&nbsp;&nbsp;&nbsp;&nbsp;• [AR: Unity & Vuforia](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/Vuforia)
+
+
 [🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
