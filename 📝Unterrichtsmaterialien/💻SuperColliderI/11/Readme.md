@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > Denkt über ein eigenes Thema nach, das euch interessiert.
+> 
 > Lasst euch von bestehenden Künstler:innen inspirieren:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• L-Systeme
