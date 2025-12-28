@@ -7,7 +7,7 @@ Here is how it’s done: data (marker positions) is sent to the SuperCollider fr
 Thus, the game is not only a runner, but a real-time musical instrument that can also sound like a Theremin.
 
 <p align="center">
-<img width="500" alt="3" src="https://youtu.be/sJ28qc3-nIM" />
+<img width="700" alt="3" src="https://youtu.be/sJ28qc3-nIM" />
 <br>
   <em>03 Sky</em>
 </p>
