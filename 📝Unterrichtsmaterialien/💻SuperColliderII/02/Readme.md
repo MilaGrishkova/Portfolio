@@ -1,5 +1,4 @@
-*Sampler 
-in SuperColluder
+# Sampler in SuperCollider
 
 
 https://youtu.be/4UfLf6k_EF8
