@@ -12,7 +12,6 @@ m = MIDIOut.new(0);
 	\dur, 0.25
 	).play;
 
-
 ~inst2 = Pbind(
 	\type, \midi,
 	\midicmd, \noteOn,
