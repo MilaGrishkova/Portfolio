@@ -21,6 +21,9 @@ Im Verlauf der Arbeit ließ sich zudem eine Veränderung im Umgang mit Neuem beo
 Die eigenständige Aufnahme von Klangmaterial und dessen Integration in eine Spielstruktur stärkten das Gefühl von Selbstwirksamkeit und Autorschaft. Die Jugendliche nahm sich nicht nur als Ausführende einer Aufgabe wahr, sondern als aktive Gestalterin, die Entscheidungen trifft und den Verlauf sowie das Ergebnis der Tätigkeit beeinflusst.
 Als Ergebnis der Intervention zeigten sich eine Reduktion der situativen Angst im Zusammenhang mit dem Ausprobieren neuer Tätigkeitsformen, eine erhöhte Bereitschaft zum Experimentieren und zur Exploration neuer Erfahrungen, eine positivere emotionale Haltung gegenüber kreativer Aktivität, eine Stärkung des Kompetenz- und Autorschaftsgefühls sowie eine Erweiterung der Wahrnehmungsweisen der Umgebung durch die Entwicklung sensorischer und forschender Aufmerksamkeit.
 <br><br><br>
+
+[UnityCode](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🏓PingPong/UnityCode)
+
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
