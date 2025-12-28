@@ -3,6 +3,12 @@
 
 https://youtu.be/4UfLf6k_EF8
 
+<p align="center">
+<img width="700" alt="love" src="https://github.com/user-attachments/assets/3f3338a5-2777-4b9a-89cc-42ffffadf091" />
+<br>
+  <em>Sampler in SuperCollider</em>
+</p>
+
 
 
 
