@@ -57,7 +57,7 @@ Netzkabel wieder anschließen
 Den Mischer einschalten
 Dante-Kabel anschließen (Primary Port)
 Im Menü navigieren zu:
-Setup → Audio → I/O Port
+Setup - Audio - I/O Port
 Prüfen, ob die Dante Card korrekt erkannt wird
 <br> <br>
 > [!NOTE]
