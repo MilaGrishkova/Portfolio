@@ -2,7 +2,7 @@
 > 🏓 Ping Pong
 
 <p align="center">
-<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/2945a800-c7c6-4b05-83c7-5afd88ea918a9" />
+<img width="300" alt="Sch" src="https://github.com/user-attachments/assets/2945a800-c7c6-4b05-83c7-5afd88ea918a9" />
  <br>
   <em>🏓 Ping Pong</em>
 </p>
