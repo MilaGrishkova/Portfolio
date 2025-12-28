@@ -9,13 +9,13 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [2. Plugins in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/02)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [3. AR: Unity, Vuforia & SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/03)
+&nbsp;&nbsp;&nbsp;&nbsp;• [3. Ambisonic & Supercollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/03)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [4. OSC](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/04)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [5. SuperCollider & Unity I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/05)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [6. SuperCollider & Unity II](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/06)
+&nbsp;&nbsp;&nbsp;&nbsp;• [6. AR: Unity, Vuforia & SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/06)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [7. Referate](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/07)
 
