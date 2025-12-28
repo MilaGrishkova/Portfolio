@@ -11,10 +11,14 @@ Die Erstellung von Spielen ist ein Werkzeug der narrativen Therapie. Spiele enth
 eine Handlung, ähnlich wie Geschichten in therapeutischen Praktiken, durch die man
 schwierige Erfahrungen und Ereignisse in einer sicheren Umgebung erforschen kann.
 
-Das Spiel **„Rubik's Cube“**
+Das Spiel **Rubik's Cube**
 
-![68747470733a2f2f7777772e6970686f6e65732e72752f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6b7562696b5f727562696b2d3030305f726573697a652e6a7067](https://github.com/user-attachments/assets/11684da2-419b-4024-8683-2f17e6b7343d)
-
+<p align="center">
+<img width="700" alt="Sch" src="https://github.com/user-attachments/assets/11684da2-419b-4024-8683-2f17e6b7343d" />
+ <br>
+  <em>🏓 Rubik's Cube</em>
+</p>
+<br> <br>
 
 Im Rahmen des Projekts haben Jugendliche ein Spiel in Unity entwickelt, in dem der
 Rubiks Cube zunächst gemischt ist und die Aufgabe des Spielers darin besteht, ihn
@@ -59,6 +63,8 @@ Beispiel:
 &nbsp;&nbsp;&nbsp;&nbsp;• [Ügendliche*r1](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Ügendliche*r2](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r2)
+
+[Unity_Code](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Unity_Code)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie">
