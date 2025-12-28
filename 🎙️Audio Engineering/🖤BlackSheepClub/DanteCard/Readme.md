@@ -19,7 +19,9 @@ Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren
 <br> <br>
 
 > [!NOTE]
-> 🔄 Schritt 3: Alte Dante Card entfernen
+> 🔄 Schritt 3:
+
+Alte Dante Card entfernen
 <br> <br>
  
 <p align="center">
