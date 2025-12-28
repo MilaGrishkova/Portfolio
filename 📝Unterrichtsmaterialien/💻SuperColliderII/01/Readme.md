@@ -6,7 +6,6 @@
 
 <p align="center">
 <img width="700" alt="Logic1" src="https://github.com/user-attachments/assets/aba862c7-bbe4-4de3-a66e-4345f95ba58b" />
-https://github.com/user-attachments/assets/3f3338a5-2777-4b9a-89cc-42ffffadf091" />
 <br>
   <em>Logic & SuperCollider</em>
 </p>
