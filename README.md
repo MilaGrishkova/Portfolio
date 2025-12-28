@@ -50,6 +50,8 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube) 
 
+&nbsp;&nbsp;&nbsp;&nbsp;• [🏓Ping Pong](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🏓PingPong)
+
 &nbsp;&nbsp;&nbsp;&nbsp;• [PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 
 [🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur):
