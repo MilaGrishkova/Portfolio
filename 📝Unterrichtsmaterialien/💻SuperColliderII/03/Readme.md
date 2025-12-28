@@ -27,8 +27,9 @@ Diese räumliche Verteilung des Klangs verstärkt das Gefühl der Immersion und 
 > Hier kann man es sehen: [Video](https://youtu.be/sJ28qc3-nIM)
 
 # ATK
-[Hier](https://github.com/ambisonictoolkit/atk-sc3) kann man über ATK lesen
+[Hier](https://github.com/ambisonictoolkit/atk-sc3) kann man über ATK lesen.
 
+[Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/03/love.scd) kann man den Code sehen.
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII">
