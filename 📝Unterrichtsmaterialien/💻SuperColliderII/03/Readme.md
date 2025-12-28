@@ -23,9 +23,9 @@ Diese räumliche Verteilung des Klangs verstärkt das Gefühl der Immersion und 
 [Hier](https://github.com/ambisonictoolkit/atk-sc3) kann man über ATK lesen
 
 <p align="center">
-<img width="700" alt="3" src="https://youtu.be/sJ28qc3-nIM" />
+<img width="700" alt="love" src="https://github.com/user-attachments/assets/ebb7a729-af2c-4800-8343-e5c413b90cdd" />
 <br>
-  <em>03 Sky</em>
+  <em>love.scd</em>
 </p>
 
 
