@@ -76,21 +76,6 @@
 
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/f26ef2cd-42f8-45e6-aa1a-08abbab46637" />
- <br>
-  <em>EQ: KICK 2</em>
-</p>
-<br> <br>
-
-
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/f806f15a-cb3e-4d32-ba7b-1b64bfc39ea6" />
- <br>
-  <em>EQ: SNARE</em>
-</p>
-<br> <br>
-
-<p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/7ce8cbfb-74d0-43ef-ab8a-2323b04f124a" />
  <br>
   <em>EQ: SNARE BOT</em>
