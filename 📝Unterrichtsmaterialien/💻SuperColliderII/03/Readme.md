@@ -2,6 +2,13 @@
 
 Das Projekt wurde in der Umgebung SuperCollider unter Verwendung von ambisonischem Klang (Ambisonics) realisiert.
 
+<p align="center">
+<img width="700" alt="love" src="https://github.com/user-attachments/assets/ebb7a729-af2c-4800-8343-e5c413b90cdd" />
+<br>
+  <em>love.scd</em>
+</p>
+
+
 Im Zentrum des Projekts steht die Philosophie des Zufalls als zentrales konzeptuelles Prinzip. 
 Die Arbeit setzt sich mit Fragen auseinander, die die Ungewissheit menschlicher Erfahrung betreffen: Ist die Begegnung mit der Liebe Schicksal oder das Ergebnis zufälliger Ereignisse? 
 Wie lange dauert die Suche bis zu dieser einen Begegnung, und wie viele Versuche sind notwendig, bevor sich eine Beziehung entwickeln kann?
@@ -22,11 +29,6 @@ Diese räumliche Verteilung des Klangs verstärkt das Gefühl der Immersion und 
 # ATK
 [Hier](https://github.com/ambisonictoolkit/atk-sc3) kann man über ATK lesen
 
-<p align="center">
-<img width="700" alt="love" src="https://github.com/user-attachments/assets/ebb7a729-af2c-4800-8343-e5c413b90cdd" />
-<br>
-  <em>love.scd</em>
-</p>
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII">
