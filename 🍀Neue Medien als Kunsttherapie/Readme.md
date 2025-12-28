@@ -10,7 +10,7 @@ Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das E
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• [🟧Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube)
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;• [🏓Ping Pong](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/PingPong)
+&nbsp;&nbsp;&nbsp;&nbsp;• [🏓Ping Pong](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🏓PingPong)
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• [🔘PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 <br><br><br>
