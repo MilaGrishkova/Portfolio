@@ -14,6 +14,40 @@
 23. Overhead R (Sennheiser e614)
 <br> <br>
 
+> [!NOTE]
+> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
+> is a 96kHz audio expander that provides high-input-count remote expansion
+>
+> for Qu, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+
+<p align="center">
+<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360211/Mic.pdf" />
+ <br>
+  <em>Beyerdynamic</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
+> is a 96kHz audio expander that provides high-input-count remote expansion
+>
+> for Qu, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+
+<p align="center">
+<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360212/mic2.pdf" />
+ <br>
+  <em>Shure SM57</em>
+</p>
+<br> <br>
+
+<p align="center">
+<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360229/mic3.pdf" />
+ <br>
+  <em>Earthworks</em>
+</p>
+<br> <br>
+
 <p align="center">
 <img width="700" alt="Sch" src="https://github.com/user-attachments/assets/03a83c31-5bc3-43cb-887d-8c03d9d71479" />
  <br>
@@ -25,7 +59,7 @@
 > [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
 > is a 96kHz audio expander that provides high-input-count remote expansion
 >
-> for Qu*, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+> for Qu, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
 
 <p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/assets/e71c8aef-dda2-49f8-b32f-70ddc726a2a5" />
