@@ -18,7 +18,7 @@
 > Mic: Beyerdynamic
 
 <p align="center">
-<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360211/Mic.pdf" />
+<img width="500" alt="Routing" src="https://github.com/user-attachments/files/24360211/Mic.pdf" />
  <br>
   <em>Beyerdynamic</em>
 </p>
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360212/mic2.pdf" />
+<img width="500" alt="Routing" src="https://github.com/user-attachments/files/24360212/mic2.pdf" />
  <br>
   <em>Shure SM57</em>
 </p>
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-<img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360229/mic3.pdf" />
+<img width="500" alt="Routing" src="https://github.com/user-attachments/files/24360229/mic3.pdf" />
  <br>
   <em>Earthworks</em>
 </p>
