@@ -15,10 +15,7 @@
 <br> <br>
 
 > [!NOTE]
-> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
-> is a 96kHz audio expander that provides high-input-count remote expansion
->
-> for Qu, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+> Mic: Beyerdynamic
 
 <p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360211/Mic.pdf" />
@@ -29,10 +26,8 @@
 
 
 > [!NOTE]
-> [GX 4816](https://www.allen-heath.com/hardware/everything-i-o/gx4816/)
-> is a 96kHz audio expander that provides high-input-count remote expansion
->
-> for Qu, SQ, Avantis and dLive mixing systems, and for AHM audio matrix processors.
+> Mic: Shure SM57
+
 
 <p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360212/mic2.pdf" />
@@ -40,6 +35,10 @@
   <em>Shure SM57</em>
 </p>
 <br> <br>
+
+> [!NOTE]
+> Mic: Shure Earthworks
+
 
 <p align="center">
 <img width="700" alt="Routing" src="https://github.com/user-attachments/files/24360229/mic3.pdf" />
