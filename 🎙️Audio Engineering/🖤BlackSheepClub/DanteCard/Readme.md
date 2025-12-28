@@ -8,20 +8,20 @@
 > 🔌 Schritt 1:
 
 Gerät ausschalten
-Den Mischer mit dem Netzschalter ausschalten
+Den Mischer mit dem Netzschalter ausschalten.
 <br> <br>
 
 > [!NOTE]
 > 📦 Schritt 2:
 
 Zugang zum Dante-Kartenslot
-Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren
+Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren.
 <br> <br>
 
 > [!NOTE]
 > 🔄 Schritt 3:
 
-Alte Dante Card entfernen
+Alte Dante Card entfernen.
 <br> <br>
  
 <p align="center">
@@ -31,7 +31,9 @@ Alte Dante Card entfernen
 </p>
 
 > [!NOTE]
-> ➕ Schritt 4: Neue Dante Card einsetzen
+> ➕ Schritt 4:
+
+Neue Dante Card einsetzen.
  
 <br> <br>
 
@@ -47,7 +49,9 @@ SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
 96kHz or 48kHz interface to a Dante network.
 <br> <br>
 > [!NOTE]
-> 🔌 Schritt 5: Anschluss und Funktionsprüfung
+> 🔌 Schritt 5:
+
+Anschluss und Funktionsprüfung.
 
 Netzkabel wieder anschließen
 Den Mischer einschalten
@@ -57,9 +61,11 @@ Setup → Audio → I/O Port
 Prüfen, ob die Dante Card korrekt erkannt wird
 <br> <br>
 > [!NOTE]
-> 🖥 Schritt 6: Prüfung mit Dante Controller
+> 🖥 Schritt 6:
+
+Prüfung mit Dante Controller
 Computer mit dem Dante-Netzwerk verbinden
-Dante Controller starten
+Dante Controller starten.
 
 
 
