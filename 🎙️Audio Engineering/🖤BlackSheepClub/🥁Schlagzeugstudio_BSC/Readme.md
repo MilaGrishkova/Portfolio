@@ -37,7 +37,7 @@
 <br> <br>
 
 > [!NOTE]
-> Mic: Shure Earthworks
+> Mic: Earthworks
 
 
 <p align="center">
@@ -46,6 +46,11 @@
   <em>Earthworks</em>
 </p>
 <br> <br>
+
+
+> [!NOTE]
+> Mic: Schlagzeugmikrofonierung
+
 
 <p align="center">
 <img width="700" alt="Sch" src="https://github.com/user-attachments/assets/03a83c31-5bc3-43cb-887d-8c03d9d71479" />
