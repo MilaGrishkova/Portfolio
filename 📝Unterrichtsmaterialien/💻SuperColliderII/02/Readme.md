@@ -1,7 +1,7 @@
 # Sampler in SuperCollider
 
 > [!TIP]
-> Hier kann man es sehen: [Video](https://youtu.be/sJ28qc3-nIM](https://youtu.be/4UfLf6k_EF8)
+> Hier kann man es sehen: [Video](https://youtu.be/4UfLf6k_EF8)
 
 
 <p align="center">
