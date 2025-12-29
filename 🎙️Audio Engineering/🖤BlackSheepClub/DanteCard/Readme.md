@@ -118,7 +118,7 @@ Sieht man SQ5?
 Fehlermeldung lesen
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/4f854205-47cf-467c-8a6a-b67796ebad42" />
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/4f854205-47cf-467c-8a6a-b67796ebad42"/>
  <br>
   <em>Fehlermeldung lesen</em>
 </p>
@@ -152,7 +152,7 @@ Netzwerk Manuel einstellen
 
 
 > [!NOTE]
-> 🖥 Schritt 11:
+> 🖥 Schritt 12:
 
 Überprüfen
 
@@ -165,7 +165,7 @@ Netzwerk Manuel einstellen
 
 
 > [!NOTE]
-> 🖥 Schritt 12:
+> 🖥 Schritt 13:
 
 Routing in Dante
 
@@ -177,7 +177,7 @@ Routing in Dante
 <br> <br>
 
 > [!NOTE]
-> 🖥 Schritt 12:
+> 🖥 Schritt 14:
 
 Routing in SQ5 bei PortI (weil wir in Primary 1 eingeschlossen sind)
 
