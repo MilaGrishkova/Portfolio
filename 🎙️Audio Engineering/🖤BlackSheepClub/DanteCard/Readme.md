@@ -102,12 +102,90 @@ Dante Controller starten, beim Primary Port richtige IP auswählen.
 > [!NOTE]
 > 🖥 Schritt 8:
 
-Sieht man SQ5? Nein: 
+Sieht man SQ5? 
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/48eb192f-0822-4a3f-88c2-853efd5703fb" />
  <br>
   <em>Dante Controller</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> 🖥 Schritt 9:
+
+Fehlermeldung lesen
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/4f854205-47cf-467c-8a6a-b67796ebad42" />
+ <br>
+  <em>Fehlermeldung lesen</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> 🖥 Schritt 10:
+
+Netzwerk Manuel einstellen
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/e28f9e33-bdc1-4d5d-abd6-a7dc1d3f200e" />
+ <br>
+  <em>Netzwerk</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> 🖥 Schritt 11:
+
+Netzwerk Manuel einstellen
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/b4e918e5-be4f-408d-afc7-94d794d442eb" />
+ <br>
+  <em>IP eingeben</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> 🖥 Schritt 11:
+
+Überprüfen
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/5640892b-a692-470b-8412-8eb74afba192" />
+ <br>
+  <em>Überprüfen</em>
+</p>
+<br> <br>
+
+
+> [!NOTE]
+> 🖥 Schritt 12:
+
+Routing in Dante
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/96807a10-8cf1-4b6a-af9a-708f1a671b28" />
+ <br>
+  <em>Routing in Dante</em>
+</p>
+<br> <br>
+
+> [!NOTE]
+> 🖥 Schritt 12:
+
+Routing in SQ5 bei PortI (weil wir in Primary 1 eingeschlossen sind)
+
+<p align="center">
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/e87a5285-57cc-48ee-bfac-6b58e5e25e48/>
+
+ <br>
+  <em>Routing in SQ5</em>
 </p>
 <br> <br>
 
