@@ -56,9 +56,7 @@ Anschluss und Funktionsprüfung.
 Netzkabel wieder anschließen
 Den Mischer einschalten
 Dante-Kabel anschließen (Primary Port)
-Im Menü navigieren zu:
-Setup - Audio - I/O Port
-Prüfen, ob die Dante Card korrekt erkannt wird
+
 <br> <br>
 
 
@@ -75,6 +73,7 @@ Prüfen, ob die Dante Card korrekt erkannt wird
 
 Virtual Dante Soundcard starten.
 
+
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/140d9e25-a874-4d97-b9bc-6a8431118269" />
  <br>
@@ -86,7 +85,8 @@ Virtual Dante Soundcard starten.
 > [!NOTE]
 > 🖥 Schritt 7:
 
-Network Status überprüfen: Dante braucht 1Gbps
+Network Status überprüfen: Dante braucht 1Gbps.
+
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/2e4d9785-d01f-4ed0-b52d-0053d045b62b" />
@@ -102,8 +102,9 @@ Network Status überprüfen: Dante braucht 1Gbps
 
 Dante Controller starten, beim Primary Port richtige IP auswählen.
 
+
 <p align="center">
-<img width="700" alt="Dante" src="src="https://github.com/user-attachments/assets/147d6c14-acde-42db-91a7-354986d7abfd" />
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/147d6c14-acde-42db-91a7-354986d7abfd" />
  <br>
   <em>Dante Controller</em>
 </p>
@@ -115,7 +116,7 @@ Dante Controller starten, beim Primary Port richtige IP auswählen.
 Sieht man SQ5? Nein: 
 
 <p align="center">
-<img width="700" alt="https://github.com/user-attachments/assets/48eb192f-0822-4a3f-88c2-853efd5703fb" />
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/48eb192f-0822-4a3f-88c2-853efd5703fb" />
  <br>
   <em>Dante Controller</em>
 </p>
