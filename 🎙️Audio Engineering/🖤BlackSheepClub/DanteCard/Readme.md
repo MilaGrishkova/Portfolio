@@ -118,7 +118,8 @@ Sieht man SQ5?
 Fehlermeldung lesen
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/4f854205-47cf-467c-8a6a-b67796ebad42"/>
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/cfd1a153-4e04-47cc-b098-f16b92d3f90b
+"/>
  <br>
   <em>Fehlermeldung lesen</em>
 </p>
@@ -193,6 +194,7 @@ Routing in SQ5 bei PortI (weil wir in Primary 1 eingeschlossen sind)
  <br>
 </p>
 
+ <br> <br>
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
