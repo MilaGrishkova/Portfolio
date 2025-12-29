@@ -1,4 +1,5 @@
-# Einleitung Dante: Card Austausch, Dante Soundcard, Dante Controller, Netzwerk
+# Einleitung Dante: 
+# Card Austausch, Dante Soundcard, Dante Controller, Netzwerk
 
 [Allen & Heath SQ5](https://www.thomann.de/de/allen_heath_sq5.htm?gad_source=1&gad_campaignid=17223483515&gbraid=0AAAAADuDMCU72tHTEH24P9Q5w6gUrwdSV&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BhLxKJf8XKdDtf8xKX1KAPjjRB9RH-MjpzOTDJtMQM_jfrVKdkwGgaAryVEALw_wcB)
 
@@ -61,7 +62,7 @@ Dante-Kabel anschließen (Primary Port)
 
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/e2644bf7-e7fc-433b-ae02-9f709d63e181" />
  <br>
   <em>SQ5 Dante Primary Port</em>
 </p>
