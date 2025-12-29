@@ -118,7 +118,7 @@ Sieht man SQ5?
 Fehlermeldung lesen
 
 <p align="center">
-<img width="500" alt="Dante" src="https://github.com/user-attachments/assets/bba9bcc3-1045-499b-ba6d-2a07c23f4d39"
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/bba9bcc3-1045-499b-ba6d-2a07c23f4d39"
 />
  <br>
   <em>Fehlermeldung lesen</em>
@@ -183,7 +183,7 @@ Routing in Dante
 > [!NOTE]
 > 🖥 Schritt 14:
 
-Routing in SQ5 bei PortI (weil wir in Primary 1 eingeschlossen sind)
+Routing in SQ5 bei I/O PortI (weil wir in Primary 1 eingeschlossen sind)
 
 <p align="center">
 <img width="700" alt="Dante" src="https://github.com/user-attachments/assets/e87a5285-57cc-48ee-bfac-6b58e5e25e48"/>
@@ -192,10 +192,6 @@ Routing in SQ5 bei PortI (weil wir in Primary 1 eingeschlossen sind)
   <em>Routing in SQ5</em>
 </p>
 <br> <br>
-
-
- <br>
-</p>
 
  <br> <br>
 
