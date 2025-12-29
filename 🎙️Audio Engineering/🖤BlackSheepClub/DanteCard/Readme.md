@@ -1,5 +1,5 @@
-# Einleitung Dante: 
-Card Austausch, Dante Soundcard, Dante Controller, Netzwerk
+# Einleitung Dante: Card Austausch, Dante Soundcard, Dante Controller, Netzwerk
+
 
 [Allen & Heath SQ5](https://www.thomann.de/de/allen_heath_sq5.htm?gad_source=1&gad_campaignid=17223483515&gbraid=0AAAAADuDMCU72tHTEH24P9Q5w6gUrwdSV&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BhLxKJf8XKdDtf8xKX1KAPjjRB9RH-MjpzOTDJtMQM_jfrVKdkwGgaAryVEALw_wcB)
 
@@ -7,23 +7,28 @@ Card Austausch, Dante Soundcard, Dante Controller, Netzwerk
 
 > [!NOTE]
 > 🔌 Schritt 1:
-
+<br>
 Gerät ausschalten
 Den Mischer mit dem Netzschalter ausschalten.
 <br> <br>
 
+
 > [!NOTE]
 > 📦 Schritt 2:
+
 
 Zugang zum Dante-Kartenslot
 Den Slot für optionale Karten auf der Rückseite des SQ5 lokalisieren.
 <br> <br>
 
+
 > [!NOTE]
 > 🔄 Schritt 3:
 
+
 Alte Dante Card entfernen.
 <br> <br>
+
  
 <p align="center">
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/888a7864-ff53-4220-8fe2-dab8615d1ec7" />
