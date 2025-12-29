@@ -115,19 +115,16 @@ Sieht man SQ5?
 > [!NOTE]
 > 🖥 Schritt 9:
 >
-
-![7](https://github.com/user-attachments/assets/bba9bcc3-1045-499b-ba6d-2a07c23f4d39)
-
-
 Fehlermeldung lesen
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/92d0c9b4-1acb-4e39-b8de-e7ef74c797d3
-"/>
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/bba9bcc3-1045-499b-ba6d-2a07c23f4d39)
+/>
  <br>
-  <em>Fehlermeldung lesen</em>
+  <em>Dante Controller</em>
 </p>
 <br> <br>
+
 
 
 > [!NOTE]
