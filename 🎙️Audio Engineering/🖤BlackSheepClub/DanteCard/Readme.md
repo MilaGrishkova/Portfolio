@@ -42,9 +42,9 @@ Alte Dante Card entfernen.
 Neue Dante Card einsetzen.
 Anschluss und Funktionsprüfung.
 <br>
-Netzkabel wieder anschließen
-Den Mischer einschalten
-Dante-Kabel anschließen (Primary Port)
+Netzkabel wieder anschließen.
+Den Mischer einschalten.
+Dante-Kabel anschließen (Primary Port).
 
 <br> <br>
 
@@ -58,7 +58,7 @@ Dante-Kabel anschließen (Primary Port)
 
 
 > [!NOTE]
-> 🖥 Schritt 6:
+> 🖥 Schritt 5:
 <br>
 Virtual Dante Soundcard starten.
 <br><br>
@@ -72,7 +72,7 @@ Virtual Dante Soundcard starten.
 
 
 > [!NOTE]
-> 🖥 Schritt 7:
+> 🖥 Schritt 6:
 <br>
 Network Status überprüfen: Dante braucht 1Gbps.
 <br><br>
@@ -87,7 +87,7 @@ Network Status überprüfen: Dante braucht 1Gbps.
 
 
 > [!NOTE]
-> 🖥 Schritt 8:
+> 🖥 Schritt 7:
 
 Dante Controller starten, beim Primary Port richtige IP auswählen.
 
@@ -100,7 +100,7 @@ Dante Controller starten, beim Primary Port richtige IP auswählen.
 <br> <br>
 
 > [!NOTE]
-> 🖥 Schritt 9:
+> 🖥 Schritt 8:
 
 Sieht man SQ5? Nein: 
 
