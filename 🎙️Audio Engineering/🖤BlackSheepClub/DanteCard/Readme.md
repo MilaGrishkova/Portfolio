@@ -118,7 +118,7 @@ Sieht man SQ5?
 Fehlermeldung lesen
 
 <p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/cfd1a153-4e04-47cc-b098-f16b92d3f90b
+<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/92d0c9b4-1acb-4e39-b8de-e7ef74c797d3
 "/>
  <br>
   <em>Fehlermeldung lesen</em>
