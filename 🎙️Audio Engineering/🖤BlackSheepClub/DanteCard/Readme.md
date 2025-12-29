@@ -40,24 +40,6 @@ Alte Dante Card entfernen.
 > ➕ Schritt 4:
 <br>
 Neue Dante Card einsetzen.
- 
-<br> <br>
-
-<p align="center">
-<img width="700" alt="Dante" src="https://github.com/user-attachments/assets/dec9b9f0-5990-4385-92fc-a3aeedfe18cc" />
- <br>
-  <em>SQ Dante</em>
-</p>
-<br> <br>
-
-SQ Dante provides any SQ mixer or AHM processor with a full 64×64 channel,
-<br>
-96kHz or 48kHz interface to a Dante network.
-<br> <br>
-
-> [!NOTE]
-> 🔌 Schritt 5:
-<br>
 Anschluss und Funktionsprüfung.
 <br>
 Netzkabel wieder anschließen
