@@ -10,7 +10,7 @@ Unterrichtsinhalte:
 
 
 > [!NOTE]
-> 🔊 Buffers & Audiofiles. 
+> 🔂 Pbind, Task, Do
 
 <br> <br>
 <p align="center">
