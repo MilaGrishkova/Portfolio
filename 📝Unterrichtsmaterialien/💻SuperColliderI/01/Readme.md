@@ -35,7 +35,7 @@ Supercollider
 
  
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/534c37e3-8a0c-4252-8788-8fc61269a8c1" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/f7b1ff2e-041b-48d0-a8f2-fc2f2dd4d342" />
  <br>
   <em>Lehrplan</em>
 </p>
@@ -49,38 +49,11 @@ Wintersemeste, Sommersemester, Kriterien fürs Bestehen des Kurses.
 
  
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/90c87108-5128-4077-bde3-33177b0b4208" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/af558767-edd3-44f3-8534-bf7e6b425eb2" />
  <br>
   <em>Semesterbeschreibung</em>
 </p>
 
-
-> [!NOTE]
-> 📝 Wintersemester:
-<br>
-
-Wintersemester
-<br> <br>
-
-<p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/6e1b9bd0-78b8-429f-a2c3-7035b7df2be7" />
- <br>
-  <em>Wintersemester</em>
-</p>
-
-
-> [!NOTE]
-> 📝 Sommersemester:
-<br>
-
-Sommersemester
-<br> <br>
-
-<p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/87b1c5b0-56d4-4d08-baf9-57c5d6835998" />
- <br>
-  <em>Sommersemester</em>
-</p>
 
 > [!NOTE]
 > 📝 Kriterien fürs Bestehen des Kurses:
@@ -90,10 +63,51 @@ Hausaufgaben werden nicht bewerten
 <br> <br>
 
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/2bcfd8ce-5b9f-4fa6-950f-c7b3133e4da7" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/ec88c480-48f4-4df3-8c6b-fc8499c51313" />
  <br>
   <em>Kriterien fürs Bestehen des Kurses</em>
 </p>
+
+
+> [!NOTE]
+> 📝 Über mich:
+<br>
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/2c9384cf-6ce5-4fba-8f69-b49abd2928d4" />
+ <br>
+  <em>Über mich</em>
+</p>
+
+
+> [!NOTE]
+> 📝 Email
+<br>
+
+Schreibt mir gerne
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/a778cc5b-5233-400b-b92b-032ed7c2125b" />
+ <br>
+  <em>Email Adresse</em>
+</p>
+
+
+> [!NOTE]
+> 📝 Kriterien fürs Bestehen des Kurses:
+<br>
+
+Hausaufgaben werden nicht bewerten
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/ec88c480-48f4-4df3-8c6b-fc8499c51313" />
+ <br>
+  <em>Kriterien fürs Bestehen des Kurses</em>
+</p>
+
+
+
 
 
 
