@@ -8,6 +8,19 @@ Unterrichtsinhalte:
 > [!TIP]
 > Achte auf Amplitude (z.B. 0.2)
 
+> [!NOTE]
+> 🎵 Oszillatoren. 
+
+<br> <br>
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtube.com/shorts/ofbSuhgzlS8">
+  <img width="300" src="https://github.com/user-attachments/assets/85523c25-c9da-4c6a-88d0-80402908c1eb" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
