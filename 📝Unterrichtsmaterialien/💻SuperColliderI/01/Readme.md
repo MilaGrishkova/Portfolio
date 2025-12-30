@@ -3,6 +3,11 @@ Unterrichtsinhalte:
 &nbsp;&nbsp;&nbsp;&nbsp;• [SuperCollider Überblick](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/01/1.scd)
 
 
+SuperCollider Downloads:
+
+&nbsp;&nbsp;&nbsp;&nbsp;• [SuperCollider Downloads](https://supercollider.github.io/downloads.html)
+
+
 Literatur:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Thor Magnus - Scoring Sound: Creative Music Coding with SuperCollider](https://github.com/thormagnusson/scoring/tree/master)
