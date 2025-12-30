@@ -5,7 +5,7 @@ Unterrichtsinhalte:
 
 Literatur:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Thor Magnus: Scoring Sound: Creative Music Coding with SuperCollider](https://github.com/thormagnusson/scoring/tree/master)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Thor Magnus. Scoring Sound: Creative Music Coding with SuperCollider](https://github.com/thormagnusson/scoring/tree/master)
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
