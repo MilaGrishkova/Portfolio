@@ -27,7 +27,7 @@ Literatur:
 
 
 > [!NOTE]
-> 🔄 Lehrplan:
+> 📝 Lehrplan:
 <br>
 
 Supercollider
@@ -41,10 +41,10 @@ Supercollider
 </p>
 
 > [!NOTE]
-> 🔄 Semesterbeschreibung:
+> 📝 Semesterbeschreibung:
 <br>
 
-Supercollider
+Wintersemeste, Sommersemester, Kriterien fürs Bestehen des Kurses.
 <br> <br>
 
  
@@ -53,6 +53,53 @@ Supercollider
  <br>
   <em>Semesterbeschreibung</em>
 </p>
+
+
+> [!NOTE]
+> 📝 Wintersemester:
+<br>
+
+Wintersemester
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/6e1b9bd0-78b8-429f-a2c3-7035b7df2be7" />
+ <br>
+  <em>Wintersemester</em>
+</p>
+
+
+> [!NOTE]
+> 📝 Sommersemester:
+<br>
+
+Sommersemester
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/87b1c5b0-56d4-4d08-baf9-57c5d6835998" />
+ <br>
+  <em>Sommersemester</em>
+</p>
+
+> [!NOTE]
+> 📝 Kriterien fürs Bestehen des Kurses:
+<br>
+
+Hausaufgaben werden nicht bewerten
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/2bcfd8ce-5b9f-4fa6-950f-c7b3133e4da7" />
+ <br>
+  <em>Kriterien fürs Bestehen des Kurses</em>
+</p>
+
+
+
+> [!NOTE]
+> [PDF](https://github.com/user-attachments/files/24382453/Black.and.White.Geometric.Technology.Keynote.Presentation.pdf)
+
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
