@@ -9,7 +9,8 @@ Unterrichtsinhalte:
 <br>
 
 Math in SuperCollider. 
-👇👇👇 Klick auf das Bild, um das Video zu schauen👇👇👇.
+
+👇👇👇 Klick auf das Bild, um das Video zu schauen👇👇👇
 <br> <br>
 <p align="center">
 <a href="https://youtube.com/shorts/tm41MQQ8r9A?feature=share">
