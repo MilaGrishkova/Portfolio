@@ -20,7 +20,7 @@ Unterrichtsinhalte:
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
 <a href="https://youtube.com/shorts/VmhQ-6sswdk">
-  <img width="300" alt="1" src="SinOsc" src="https://github.com/user-attachments/assets/eee4eb02-4842-4521-bcb2-828789b15f61" />
+  <img width="300" src="https://github.com/user-attachments/assets/eee4eb02-4842-4521-bcb2-828789b15f61" />
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
