@@ -7,6 +7,8 @@ Unterrichtsinhalte:
 > [!TIP]
 > Achte auf Amplitude!
 
+<br> 
+
 > [!NOTE]
 > ➰ Modulationssynthese. 
 
