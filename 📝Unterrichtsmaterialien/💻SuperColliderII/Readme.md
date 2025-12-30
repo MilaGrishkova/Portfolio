@@ -17,13 +17,13 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [6. AR: Unity, Vuforia & SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/06)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [7. Referate](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/07)
+&nbsp;&nbsp;&nbsp;&nbsp;• [7. LiveCodingI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/07)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [8. Referate](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/08)
+&nbsp;&nbsp;&nbsp;&nbsp;• [8. LiveCodingII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/08)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [9. LiveCoding](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/09)
+&nbsp;&nbsp;&nbsp;&nbsp;• [9. Show and tell](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/09)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [10. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/10)
+&nbsp;&nbsp;&nbsp;&nbsp;• [10. Show and tell](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/10)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [11. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/11)
 
