@@ -8,14 +8,15 @@ Unterrichtsinhalte:
 > 📝 Lehrplan:
 <br>
 
-Math in SuperCollider
+Math in SuperCollider. 
+👇👇👇 Klick auf das Bild, um das Video zu schauen👇👇👇.
 <br> <br>
 <p align="center">
 <a href="https://youtube.com/shorts/tm41MQQ8r9A?feature=share">
-  <img width="700" alt="1" src="https://github.com/user-attachments/assets/6d93f08c-c62c-4860-b9b3-1d881d7165cd" />
+  <img width="300" alt="1" src="https://github.com/user-attachments/assets/6d93f08c-c62c-4860-b9b3-1d881d7165cd" />
  <br>
 </a>
- <em>Video</em>
+ <em>☝️☝️☝️Klick auf das Bild, um das Video zu schauen☝️☝️☝️</em>
 </p>
  
 
