@@ -1,6 +1,6 @@
 Unterrichtsinhalte:
 
-&nbsp;&nbsp;&nbsp;&nbsp;• 🔎 [SuperCollider Überblick](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/01/1.scd)
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔎 [SuperCollider Überblick. Code:](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/01/1.scd)
 
 
 
