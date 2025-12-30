@@ -25,6 +25,38 @@ Literatur:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Iannis Zannos - A Very Step-By-Step Guide to SuperCollider](https://opencourses.ionio.gr/modules/document/file.php/DAVA257/StepByStepS_IZ061003.pdf)
 
+
+> [!NOTE]
+> 🔄 Lehrplan:
+<br>
+
+Supercollider
+<br> <br>
+
+ 
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/534c37e3-8a0c-4252-8788-8fc61269a8c1" />
+ <br>
+  <em>Lehrplan</em>
+</p>
+
+> [!NOTE]
+> 🔄 Semesterbeschreibung:
+<br>
+
+Supercollider
+<br> <br>
+
+ 
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/90c87108-5128-4077-bde3-33177b0b4208" />
+ <br>
+  <em>Semesterbeschreibung</em>
+</p>
+
+
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
+
+
