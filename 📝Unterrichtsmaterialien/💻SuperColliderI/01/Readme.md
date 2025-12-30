@@ -73,7 +73,8 @@ Hausaufgaben werden nicht bewerten
 > 📝 Über mich:
 <br>
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/2c9384cf-6ce5-4fba-8f69-b49abd2928d4" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/e6af53eb-4319-4db5-9c95-e7b6f1c2c5fa
+" />
  <br>
   <em>Über mich</em>
 </p>
