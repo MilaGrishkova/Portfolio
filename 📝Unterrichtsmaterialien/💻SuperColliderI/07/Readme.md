@@ -10,7 +10,7 @@ Unterrichtsinhalte:
 <br> 
 
 > [!NOTE]
-> ➰ Modulationssynthese. 
+> 🎶 SynthDefs. 
 
 <br> <br>
 <p align="center">
