@@ -106,15 +106,96 @@ Hausaufgaben werden nicht bewerten
   <em>Kriterien fürs Bestehen des Kurses</em>
 </p>
 
+> [!NOTE]
+> 📝 Gruppenvorstellung:
+<br>
 
+Erfahrung? Erwartungen?
+<br> <br>
 
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/d66b1c7b-d0eb-4e1e-b0b2-cf9236532927" />
+ <br>
+  <em>Gruppenvorstellung</em>
+</p>
 
+> [!NOTE]
+> 📝 Loss geht's:
+<br>
+
+SuperCollider
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/4647fc91-5317-4a8c-8cff-9dfc2242ba7b" />
+ <br>
+  <em>Start</em>
+</p>
 
 
 > [!NOTE]
-> [PDF](https://github.com/user-attachments/files/24382453/Black.and.White.Geometric.Technology.Keynote.Presentation.pdf)
+> 📝 Installiert SuperCollider
+<br>
+
+SuperCollider
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/0fc500d6-48b8-4e87-b0fa-a20628210e3d" />
+ <br>
+  <em>Link</em>
+</p>
 
 
+> [!NOTE]
+> 📝 Was ist das?
+<br>
+
+SuperCollider
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/65dce15a-fed6-40cf-83c2-a121911ce5ab" />
+ <br>
+  <em>SuperCollider</em>
+</p>
+
+
+> [!NOTE]
+> 📝 Sicherheitshinweise
+<br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/c4b9d305-4445-4c34-b9d0-4dc4f48a90df" />
+ <br>
+  <em>Sicherheitshinweise</em>
+</p>
+
+
+> [!NOTE]
+> 📝 SuperCollider Shortcuts:
+<br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/330f5d6a-ee06-42da-9c9d-198fb1397681" />
+ <br>
+  <em>SuperCollider Shortcuts</em>
+</p>
+
+
+> [!NOTE]
+> 📝 Übungen:
+<br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/5188b80d-d0d2-45b0-9cc2-bca4baf2dbe5" />
+ <br>
+  <em>Übungen</em>
+</p>
+
+
+> [!NOTE]
+> [PDF](https://github.com/user-attachments/files/24383154/1.pdf)
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
