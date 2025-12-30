@@ -11,7 +11,7 @@ Literatur:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Bruno Ruviaro - A Gentle Introduction to SuperCollider](https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Technische Universität Berlin - TU Berlin](http://abartetzki.users.ak.tu-berlin.de/remote/images/sc-tutorial.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Technische Universität Berlin - SuperCollider](http://abartetzki.users.ak.tu-berlin.de/remote/images/sc-tutorial.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Supercollider: Einstieg & Übersicht](https://curdt.home.hdm-stuttgart.de/PDF/Supercollider.pdf)
 
