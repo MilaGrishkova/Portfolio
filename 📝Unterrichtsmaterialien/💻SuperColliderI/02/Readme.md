@@ -15,7 +15,7 @@ Math in SuperCollider
 <p align="center">
 <img width="400" alt="1" src="https://github.com/user-attachments/assets/6d93f08c-c62c-4860-b9b3-1d881d7165cd" />
  <br>
-  <em> [Hier](https://youtube.com/shorts/tm41MQQ8r9A?feature=share) kann man Video sehen</em>
+  <em> [YouTube1](https://youtube.com/shorts/tm41MQQ8r9A?feature=share) kann man Video sehen</em>
 </p>
 
 
