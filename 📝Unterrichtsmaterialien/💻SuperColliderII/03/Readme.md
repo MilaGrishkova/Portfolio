@@ -1,4 +1,4 @@
-# Love
+# Zufall in SuperCollider
 
 Das Projekt wurde in der Umgebung SuperCollider unter Verwendung von ambisonischem Klang (Ambisonics) realisiert.
 
