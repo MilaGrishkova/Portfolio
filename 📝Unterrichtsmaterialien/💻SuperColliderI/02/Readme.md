@@ -5,7 +5,7 @@ Unterrichtsinhalte:
 &nbsp;&nbsp;&nbsp;&nbsp;• 🏠[Hausaufgaben 2](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderI/02/Hausaufgabe2.scd)
 
 
-[[Mathematik im Supercollider](https://youtube.com/shorts/tm41MQQ8r9A?feature=share)
+[Mathematik im Supercollider](https://youtube.com/shorts/tm41MQQ8r9A?feature=share)
 
 
 
