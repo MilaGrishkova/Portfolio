@@ -21,9 +21,9 @@ Math in SuperCollider
 
 <br> <br>
 <p align="center">
-<img width="700" alt="1" src="https://youtube.com/shorts/tm41MQQ8r9A?feature=share" />
+<img width="700" alt="1" src="https://youtube.com/shorts/tm41MQQ8r9A?feature=share"/>
  <br>
-  <em>Dante Card Austausch</em>
+  <em>Video</em>
 </p>
 
 
