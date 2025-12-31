@@ -24,13 +24,31 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [Genelec Speakers](https://www.genelec.de/lautsprecher)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [Fohhn Speakers](https://www.fohhn.com/de/technologien/fohhn-beam-steering-technologie)
+<br> <br>
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/808866e0-5f83-4448-8bac-97e01c6feb64" />
+ <br>
+  <em>🔊Fohhn Speakers</em>
+</p>
+<br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Nexus](http://www.avmexico.mx/pdf/NEXUS_web.pdf)
+<br> <br>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Dante](https://www.getdante.com/products/software-essentials/dante-controller/)
+<br> <br>
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/53c6aeb7-867a-40ba-b833-b79d3a767306" />
+ <br>
+  <em>✅ Dante Routing </em>
+</p>
+<br> <br>
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🌀 [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/)
-
+<br> <br>
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/e7bbf7aa-dd05-4f63-808d-4264c68f145c" />
  <br>
