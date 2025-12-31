@@ -1,11 +1,7 @@
 > [!NOTE]
 > In diesem Bereich
 
-werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
-
-&nbsp;&nbsp;&nbsp;&nbsp;• 🎚️[SQ5: Dante Card Austausch](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/DanteCard)
-
-&nbsp;&nbsp;&nbsp;&nbsp;• 🥁[Schlagzeugstudio_BSC](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub/🥁Schlagzeugstudio_BSC)
+wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
 > [!NOTE]
 > Große Regie Hochschule Ansbach
@@ -16,6 +12,29 @@ werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin
   <em>🎵Große Regie Hochschule Ansbach/em>
 </p>
 <br> <br>
+
+> [!NOTE]
+> Die Technik:
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🎚️ [Avatus: Stagetec](https://www.stagetec.com/en/avatus.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [PMC Speakers](https://pmc-speakers.com)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [Genelec Speakers](https://www.genelec.de/lautsprecher)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [Fohhn Speakers](https://www.fohhn.com/de/technologien/fohhn-beam-steering-technologie)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Nexus](http://www.avmexico.mx/pdf/NEXUS_web.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Dante](https://www.getdante.com/products/software-essentials/dante-controller/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🌀 [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [ProTools](https://www.avid.com/pro-tools)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [Reaper](https://www.reaper.fm/download.php)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [LogicPro](https://www.apple.com/logic-pro/)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
