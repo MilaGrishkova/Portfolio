@@ -31,6 +31,13 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🌀 [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/)
 
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/e7bbf7aa-dd05-4f63-808d-4264c68f145c" />
+ <br>
+  <em>🎵Große Regie Hochschule Ansbach</em>
+</p>
+<br> <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [ProTools](https://www.avid.com/pro-tools)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [Reaper](https://www.reaper.fm/download.php)
