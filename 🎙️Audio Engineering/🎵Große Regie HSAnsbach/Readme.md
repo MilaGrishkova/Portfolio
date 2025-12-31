@@ -10,7 +10,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/c5abd9d9-62f3-45a8-b89b-ebbadc82a96f" />
  <br>
-  <em>🎵Große Regie Hochschule Ansbach</em>
+  <em>🎵 Große Regie Hochschule Ansbach</em>
 </p>
 <br> <br>
 
@@ -28,13 +28,18 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/808866e0-5f83-4448-8bac-97e01c6feb64" />
  <br>
-  <em>🔊Fohhn Speakers</em>
+  <em>🔊 Fohhn Speakers</em>
 </p>
 <br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Nexus](http://www.avmexico.mx/pdf/NEXUS_web.pdf)
 <br> <br>
-
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/62cea22b-ca49-4ba2-81e7-0edc11c3d985" />
+ <br>
+  <em>✅ Nexus</em>
+</p>
+<br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Dante](https://www.getdante.com/products/software-essentials/dante-controller/)
 <br> <br>
