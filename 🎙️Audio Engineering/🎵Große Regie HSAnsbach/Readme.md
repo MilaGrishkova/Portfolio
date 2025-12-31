@@ -52,7 +52,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/e7bbf7aa-dd05-4f63-808d-4264c68f145c" />
  <br>
-  <em>🎵Große Regie Hochschule Ansbach</em>
+  <em>🌀 Dolby Atmos</em>
 </p>
 <br> <br>
 
