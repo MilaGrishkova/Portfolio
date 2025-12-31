@@ -3,13 +3,14 @@
 
 wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
+
 > [!NOTE]
 > Große Regie Hochschule Ansbach
 
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/c5abd9d9-62f3-45a8-b89b-ebbadc82a96f" />
  <br>
-  <em>🎵Große Regie Hochschule Ansbach/em>
+  <em>🎵Große Regie Hochschule Ansbach</em>
 </p>
 <br> <br>
 
