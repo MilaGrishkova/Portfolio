@@ -11,7 +11,7 @@ werden Tonstudios vorgestellt, die ich in meiner Tätigkeit als Audioingenieurin
 > Große Regie Hochschule Ansbach
 
 <p align="center">
-<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/fa9143a8-e224-4901-9584-5fceaebba45e" />
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/c5abd9d9-62f3-45a8-b89b-ebbadc82a96f" />
  <br>
   <em>🎵Große Regie Hochschule Ansbach/em>
 </p>
