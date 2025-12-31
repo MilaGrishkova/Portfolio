@@ -18,6 +18,13 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 > Die Technik:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🎚️ [Avatus: Stagetec](https://www.stagetec.com/en/avatus.html)
+<br> <br>
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/00c63cab-29a7-431c-a5b8-d2b71d7edd63" />
+ <br>
+  <em>🎚️ Avatus: Stagetec</em>
+</p>
+<br> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔊 [PMC Speakers](https://pmc-speakers.com)
 
