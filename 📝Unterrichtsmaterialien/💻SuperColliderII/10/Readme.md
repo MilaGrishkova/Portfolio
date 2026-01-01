@@ -10,6 +10,26 @@ Gleichzeitig kann das Seminar auch als eigenständige Veranstaltung bestehen, di
 
 Ziel des Seminars ist die Schaffung einer freundlichen und sicheren Umgebung, die kreatives Denken, Wissensaustausch und Inspiration fördert sowie die Sicherheit der Teilnehmenden im Präsentieren eigener Ideen und Projekte stärkt.
 
+> [!IMPORTANT]
+> Denkt über ein eigenes Thema nach, das euch interessiert.
+> 
+> Lasst euch von bestehenden Künstler:innen inspirieren:
+
+&nbsp;&nbsp;&nbsp;&nbsp;• L-Systeme
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Zelluläre Automaten
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Sonifikation von Prozessen unserer Umwelt
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Live-Coding
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Netzwerkmusik
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Generative Grafik
+
+
+Erstellt eine Präsentation eurer Ideen (ca. 10 Minuten).
+
 > [!NOTE]
 > 📝 Email
 <br>
