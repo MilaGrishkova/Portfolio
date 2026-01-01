@@ -12,7 +12,8 @@ Ein besonderer Fokus liegt auf Prozesshaftigkeit, gemeinsamer Exploration und de
 <br>
 > [!TIP]
 > Achte auf Amplitude (z.B. 0.2)
-<br>
+
+
 > [!NOTE]
 > 🤩 Live Coding 
 
