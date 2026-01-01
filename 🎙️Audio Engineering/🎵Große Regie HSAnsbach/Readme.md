@@ -8,6 +8,16 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 > Große Regie Hochschule Ansbach
 
 <p align="center">
+<img width="500" alt="Schema" src="https://github.com/user-attachments/assets/5ce79652-0223-43e7-a92f-d4acbbe61551" />
+ <br>
+  <em> 🔀  Schema: Systemverbindung</em>
+</p>
+<br> <br>
+
+
+
+
+<p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/c5abd9d9-62f3-45a8-b89b-ebbadc82a96f" />
  <br>
   <em>🎵 Große Regie Hochschule Ansbach</em>
