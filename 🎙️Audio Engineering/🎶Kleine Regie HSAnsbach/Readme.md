@@ -24,6 +24,17 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 </p>
 <br> <br>
 
+
+
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/4d78bb2f-582b-4234-b57a-b3408575f63a" />
+ <br>
+  <em> Anschlusskasten </em>
+</p>
+<br> <br>
+
+
+
 > [!NOTE]
 > Die Technik:
 
