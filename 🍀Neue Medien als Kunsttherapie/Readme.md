@@ -1,7 +1,10 @@
 📝 In diesem Bereich präsentiere ich ausgewählte Beispiele dieser Form der Art-Therapie mithilfe von Computerspielen, selbstverständlich in anonymisierter Form.
 
+❇️ In meiner professionellen kunsttherapeutischen Arbeit mit Jugendlichen wende ich Ansätze an, die auf dem Einsatz neuer Medien basieren. 
 
-❇️ In meiner psychologischen Praxis setze ich Neue Medien gezielt als Methode der Art-Therapie ein.
+Der Einsatz von Audio, Musik, Sounddesign, Foley und Computerspielen schafft Rahmenbedingungen für eine sichere Auseinandersetzung mit Emotionen, Prozessen der Identitätsentwicklung sowie individuellen Lebenserfahrungen. 
+
+Dieser Ansatz fördert die Entwicklung kreativer, reflexiver und kommunikativer Kompetenzen und steigert zugleich die Motivation und Beteiligung der Jugendlichen am therapeutischen Prozess, indem er an eine Medienwelt anknüpft, die ihrem alltäglichen Erfahrungsraum nahekommt.
 
 Durch das Gestalten von Computerspielen🎮, das Komponieren von Musik und das Entwickeln von Sounddesign für Games arbeiten Jugendliche mit spielerischen und kreativen Ausdrucksformen. 
 
