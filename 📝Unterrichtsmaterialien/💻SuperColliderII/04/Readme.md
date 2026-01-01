@@ -3,9 +3,9 @@
 
 
 <p align="center">
-<img width="700" alt="Logic1" src="https://github.com/user-attachments/assets/aba862c7-bbe4-4de3-a66e-4345f95ba58b" />
+<img width="700" alt="Logic1" src="https://github.com/user-attachments/assets/ad08ae07-38ae-41b5-96ae-5a07ef37b4e6" />
 <br>
-  <em>OSC</em>
+  <em>[OSC](https://doc.sccode.org/Guides/ClientVsServer.html)</em>
 </p>
 
 
@@ -21,9 +21,9 @@
 
 
 > [!TIP]
-> Hier kann man ein Beispiel sehen: [Video](https://www.youtube.com/watch?v=lG5v_TIJTh8)
-> [!TIP]
-> [Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/02/Sampler.scd) kann man den Code sehen.
+> [Hier](https://www.youtube.com/watch?v=lG5v_TIJTh8) kann man ein Beispiel sehen
+> 
+> [Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/04/4.scd) kann man den Code sehen.
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
