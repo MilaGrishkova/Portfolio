@@ -10,7 +10,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Schema" src="https://github.com/user-attachments/assets/51d5f07d-c195-44d9-8ac5-a00b46c7494b" />
  <br>
-  <em> 🔀  Schema: Systemverbindung</em>
+  <em> Kleiner Regieraum </em>
 </p>
 <br> <br>
 
