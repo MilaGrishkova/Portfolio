@@ -1,4 +1,4 @@
-# Show and Tell
+# Show and Tell I
 
 Show and Tell ist ein Seminar in einer offenen und unterstützenden Atmosphäre, in dem die Teilnehmenden Ideen und Wissen teilen sowie inspirierende Beispiele aus den Bereichen Programmierung, Musik und neue Medien präsentieren und diskutieren.
 
