@@ -39,12 +39,36 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 </p>
 <br> <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;• ✅ [Nexus](http://www.avmexico.mx/pdf/NEXUS_web.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Nexus
 <br> <br>
+
+> [!NOTE]
+> [Nexus PDF Einleitung](http://www.avmexico.mx/pdf/NEXUS_web.pdf)
+
+<br> <br>
+
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/62cea22b-ca49-4ba2-81e7-0edc11c3d985" />
  <br>
   <em>✅ Nexus</em>
+</p>
+<br> <br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid ProTools Sync
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid Matrix
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Dante Ferrofish a32pro
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Behringer Powerplay P16-I Module
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Cisco
+
+> [!NOTE]
+> [Dante Ferrofish a32pro Manual](https://www.ferrofish.com/public/downloads/products/a32pro/ferrofish_a32pro_manual_english_v3.1.pdf)
+
+<br> <br>
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/3804b642-b79c-44dd-aa19-3c6effded939" />
+ <br>
+  <em>✅ Dante Routing </em>
 </p>
 <br> <br>
 
@@ -56,8 +80,6 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
   <em>✅ Dante Routing </em>
 </p>
 <br> <br>
-
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;• 🌀 [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/)
 <br> <br>
