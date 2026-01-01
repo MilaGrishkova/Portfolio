@@ -97,7 +97,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Routing" src="https://github.com/user-attachments/assets/caf3ea10-e8a5-4a0e-9c50-3b276e1aaec4" />
  <br>
-  <em>✅ Rack, in dem das Signal aus dem Anschlusskasten auf den Nexus geroutet werden kann </em>
+  <em>🔛 Rack, in dem das Signal aus dem Anschlusskasten auf den Nexus geroutet werden kann </em>
 </p>
 <br> <br>
 
