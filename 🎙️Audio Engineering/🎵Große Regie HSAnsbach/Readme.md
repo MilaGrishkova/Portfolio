@@ -56,10 +56,15 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid ProTools Sync
+
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid Matrix
+
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Dante Ferrofish a32pro
+
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Behringer Powerplay P16-I Module
+
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Cisco
+
 
 > [!NOTE]
 > [Dante Ferrofish a32pro Manual](https://www.ferrofish.com/public/downloads/products/a32pro/ferrofish_a32pro_manual_english_v3.1.pdf)
