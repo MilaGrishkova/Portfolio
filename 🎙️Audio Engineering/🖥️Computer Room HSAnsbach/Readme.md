@@ -34,7 +34,7 @@ Die Installation und Aktualisierung von Bibliotheken:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Native Instruments Libraries & Plugins
 
-&nbsp;&nbsp;&nbsp;&nbsp;• ✅ sowie die Installation neuer Plugins für die Arbeit von Professor:innen und Studierenden.
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ sowie die Installation neuer Plugins für die Arbeit von Professorinnen und Studierenden.
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
