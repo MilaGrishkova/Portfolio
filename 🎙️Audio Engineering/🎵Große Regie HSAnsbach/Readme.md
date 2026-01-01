@@ -137,7 +137,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <p align="center">
 <img width="500" alt="Proberaum2" src="https://github.com/user-attachments/assets/7853b7c6-a1ac-4447-a64a-c24e6787ef19" />
  <br>
-  <em> Proberaum und  </em>
+  <em> Proberaum und Große Regie </em>
 </p>
 <br> <br>
 
