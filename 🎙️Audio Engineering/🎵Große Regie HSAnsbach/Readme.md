@@ -129,6 +129,20 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 &nbsp;&nbsp;&nbsp;&nbsp;• 🔴 [LogicPro](https://www.apple.com/logic-pro/)
 
 
+
+> [!NOTE]
+> Grose Regie ist mit dem Proberaum verbunden
+
+<br> <br>
+<p align="center">
+<img width="500" alt="Proberaum2" src="https://github.com/user-attachments/assets/7853b7c6-a1ac-4447-a64a-c24e6787ef19" />
+ <br>
+  <em> Proberaum </em>
+</p>
+<br> <br>
+
+
+
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
