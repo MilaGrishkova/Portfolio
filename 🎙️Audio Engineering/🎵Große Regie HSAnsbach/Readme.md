@@ -55,6 +55,9 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 <br> <br>
 
 
+> [!NOTE]
+> Serverschrank:
+
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid ProTools Sync
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid Matrix
