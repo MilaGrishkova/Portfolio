@@ -143,6 +143,14 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 
 
 
+<br> <br>
+<p align="center">
+<img width="500" alt="Proberaum1" src="https://github.com/user-attachments/assets/603c1ef0-e389-4ff8-bd00-07c8bd0b1353" />
+ <br>
+  <em> Proberaum </em>
+</p>
+<br> <br>
+
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
