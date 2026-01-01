@@ -14,7 +14,7 @@ Ziel des Seminars ist die Schaffung einer freundlichen und sicheren Umgebung, di
 > 📝 Email
 <br>
 
-Schreibt mir gerne
+Wenn ihr Fragen habt oder Unterstützung benötigt, zögert bitte nicht, euch mit euren Fragen an mich zu wenden.
 <br> <br>
 
 <p align="center">
