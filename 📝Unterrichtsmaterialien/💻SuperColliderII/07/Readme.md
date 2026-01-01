@@ -9,7 +9,6 @@ Ziel der Lehrveranstaltung ist die Förderung kreativen Denkens, die Vertiefung 
 
 Ein besonderer Fokus liegt auf Prozesshaftigkeit, gemeinsamer Exploration und dem Austausch von Erfahrungen zwischen den Teilnehmenden.
 
-<br>
 > [!TIP]
 > Achte auf Amplitude (z.B. 0.2)
 
