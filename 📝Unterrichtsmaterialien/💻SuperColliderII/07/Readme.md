@@ -1,1 +1,4 @@
+# Live Coding
 
+Im Rahmen der Lehrveranstaltung erhalten die Studierenden die Möglichkeit, die über mehrere Semester im Bereich SuperCollider erworbenen Kompetenzen in praktischer und experimenteller Form anzuwenden. Live Coding wird in diesem Format nicht bewertet, wodurch eine offene und unterstützende kreative Lernumgebung geschaffen wird, in der Prozesse des Ausprobierens und Experimentierens als sicher und nicht mit dem Risiko des Scheiterns verbunden erlebt werden können.
+Ziel der Lehrveranstaltung ist die Förderung kreativen Denkens, die Vertiefung des praktischen Verständnisses der Prinzipien des Live Coding sowie die Entwicklung von Sicherheit im Umgang mit Code als expressivem und künstlerischem Werkzeug. Ein besonderer Fokus liegt auf Prozesshaftigkeit, gemeinsamer Exploration und dem Austausch von Erfahrungen zwischen den Teilnehmenden.
