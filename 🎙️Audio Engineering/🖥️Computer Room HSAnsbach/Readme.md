@@ -8,8 +8,7 @@ wird Computerraum vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin
 > Computerraum Hochschule Ansbach
 
 <p align="center">
-<img width="500" alt="Schema" src="https://github.com/user-attachments/assets/d25a38e3-5526-4c52-a49d-99b5ec597307
-" />
+<img width="500" alt="Schema" src="https://github.com/user-attachments/assets/5512a652-acd0-4038-a8d7-ca88fe15f5ba" />
  <br>
   <em> 💻 Computerraum </em>
 </p>
