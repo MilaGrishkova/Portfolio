@@ -58,7 +58,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Literaturwerkstatt]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Literaturwerkstatt](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/✍%EF%B8%8FLiteraturwerkstatt)
 
 💌 [Kontakt](https://github.com/MilaGrishkova/Portfolio/tree/main/💌Kontakt)
 
