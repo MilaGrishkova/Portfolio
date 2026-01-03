@@ -20,7 +20,19 @@ Sozialer Aspekt des Projekts
 
 
 
+> [!NOTE]
+> 📝 Sommersemester:
+<br>
+
+
+<br> <br>
+
+<p align="center">
 <img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em>Sommersemester</em>
+</p>
+
 
 
 
