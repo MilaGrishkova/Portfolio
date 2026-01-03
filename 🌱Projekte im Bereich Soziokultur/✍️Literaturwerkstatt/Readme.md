@@ -36,6 +36,15 @@ Kreatives Denken und Projektkompetenzen bei Jugendlichen fördern.
 Eine positive Erfahrung im Umgang mit der Sonne als Quelle von Kunst und Energie schaffen.
 Eine abschließende Ausstellung organisieren, die für die Stadtbevölkerung zugänglich ist.
 
+> [!NOTE]
+> 📝 Mirijam Günter:
+<br>
+<p align="center">
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/aa3ca6bb-189d-452f-9633-c1edc85537cd" />
+ <br>
+  <em> Literaturwerkstatt </em>
+</p>
+
 
 Methodik der Umsetzung
 Einführungs-Workshops zu Fotografie, Lochkamera und Solarografie (ca 3 Stunden).
