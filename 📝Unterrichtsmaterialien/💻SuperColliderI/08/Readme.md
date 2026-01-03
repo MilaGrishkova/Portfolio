@@ -22,7 +22,7 @@ Unterrichtsinhalte:
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
 </p>
 
-Der Klang im Projekt wird mit 20 Lautsprechern im HOA-Format (Higher-Order Ambisonics) realisiert. 
+Der Klang im Projekt wird mit 20 Lautsprechern im HOA-Format realisiert. 
 
 Diese Konfiguration ermöglicht die Erzeugung eines hochpräzisen räumlichen Klangs, bei dem sich der Ton um die Zuhörer bewegen kann, eine dreidimensionale Audiobühne schafft und das Eintauchen in das Multimedia-Projekt verstärkt.
 
