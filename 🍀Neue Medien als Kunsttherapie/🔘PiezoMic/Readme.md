@@ -1,10 +1,10 @@
 # 🔘PiezoMic
 
-  Die Jugendliche kam mit der Fragestellung, _ob eine technische Ausbildung für sie zukünftig passend sei_. 
+&nbsp;&nbsp;Die Jugendliche kam mit der Fragestellung, _ob eine technische Ausbildung für sie zukünftig passend sei_. 
 
-  Es wurde vorgeschlagen, die Grundlagen des Lötens und das Verständnis einfacher Schaltungen am Beispiel des Lötens eines Piezo-Mikrofons und eines Mono-Jack-Steckers zu erlernen. 
+&nbsp;&nbsp;Es wurde vorgeschlagen, die Grundlagen des Lötens und das Verständnis einfacher Schaltungen am Beispiel des Lötens eines Piezo-Mikrofons und eines Mono-Jack-Steckers zu erlernen. 
 
-  Nachdem ich der Jugendlichen gezeigt hatte, wie es geht, konnte sie selbstständig ihren ersten Mikrofon löten. Anschließend schlossen wir es an eine akustische Gitarre an. Ich zeigte ihr auch, dass ein Piezo-Mikrofon Teil von Sounddesign und kreativem Arbeiten sein kann.
+&nbsp;&nbsp;Nachdem ich der Jugendlichen gezeigt hatte, wie es geht, konnte sie selbstständig ihren ersten Mikrofon löten. Anschließend schlossen wir es an eine akustische Gitarre an. Ich zeigte ihr auch, dass ein Piezo-Mikrofon Teil von Sounddesign und kreativem Arbeiten sein kann.
 
 <br> <br>
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 <br> <br>
 
-Die Jugendliche berichtete, dass ihr nun klar geworden sei, dass _sie sich tatsächlich für eine technische Ausbildung interessiert_ und sich in einer technisch orientierten Berufslaufbahn sieht.
+&nbsp;&nbsp;Die Jugendliche berichtete, dass ihr nun klar geworden sei, dass _sie sich tatsächlich für eine technische Ausbildung interessiert_ und sich in einer technisch orientierten Berufslaufbahn sieht.
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie">
