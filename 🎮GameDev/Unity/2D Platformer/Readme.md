@@ -2,12 +2,12 @@
 # 2D-Spiel
 
 <p align="center">
-<img width="500"  alt="2D" src="https://github.com/user-attachments/assets/c61a416f-d577-49f4-8023-50bb2a2851cf" />
+<img width="700"  alt="2D" src="https://github.com/user-attachments/assets/c61a416f-d577-49f4-8023-50bb2a2851cf" />
  <br>
   <em>🎵 2D Spiel </em>
 </p>
 <br> <br>
-________________
+
 
 Der Fokus dieses Spiels liegt auf dem Sounddesign. 
 Es beinhaltet die Arbeit mit Kollidern und verschiedenen Oberflächen. Musik ist im Spiel bewusst nicht vorhanden.
