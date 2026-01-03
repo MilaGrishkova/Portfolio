@@ -1,5 +1,5 @@
 ✨〰️✨**Portfolio**✨〰️✨
->  <img src="https://github.com/user-attachments/assets/0a4c557b-a692-4bd4-84cc-6d94613584a1" width="190"> 
+>  <img src="https://github.com/user-attachments/assets/76a66932-ce42-4ce8-bb7c-a7370e5086f2"> 
 >                                                                             
 👋 Hallo, ich heiße Mila Grishkova.
 
