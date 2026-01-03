@@ -71,6 +71,7 @@ Eine kreative und forschende Umgebung für Jugendliche zu schaffen, in der sie d
 
 > [!NOTE]
 > Aufgaben des Projekts
+
 Die einzigartige Verbindung Karlsruhes mit der Sonne und seiner architektonischen Struktur sichtbar machen.
 Jugendliche mit der Technik der Solarografie und der Geschichte der analogen Fotografie vertraut machen.
 Fähigkeiten im Bau von Kameras und im Umgang mit lichtempfindlichem Material vermitteln.
