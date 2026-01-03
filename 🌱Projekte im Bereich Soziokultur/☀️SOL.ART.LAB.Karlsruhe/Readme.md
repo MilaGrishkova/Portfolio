@@ -66,8 +66,7 @@ Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Um
 	
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 	
-> [!NOTE]
-> Weiterentwicklung
+# Weiterentwicklung
 	
 > [!NOTE]
 > 🎧 Sound
