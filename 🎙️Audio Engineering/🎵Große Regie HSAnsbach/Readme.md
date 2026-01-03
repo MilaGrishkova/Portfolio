@@ -193,7 +193,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
  <br>
   <em> Proberaum und Große Regie </em>
 </p>
-<br> <br>
+
 
 
 
@@ -203,7 +203,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
  <br>
   <em> Schlagzeug </em>
 </p>
-<br> <br>
+
 
 
 <br> <br>
