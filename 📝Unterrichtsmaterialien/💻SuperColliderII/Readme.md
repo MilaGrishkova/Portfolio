@@ -1,6 +1,7 @@
 In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von SuperCollider II vorgestellt.
 
-Themen:
+> [!NOTE]
+> Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [1. SuperCollider & LogicPro I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/01)
 
@@ -24,7 +25,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [11. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/11)
 
-
+<br> <br>
 
 > [!IMPORTANT]
 > Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail (milagrishkova.de@gmail.com) eingesendet werden.
