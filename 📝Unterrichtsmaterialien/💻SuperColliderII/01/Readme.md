@@ -1,18 +1,17 @@
 # Logic & SuperCollider
 
 > [!TIP]
-> Hier kann man es sehen: [Video](https://youtu.be/xTNkz9WZF08)
-
-
+>  🎶 Hier kann man es sehen: Logic & SuperCollider
+<br> <br>
 <p align="center">
-<img width="700" alt="Logic1" src="https://github.com/user-attachments/assets/aba862c7-bbe4-4de3-a66e-4345f95ba58b" />
-<br>
-  <em>Logic & SuperCollider</em>
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtu.be/xTNkz9WZF08">
+ <img width="700" alt="Logic1" src="https://github.com/user-attachments/assets/aba862c7-bbe4-4de3-a66e-4345f95ba58b" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
 </p>
-
-
-
-
 
 <p align="center">
 <img width="700" alt="Logic2" src="https://github.com/user-attachments/assets/72f6858b-0617-4555-863e-65948553ef20" />
