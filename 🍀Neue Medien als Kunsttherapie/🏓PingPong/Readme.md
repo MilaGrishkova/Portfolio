@@ -10,7 +10,7 @@
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
-</p
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Die Jugendliche L wandte sich mit einer Fragestellung an, die mit einem ambivalenten emotionalen Zustand verbunden war. 
 Einerseits zeigte sich eine ausgeprägte Erschöpfung durch den alltäglichen Routineablauf sowie ein Bedürfnis nach neuen, interessanten Erfahrungen; andererseits waren Ängste vor dem Scheitern und Unsicherheiten im Zusammenhang mit dem Ausprobieren neuer Tätigkeitsformen und Selbstverwirklichung vorhanden.
@@ -23,13 +23,13 @@ Einerseits zeigte sich eine ausgeprägte Erschöpfung durch den alltäglichen Ro
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zur Aufnahme der Klänge wurden zwei kabellose [RØDE-Mikrofone](https://rode.com/de-de/products/wireless-me) verwendet: Ein Mikrofon fungierte als Empfänger und war mit einem mobilen Endgerät verbunden, das zweite wurde als Sender zur Aufnahme von Umgebungsgeräuschen eingesetzt.
 
-<br> <br>
+<br>
 <p align="center">
 <img width="400" alt="Rode" src="https://github.com/user-attachments/assets/a811d562-e8f4-47c3-be70-37b2cca6ff8c" />
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
-</p
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Die Analyse der psychologischen Effekte zeigte mehrere relevante Veränderungen. Die Wahl einer einfachen und vertrauten Spielform trug zur Reduktion von Angst im Zusammenhang mit möglichem Scheitern bei. Klare und überschaubare Aufgabenstrukturen vermittelten ein Gefühl von Sicherheit und ermöglichten es der Jugendlichen, sich auf das Experimentieren mit Klängen zu konzentrieren, ohne die Sorge, etwas „falsch“ zu machen. Der Fokus auf den Prozess statt auf das Ergebnis wirkte zusätzlich spannungsreduzierend.
 
