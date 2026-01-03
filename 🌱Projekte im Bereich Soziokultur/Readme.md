@@ -3,7 +3,7 @@ In dieser Kategorie stelle ich die von mir organisierten _soziokulturellen Proje
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ☀️ [SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
 
-&nbsp;&nbsp;&nbsp;&nbsp;•✍️ [Literaturwerkstatt](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/✍%EF%B8%8FLiteraturwerkstatt)
+&nbsp;&nbsp;&nbsp;&nbsp;• ✍️ [Literaturwerkstatt](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/✍%EF%B8%8FLiteraturwerkstatt)
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main">
