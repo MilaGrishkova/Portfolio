@@ -33,6 +33,7 @@
 
 > [!NOTE]
 > Sozialer Aspekt des Projekts
+
 	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
 	
 	Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
@@ -64,6 +65,7 @@ wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne ge
 
 > [!NOTE]
 > Ziel des Projekts
+
 Eine kreative und forschende Umgebung für Jugendliche zu schaffen, in der sie durch die Arbeit mit der Sonne und die Technik der Solarografie den Lauf der Zeit und den Rhythmus des Stadtlebens erforschen und dabei eine persönliche Verbindung zum kulturellen Raum der Stadt entwickeln können.
 
 Aufgaben des Projekts
@@ -76,6 +78,7 @@ Eine abschließende Ausstellung organisieren, die für die Stadtbevölkerung zug
 
 > [!NOTE]
 > Methodik der Umsetzung
+
 Einführungs-Workshops zu Fotografie, Lochkamera und Solarografie (ca 3 Stunden).
 Gemeinsamer Bau der Kameras (ca 5 Stunden).
 Platzierung der Kameras an von den Jugendlichen gewählten Orten in der Stadt für die Dauer von einem Jahr (ca   5 Stunden).
@@ -84,6 +87,7 @@ Vorbereitung der Ausstellung im BlackSheepClub.(ca 3 St)
 
 > [!NOTE]
 > Erwartete Ergebnisse
+
 Teilnahme von mindestens 15 Jugendlichen am Projekt.
 Entstehung einer einzigartigen Sammlung von „Sonnenchroniken“ der Stadt.
 Positive Erfahrung der Jugendlichen in der Arbeit mit der Sonne.
