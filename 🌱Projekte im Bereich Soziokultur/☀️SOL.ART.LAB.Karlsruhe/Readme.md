@@ -41,8 +41,6 @@ Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und insta
 	
 Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
 
-
-
 <br> <br>
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
@@ -65,7 +63,24 @@ Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Um
 </p>
 	
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
-	
+
+> [!NOTE]
+> 📝 Flyers:
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
+ <br>
+  <em> Flyer 1 </em>
+</p>
+
+<br>
+<p align="center">
+<img width="400" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
+ <br>
+  <em> Flyer 2 </em>
+</p>
+
+
 # Weiterentwicklung
 	
 > [!NOTE]
@@ -122,21 +137,6 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 
 
 
-> [!NOTE]
-> 📝 Flyers:
-<br>
-<p align="center">
-<img width="400" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
- <br>
-  <em> Flyer 1 </em>
-</p>
-
-<br>
-<p align="center">
-<img width="400" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
- <br>
-  <em> Flyer 2 </em>
-</p>
 
 
 Fotos / Inspiration:
