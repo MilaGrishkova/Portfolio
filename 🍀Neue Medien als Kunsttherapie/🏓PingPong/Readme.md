@@ -39,7 +39,7 @@ Einerseits zeigte sich eine ausgeprägte Erschöpfung durch den alltäglichen Ro
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
-<a href="https://youtube.com/shorts/-oU94P2wJ4Y">
+<a href="https://www.youtube.com/watch?v=-oU94P2wJ4Y&list=PL81PAD8y4b0Xaj5RQ9Quz5qhRzmGiYZQz&index=2">
 <img width="300" alt="Sch" src="https://github.com/user-attachments/assets/2945a800-c7c6-4b05-83c7-5afd88ea918a9" />
  <br>
 </a>
