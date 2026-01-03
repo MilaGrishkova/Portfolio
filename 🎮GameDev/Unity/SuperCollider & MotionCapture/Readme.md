@@ -1,10 +1,24 @@
 # Motion Capture, Unity & SuperCollider
 
-This is a music runner game, made as a part of my experience with Motion Capture/[Qualisys-Unity-SDK](https://github.com/qualisys/QTM-Connect-For-Unity) , Unity 3D and SuperCollider. The player controls the game by moving the marker. Motion data is captured by Motion capture in Unity. The player plays in real-time.
+> [!TIP]
+>  🚻 Motion Capture
+<br> <br>
 
-Here is how it’s done: data (marker positions) is sent to the SuperCollider from Unity. This data generates the pitch of a sounding note (Frequenz). And in SuperCollider the sound is synthesized by using a programming language.
+Dies ist ein Musik-Runner-Spiel, entwickelt im Rahmen meiner Erfahrungen mit Motion Capture / [Qualisys-Unity-SDK](https://github.com/qualisys/QTM-Connect-For-Unity), Unity 3D und SuperCollider. 
 
-Thus, the game is not only a runner, but a real-time musical instrument that can also sound like a Theremin.
+<br> <br>
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://www.youtube.com/watch?v=OYplfKiy_DQ">
+  <img width="700"  alt="Sky" src="https://github.com/user-attachments/assets/5d08ff52-b749-42ef-bfcf-54b6007a6004" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
+<br> <br>
+ 
+Der Spieler steuert das Spiel, indem er den Marker bewegt. Die Bewegungsdaten werden in Unity über Motion Capture erfasst. Der Spieler spielt somit in Echtzeit.
 
 <p align="center">
 <img width="500" alt="3" src="https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg" />
@@ -12,11 +26,12 @@ Thus, the game is not only a runner, but a real-time musical instrument that can
   <em>03 Sky</em>
 </p>
 
+So funktioniert es: Die Daten (Marker-Positionen) werden von Unity an SuperCollider gesendet. Diese Daten erzeugen die Tonhöhe einer klingenden Note (Frequenz). In SuperCollider wird der Klang dann mithilfe der Programmiersprache synthetisiert.
+Damit ist das Spiel nicht nur ein Runner, sondern auch ein Echtzeit-Musikinstrument, das sich klanglich ähnlich wie ein Theremin verhalten kann.
 
-[Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/05/UnityCode) kann man den Code sehen.
 
-> [!TIP]
-> Hier kann man es sehen: YouTube.
+> [!NOTE]
+> [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/SuperCollider%20%26%20MotionCapture/UnityCode) kann man den Code sehen.
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
