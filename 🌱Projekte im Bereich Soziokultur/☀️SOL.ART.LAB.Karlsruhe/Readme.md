@@ -36,10 +36,8 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 > Sozialer Aspekt des Projekts
 
 „Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
-	
+
 Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
-	
-Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
 
 <br> <br>
 <p align="center">
@@ -62,6 +60,9 @@ Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Um
   <em> Beispiel 1 </em>
 </p>
 	
+Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
+
+
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 
 > [!NOTE]
