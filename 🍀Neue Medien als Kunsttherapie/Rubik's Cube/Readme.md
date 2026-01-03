@@ -12,8 +12,8 @@ Die Erstellung von Spielen ist ein Werkzeug der narrativen Therapie. Spiele enth
 eine Handlung, ähnlich wie Geschichten in therapeutischen Praktiken, durch die man
 schwierige Erfahrungen und Ereignisse in einer sicheren Umgebung erforschen kann.
 
-Das Spiel **🟧Rubik's Cube**
-
+<p align="center"> Das Spiel **🟧Rubik's Cube**
+</p>
 <p align="center">
 <img width="700" alt="Sch" src="https://github.com/user-attachments/assets/11684da2-419b-4024-8683-2f17e6b7343d" />
  <br>
