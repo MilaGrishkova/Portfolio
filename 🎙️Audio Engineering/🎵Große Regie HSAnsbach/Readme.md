@@ -39,7 +39,7 @@ wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin be
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Reaper
 
-&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Max
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ MaxMsp
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Waves Plugins
 
