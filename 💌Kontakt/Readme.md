@@ -1,7 +1,14 @@
-Mila Grishkova
+> [!NOTE]
+> Mila Grishkova
+>
+> Kontakt: milagrishkova.de@gmail.com
 
-
-milagrishkova.de@gmail.com
+<br> <br>
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/a114bb37-86fc-4c83-a740-368b237cc386" />
+ <br>
+  <em>E-Mail</em>
+</p>
 
 
 
