@@ -23,6 +23,13 @@ Karlsruhe gehört zu den sonnigsten Städten Deutschlands.
 
 Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
 
+<br>
+<p align="center">
+<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em> Beispiel 1 </em>
+</p>
+
 Sozialer Aspekt des Projekts
 	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen. 	Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
 	Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
@@ -41,23 +48,6 @@ Sozialer Aspekt des Projekts
   <em>  Universität Bayreuth </em>
 </p>
 wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
-
-
-<br>
-<p align="center">
-<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
- <br>
-  <em> Beispiel 1 </em>
-</p>
-
-> [!NOTE]
-> 📝 Beispiel 1:
-<br>
-<p align="center">
-<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
- <br>
-  <em> Beispiel 1 </em>
-</p>
 
 
 Ziel des Projekts
@@ -107,6 +97,16 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 </p>
 
 
+
+
+> [!NOTE]
+> 📝 Beispiel 1:
+<br>
+<p align="center">
+<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em> Beispiel 1 </em>
+</p>
 Fotos / Inspiration:
 
 >&nbsp;&nbsp;&nbsp;&nbsp;•[Beispiel 1](https://www.instagram.com/p/DEN4fj0Cinr/)
