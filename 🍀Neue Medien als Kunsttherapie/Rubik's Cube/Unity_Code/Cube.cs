@@ -12,7 +12,6 @@ public class Cube : MonoBehaviour
     bool canRotate = true;
     public HalloScript scriptHallo;
 
-
     List<GameObject> UpPieces
     {//https://www.youtube.com/watch?v=IISStnxa9jM&t=373s
       get
