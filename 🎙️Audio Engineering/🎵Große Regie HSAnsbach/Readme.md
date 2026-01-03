@@ -4,6 +4,60 @@
 wird Tonstudio vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅  Stagetec Avatus 24 Audio Mischpult
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Nexus Audiomatrix mit 3 x 8-Kanal Mikrofon Eingangskarten (32-bit TrueMatch A/D)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ 16 Kanal line in (24-bit), 32 Kanal line out (24-bit)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Avid MTRX
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Dante Netzwerk (hochschulweit) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ analoge Patchbay 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ RTW metering
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ SPL Channel One Preamp/Kompressor
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Bricasti System 1 Hallgerät
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Tube-Tech Analog-Kompressor CL2A
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ mobiles 16 Kanal I/O Nexus Base-Device (via Dante)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Pro Tools Ultimate
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Dolby Atmos Home
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Spatial Audio Designer
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ MPEG-H Authoring Suite
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Ableton Live
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Reaper
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Max
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Waves Plugins
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Altiverb XL 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Izoptope RX
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ NI Komplete
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Die 2D Abhöranlage ist ein 5.1-System, das mit Genelec 1038A und 7073A bestückt ist. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ 3D Abhöranlage besteht aus 16 Fohhn AT-08 Top RoLo Laustsprechern sowie vier AS-31 Subwoofern.
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Für Musikproduktionen stehen zahlreiche Mikrofone der Firmen Neumann, Schoeps, Shure, Rode und Sennheiser zur Verfügung. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ Behringer Powerplay Personal Mixer für fünf Musiker.
+
+
 > [!NOTE]
 > Große Regie Hochschule Ansbach
 
