@@ -1,7 +1,6 @@
+# SolartlabKarlsruhe
 
 > [!IMPORTANT]
-> 
-> SolartlabKarlsruhe
 > 
 > Projekt „Straßengeist“
 > 
@@ -10,7 +9,19 @@
 <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
 
-Karlsruhe gehört zu den sonnigsten Städten Deutschlands. Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
+Karlsruhe gehört zu den sonnigsten Städten Deutschlands. 
+
+> [!NOTE]
+> ☀️ Karlsruhe
+
+ <br>
+<p align="center">
+<img width="400" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
+ <br>
+  <em>  ☀️ Karlsruhe </em>
+</p>
+
+Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
 
 Sozialer Aspekt des Projekts
 	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen. 	Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
