@@ -1,10 +1,10 @@
 # 🔘PiezoMic
 
-Die Jugendliche kam mit der Fragestellung, _ob eine technische Ausbildung für sie zukünftig passend sei_. 
+  Die Jugendliche kam mit der Fragestellung, _ob eine technische Ausbildung für sie zukünftig passend sei_. 
 
-Es wurde vorgeschlagen, die Grundlagen des Lötens und das Verständnis einfacher Schaltungen am Beispiel des Lötens eines Piezo-Mikrofons und eines Mono-Jack-Steckers zu erlernen. 
+  Es wurde vorgeschlagen, die Grundlagen des Lötens und das Verständnis einfacher Schaltungen am Beispiel des Lötens eines Piezo-Mikrofons und eines Mono-Jack-Steckers zu erlernen. 
 
-Nachdem ich der Jugendlichen gezeigt hatte, wie es geht, konnte sie selbstständig ihren ersten Mikrofon löten. Anschließend schlossen wir es an eine akustische Gitarre an. Ich zeigte ihr auch, dass ein Piezo-Mikrofon Teil von Sounddesign und kreativem Arbeiten sein kann.
+  Nachdem ich der Jugendlichen gezeigt hatte, wie es geht, konnte sie selbstständig ihren ersten Mikrofon löten. Anschließend schlossen wir es an eine akustische Gitarre an. Ich zeigte ihr auch, dass ein Piezo-Mikrofon Teil von Sounddesign und kreativem Arbeiten sein kann.
 
 <br> <br>
 <p align="center">
