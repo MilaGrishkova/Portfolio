@@ -19,8 +19,7 @@
 </p>
 <br><br>
 
-> [!NOTE]
-> ☀️ Karlsruhe gehört zu den sonnigsten Städten Deutschlands. 
+☀️ Karlsruhe gehört zu den sonnigsten Städten Deutschlands. 
 
 <br>
 <p align="center">
