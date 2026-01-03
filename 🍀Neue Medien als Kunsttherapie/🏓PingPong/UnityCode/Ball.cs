@@ -8,23 +8,18 @@ public class Ball : MonoBehaviour
     public float maxStartY = 4f;
     public float speedMultiplier = 1.1f;
    
- 
-
     private float startX = 0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
         InitialPush();
-        GameManager.instance.onReset += ResetBall;
-        
+        GameManager.instance.onReset += ResetBall;       
     }
 
     private void ResetBall()
     {
         ResetBallPosition();
         InitialPush();
-        
     }
 
     private void InitialPush()
@@ -32,7 +27,6 @@ public class Ball : MonoBehaviour
         Vector2 dir = Random.value < 0.5f? Vector2.left: Vector2.right;
         dir.y = Random.Range(-maxInitialAngel, maxInitialAngel);
         rgbd2d.linearVelocity = dir * moveSpeed;
-      
     }
 
     private void ResetBallPosition()
