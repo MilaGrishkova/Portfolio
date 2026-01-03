@@ -33,15 +33,6 @@ Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von de
 Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
 
 > [!NOTE]
-> 📝 Beispiel 1:
-<br>
-<p align="center">
-<img width="400" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
- <br>
-  <em> Beispiel 1 </em>
-</p>
-
-> [!NOTE]
 > Sozialer Aspekt des Projekts
 
 „Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
@@ -64,6 +55,14 @@ Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Um
 </p>
 <br> <br>
 
+> [!NOTE]
+> 📝 Beispiel 1:
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em> Beispiel 1 </em>
+</p>
 	
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 	
