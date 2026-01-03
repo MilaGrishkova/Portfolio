@@ -1,10 +1,11 @@
 # Motion Capture, Unity & SuperCollider
 
 > [!TIP]
->  🎶 Hier kann man es sehen: Logic & SuperCollider
+>  🚻 Motion Capture
 <br> <br>
 
-Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeugt, bei der Tonhöhe und Rhythmus festgelegt werden. 
+Dies ist ein Musik-Runner-Spiel, entwickelt im Rahmen meiner Erfahrungen mit Motion Capture / [Qualisys-Unity-SDK](https://github.com/qualisys/QTM-Connect-For-Unity), Unity 3D und SuperCollider. 
+
 <br> <br>
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
@@ -17,8 +18,6 @@ Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeu
 </p>
 <br> <br>
  
-Dies ist ein Musik-Runner-Spiel, entwickelt im Rahmen meiner Erfahrungen mit Motion Capture / [Qualisys-Unity-SDK](https://github.com/qualisys/QTM-Connect-For-Unity), Unity 3D und SuperCollider. 
-
 Der Spieler steuert das Spiel, indem er den Marker bewegt. Die Bewegungsdaten werden in Unity über Motion Capture erfasst. Der Spieler spielt somit in Echtzeit.
 
 <p align="center">
