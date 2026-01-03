@@ -17,8 +17,27 @@ Sozialer Aspekt des Projekts
 	Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
 	Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
 	So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
+	Mit der kreativen Technik der Solarographie werden Fotografien des städtischen Raums erstellt. Zur Teilnahme an dem Projekt sind Studierende der Hochschule für Musik Karlsruhe Fach [Musikinformatik](https://hfm-karlsruhe.de/studieren/faecher-und-instrumente/musikinformatik) eingeladen.
+	Durch kreatives Programmieren können die Fotografien „vertont“ werden, unter Verwendung von SuperCollider, Max/MSP und TouchDesign. Die im Rahmen des Projekts entstandenen Musikkompositionen werden bei der Eröffnung der Ausstellung zu hören sein.
+	
+> [!NOTE]
+> 📝 Der nächste Standort des Projekts
+
+ <br>
+<p align="center">
+<img width="400" alt="UniBayreuthSonne" src="https://github.com/user-attachments/assets/d7f93600-f751-4288-8739-c0c1cf25c2df" />
+ <br>
+  <em>  Universität Bayreuth </em>
+</p>
+wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
 
 
+<br>
+<p align="center">
+<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em> Beispiel 1 </em>
+</p>
 
 > [!NOTE]
 > 📝 Beispiel 1:
@@ -55,6 +74,7 @@ Entstehung einer einzigartigen Sammlung von „Sonnenchroniken“ der Stadt.
 Positive Erfahrung der Jugendlichen in der Arbeit mit der Sonne.
 Durchführung einer öffentlichen Ausstellung, die die Aufmerksamkeit der Stadtbevölkerung auf das kulturelle und soziale Leben lenkt.
 Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zur kulturellen Identitätsbildung bei Jugendlichen.
+
 
 
 > [!NOTE]
