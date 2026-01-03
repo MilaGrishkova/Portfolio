@@ -21,21 +21,13 @@ Sozialer Aspekt des Projekts
 
 
 > [!NOTE]
-> 📝 Sommersemester:
+> 📝 Beispiel 1:
 <br>
-
-
-<br> <br>
-
 <p align="center">
 <img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
  <br>
-  <em>Sommersemester</em>
+  <em> Beispiel 1 </em>
 </p>
-
-
-
-
 
 
 Ziel des Projekts
@@ -65,17 +57,23 @@ Durchführung einer öffentlichen Ausstellung, die die Aufmerksamkeit der Stadtb
 Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zur kulturellen Identitätsbildung bei Jugendlichen.
 
 
+> [!NOTE]
+> 📝 Flyer 1:
+<br>
+<p align="center">
 <img width="598" height="841" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
+ <br>
+  <em> Flyer 1 </em>
+</p>
 
-
-
-
+> [!NOTE]
+> 📝 Flyer 2:
+<br>
+<p align="center">
 <img width="595" height="841" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
-
-
-
-
-
+ <br>
+  <em> Flyer 2 </em>
+</p>
 
 
 Fotos / Inspiration:
