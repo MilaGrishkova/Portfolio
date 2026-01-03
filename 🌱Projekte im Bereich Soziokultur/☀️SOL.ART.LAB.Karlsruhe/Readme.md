@@ -1,15 +1,16 @@
 # SolartlabKarlsruhe
 
-> [!IMPORTANT]
+> [!NOTE]
 > 
 > Projekt „Straßengeist“ 2026
->
-> Gefördert durch Stadt Karlsruhe
 > 
 > Mila Grishkova
                                
 <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
+> [!IMPORTANT]
+>
+> Gefördert durch die Stadt Karlsruhe
 <br><br>
 <p align="center">
 <img width="100" alt="1" src="https://github.com/user-attachments/assets/7a30168b-26f6-48ae-8980-d4858300af3d" />
