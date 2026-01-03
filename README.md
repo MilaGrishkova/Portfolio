@@ -60,7 +60,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Literaturwerkstatt]()
 
-💌[Kontakt](https://github.com/MilaGrishkova/Portfolio/tree/main/💌Kontakt)
+💌 [Kontakt](https://github.com/MilaGrishkova/Portfolio/tree/main/💌Kontakt)
 
 Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
