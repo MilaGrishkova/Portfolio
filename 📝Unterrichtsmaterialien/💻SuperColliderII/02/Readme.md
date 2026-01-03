@@ -18,9 +18,6 @@ Ein Sampler in der Umgebung SuperCollider stellt eine Synthesizer-Struktur dar, 
 </p>
 <br> <br
  
-
-
-
 Die Grundlage des Samplers bilden UGens (Unit Generators) wie PlayBuf, BufRd oder GrainBuf, die es erlauben, Audiodaten aus dem Buffer mit variabler Geschwindigkeit abzuspielen, vorwärts oder rückwärts, mit der Möglichkeit zum Loopen und zur präzisen Positionierung des Wiedergabestarts. Die Steuerung der Abspielgeschwindigkeit ist direkt mit dem Parameter Pitch verknüpft, wodurch eine Transposition des Samples und eine Veränderung seiner klanglichen Eigenschaften möglich ist.
 
 Der Sampler wird in SuperCollider programmatisch als SynthDef realisiert, was eine flexible Kontrolle seiner Parameter erlaubt. Zu den zentralen Parametern gehören Amplitude, Hüllkurve, Panoramierung und die Signal-Routing zum Main Output. Die Panoramierung ermöglicht die Positionierung des Klangs im Stereo- oder Mehrkanalraum, wodurch ein Gefühl von Bewegung und räumlicher Tiefe erzeugt wird.
