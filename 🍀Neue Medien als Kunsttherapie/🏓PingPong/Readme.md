@@ -41,7 +41,6 @@ Einerseits zeigte sich eine ausgeprägte Erschöpfung durch den alltäglichen Ro
   <p align="center">
 <a href="https://www.youtube.com/watch?v=-oU94P2wJ4Y&list=PL81PAD8y4b0Xaj5RQ9Quz5qhRzmGiYZQz&index=2">
   <img width="300" alt="SoundDesign" src="https://github.com/user-attachments/assets/b6cdc8c8-6662-4940-83d7-2f07463275f4" />
-" />
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
