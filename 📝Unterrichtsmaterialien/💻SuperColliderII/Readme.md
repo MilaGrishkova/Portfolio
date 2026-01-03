@@ -25,7 +25,7 @@ In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von Supe
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [11. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/11)
 
-<br> <br>
+<br>
 
 > [!IMPORTANT]
 > Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail (milagrishkova.de@gmail.com) eingesendet werden.
