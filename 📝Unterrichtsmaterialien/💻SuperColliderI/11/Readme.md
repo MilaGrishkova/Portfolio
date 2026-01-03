@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Generative Grafik
 
 
-Erstellt eine Präsentation eurer Ideen (ca. 10 Minuten).
+Erstellt eine Präsentation eurer Ideen (ca. 20 Minuten).
 
 
 > [!NOTE]
