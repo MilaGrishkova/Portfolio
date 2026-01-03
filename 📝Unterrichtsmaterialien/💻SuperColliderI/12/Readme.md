@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> Teilnehmende
+> Teilnehmende teilen und diskutieren ihre eigenen Projekte,
 
-teilen und diskutieren ihre eigenen Projekte, künstlerische Arbeiten anderer oder relevante Themen aus der Welt des Creative Codings.
+künstlerische Arbeiten anderer oder relevante Themen aus der Welt des Creative Codings.
 
 Erstellt eine Präsentation eurer Ideen (ca. 10 Minuten).
 
