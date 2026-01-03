@@ -31,8 +31,9 @@
   <em> Beispiel 1 </em>
 </p>
 
-# Sozialer Aspekt des Projekts
-	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen. 	Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
+> [!NOTE]
+> Sozialer Aspekt des Projekts
+	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
 	
 	Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
 	
@@ -40,12 +41,13 @@
 	
 	So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 	
-# Weiterentwicklung
+> [!NOTE]
+> Weiterentwicklung
 	
 > [!NOTE]
 > 🎧 Sound
 
-Mit der kreativen Technik der Solarographie werden Fotografien des städtischen Raums erstellt. Zur Teilnahme an dem Projekt sind Studierende der Hochschule für Musik Karlsruhe Fach [Musikinformatik](https://hfm-karlsruhe.de/studieren/faecher-und-instrumente/musikinformatik) eingeladen.
+Mit der kreativen Technik der Solarographie werden Fotografien des städtischen Raums erstellt. Zur Teilnahme an dem Projekt werden Studierende der Hochschule für Musik Karlsruhe Fach [Musikinformatik](https://hfm-karlsruhe.de/studieren/faecher-und-instrumente/musikinformatik) eingeladen.
 	Durch kreatives Programmieren können die Fotografien „vertont“ werden, unter Verwendung von SuperCollider, Max/MSP und TouchDesign. Die im Rahmen des Projekts entstandenen Musikkompositionen werden bei der Eröffnung der Ausstellung zu hören sein.
 	
 > [!NOTE]
@@ -60,7 +62,8 @@ Mit der kreativen Technik der Solarographie werden Fotografien des städtischen 
 wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
 
 
-# Ziel des Projekts
+> [!NOTE]
+> Ziel des Projekts
 Eine kreative und forschende Umgebung für Jugendliche zu schaffen, in der sie durch die Arbeit mit der Sonne und die Technik der Solarografie den Lauf der Zeit und den Rhythmus des Stadtlebens erforschen und dabei eine persönliche Verbindung zum kulturellen Raum der Stadt entwickeln können.
 
 Aufgaben des Projekts
@@ -71,15 +74,16 @@ Kreatives Denken und Projektkompetenzen bei Jugendlichen fördern.
 Eine positive Erfahrung im Umgang mit der Sonne als Quelle von Kunst und Energie schaffen.
 Eine abschließende Ausstellung organisieren, die für die Stadtbevölkerung zugänglich ist.
 
-
-# Methodik der Umsetzung
+> [!NOTE]
+> Methodik der Umsetzung
 Einführungs-Workshops zu Fotografie, Lochkamera und Solarografie (ca 3 Stunden).
 Gemeinsamer Bau der Kameras (ca 5 Stunden).
 Platzierung der Kameras an von den Jugendlichen gewählten Orten in der Stadt für die Dauer von einem Jahr (ca   5 Stunden).
 Digitalisierung und künstlerische Bearbeitung der entstandenen Aufnahmen (ca 3 St).
 Vorbereitung der Ausstellung im BlackSheepClub.(ca 3 St)
 
-# Erwartete Ergebnisse
+> [!NOTE]
+> Erwartete Ergebnisse
 Teilnahme von mindestens 15 Jugendlichen am Projekt.
 Entstehung einer einzigartigen Sammlung von „Sonnenchroniken“ der Stadt.
 Positive Erfahrung der Jugendlichen in der Arbeit mit der Sonne.
