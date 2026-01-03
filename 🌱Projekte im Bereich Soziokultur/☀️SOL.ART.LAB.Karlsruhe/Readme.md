@@ -15,7 +15,7 @@
 
 <br>
 <p align="center">
-<img width="500" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
+<img width="400" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
  <br>
   <em>  ☀️ Karlsruhe </em>
 </p>
@@ -28,7 +28,7 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 > 📝 Beispiel 1:
 <br>
 <p align="center">
-<img width="280" height="290" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
  <br>
   <em> Beispiel 1 </em>
 </p>
