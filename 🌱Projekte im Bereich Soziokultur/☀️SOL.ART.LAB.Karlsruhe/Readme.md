@@ -15,7 +15,7 @@
 
 <br>
 <p align="center">
-<img width="400" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
+<img width="500" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
  <br>
   <em>  ☀️ Karlsruhe </em>
 </p>
