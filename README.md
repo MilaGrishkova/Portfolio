@@ -12,9 +12,9 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 
 
-[📄Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
+📄 [Über mich](https://github.com/MilaGrishkova/Portfolio/tree/main/📄Lebenslauf)
 
-[📝Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): 
+📝 [Unterrichtsmaterialien](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien): 
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI)
 
@@ -22,7 +22,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Gestaltung Ton]( https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton)
 
-[🎮GameDev](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev): 
+🎮 [GameDev](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev): 
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [2D Platformer](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer)
 
@@ -33,7 +33,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 &nbsp;&nbsp;&nbsp;&nbsp;• [Unity, SuperCollider & MotionCapture](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/SuperCollider%20%26%20MotionCapture)
 
 
-[🎙Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
+🎙 [Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Große Regie HSAnsbach](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎵Große%20Regie%20HSAnsbach)
 
@@ -46,7 +46,7 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 &nbsp;&nbsp;&nbsp;&nbsp;• [BlackSheepClub](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub)
 
 
-[🍀Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie): 
+🍀 [Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie): 
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Rubik's Cube](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube) 
 
@@ -54,12 +54,13 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [PiezoMic](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/🔘PiezoMic)
 
-[🌱Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur):
+🌱 [Projekte im Bereich Soziokultur](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur):
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [SOL.ART.LAB.Karlsruhe](https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur/☀%EF%B8%8FSOL.ART.LAB.Karlsruhe)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Literaturwerkstatt]()
 
+💌[Kontakt](https://github.com/MilaGrishkova/Portfolio/tree/main/💌Kontakt)
 
 Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
