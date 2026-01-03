@@ -3,7 +3,6 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
-
     public int scorePlayer1, scorePlayer2;
     public ScoreText scoreTextLeft, scoreTextRight;
     public System.Action onReset;
@@ -23,7 +22,6 @@ public class GameManager : MonoBehaviour
     public void OnScoreZoneReached(int id)
     {
        onReset?.Invoke();
-
         if (id == 1)
             scorePlayer1++;
         if (id == 2)
