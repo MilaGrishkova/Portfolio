@@ -11,7 +11,7 @@ Unterrichtsinhalte:
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
-<a href="https://youtube.com/shorts/qXfT6jFre1Y">
+<a href="https://youtu.be/tm41MQQ8r9A?si=c4E4bdG8qLtfTxZy">
   <img width="300" alt="1" src="https://github.com/user-attachments/assets/1f50398a-0fa2-420d-ae95-6f8941195e2b" />
  <br>
 </a>
