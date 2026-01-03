@@ -105,14 +105,14 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 > 📝 Flyers:
 <br>
 <p align="center">
-<img width="598" height="841" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
  <br>
   <em> Flyer 1 </em>
 </p>
 
 <br>
 <p align="center">
-<img width="595" height="841" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
+<img width="400" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
  <br>
   <em> Flyer 2 </em>
 </p>
