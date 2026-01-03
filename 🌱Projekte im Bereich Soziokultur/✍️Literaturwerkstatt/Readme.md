@@ -18,7 +18,7 @@ Im Zentrum ihrer Tätigkeit stehen die Förderung sprachlicher und literaler Kom
 > 📝 Mirijam Günter:
 <br>
 <p align="center">
-<img width="500" alt="2" src="https://github.com/user-attachments/assets/b79c87f6-664f-4a43-b797-d28bb9f48b28" />
+<img width="300" alt="2" src="https://github.com/user-attachments/assets/b79c87f6-664f-4a43-b797-d28bb9f48b28" />
  <br>
   <em> Literaturwerkstatt </em>
 </p>
