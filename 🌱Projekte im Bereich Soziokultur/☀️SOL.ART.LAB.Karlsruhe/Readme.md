@@ -60,8 +60,7 @@ Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und insta
   <em> Beispiel 1 </em>
 </p>
 	
-Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
-
+Im Verlauf eines Jahres sind vier Workshops und vier Installationen der Arbeiten geplant, wodurch alle vier Jahreszeiten einbezogen werden. Dieses Format ermöglicht es, nachzuvollziehen und zu vergleichen, wie das Sonnenlicht in den verschiedenen Jahreszeiten visuelle Bilder in der Technik der Solarographie formt und wie sich der Charakter der entstehenden „Sonnenbilder“ im Laufe des Jahres verändert.
 
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 
