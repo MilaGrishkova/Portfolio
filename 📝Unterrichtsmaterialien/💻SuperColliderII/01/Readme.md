@@ -3,6 +3,9 @@
 > [!TIP]
 >  🎶 Hier kann man es sehen: Logic & SuperCollider
 <br> <br>
+
+Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeugt, bei der Tonhöhe und Rhythmus festgelegt werden. 
+<br> <br>
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
@@ -14,15 +17,16 @@
 </p>
 <br> <br>
 
-
-
+Über einen MIDI-Port werden diese Daten an Logic Pro übertragen, wo die Signale auf verschiedene Kanäle verteilt werden. Jedem Kanal kann ein eigenes Instrument zugewiesen und Audio-Plugins wie Kompressor, Equalizer oder Reverb angewendet werden, wodurch das Klangbild flexibel gestaltet werden kann.
+<br> <br>
 <p align="center">
 <img width="700" alt="Logic2" src="https://github.com/user-attachments/assets/72f6858b-0617-4555-863e-65948553ef20" />
 <br>
   <em>Logic & SuperCollider</em>
 </p>
-
-
+<br> <br>
+Die algorithmisierte Melodie basiert auf der Komposition Kraftwerk „Computer Love“.
+<br> <br>
 > [!TIP]
 > [Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/02/Sampler.scd) kann man den Code sehen.
 
