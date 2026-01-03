@@ -1,6 +1,13 @@
 ✨〰️✨**Portfolio**✨〰️✨
->  <img src="https://github.com/user-attachments/assets/76a66932-ce42-4ce8-bb7c-a7370e5086f2"> 
->                                                                             
+
+<p align="center">
+<img width="500" alt="Routing" src="https://github.com/user-attachments/assets/76a66932-ce42-4ce8-bb7c-a7370e5086f2" />
+ <br>
+  <em>🎵 Mila Grishkova</em>
+</p>
+<br> <br>
+
+                                                                             
 👋 Hallo, ich heiße Mila Grishkova.
 
 Ich habe diese Seite auf GitHub als Webseite programmiert, auf der ich mein Portfolio präsentiere. GitHub ist dafür sehr praktisch: Hier finden Sie Videos, Fotos, PDF-Materialien und vor allem den Code, falls Sie sehen möchten, wie meine Projekte aufgebaut sind.
