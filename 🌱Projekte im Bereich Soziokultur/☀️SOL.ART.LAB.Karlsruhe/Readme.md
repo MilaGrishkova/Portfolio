@@ -49,7 +49,7 @@ Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Um
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
 <a href="https://youtu.be/bYuAeKtO6Gg">
- <img width="400" alt="Schloss" src="https://github.com/user-attachments/assets/3c48212d-93fb-4a12-8f86-6c259dd39881" />
+ <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
