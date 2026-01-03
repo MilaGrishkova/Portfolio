@@ -35,6 +35,17 @@ Einerseits zeigte sich eine ausgeprägte Erschöpfung durch den alltäglichen Ro
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Die Kombination aus aktivem Spaziergang und gezielter Klangsuche führte zu einer erhöhten Beteiligung und Engagement, begünstigt durch Bewegung, den Wechsel der Umgebung und die Vielfalt sensorischer Reize. Die Jugendliche zeigte ein anhaltendes Interesse am Aufnahmeprozess, stellte Fragen und entwickelte eigenständig Ideen sowie Vorschläge zur Verwendung der Klänge im Spiel, was auf eine gesteigerte intrinsische Motivation hinweist.
 
+<br> <br>
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtube.com/shorts/-oU94P2wJ4Y">
+<img width="300" alt="Sch" src="https://github.com/user-attachments/assets/2945a800-c7c6-4b05-83c7-5afd88ea918a9" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Im Verlauf der Arbeit ließ sich zudem eine Veränderung im Umgang mit Neuem beobachten: Neuartige Erfahrungen wurden zunehmend nicht mehr ausschließlich als Quelle von Angst wahrgenommen, sondern als Möglichkeit zur Exploration, zum spielerischen Ausprobieren und zur kreativen Auseinandersetzung. Die Verlagerung des Aufmerksamkeitsfokus auf auditive Aspekte des urbanen Raums unterstützte die Entwicklung eines sicheren Umgangs mit dem Unbekannten sowie die Förderung von Neugier.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Die eigenständige Aufnahme von Klangmaterial und dessen Integration in eine Spielstruktur stärkten das Gefühl von Selbstwirksamkeit und Autorschaft. Die Jugendliche nahm sich nicht nur als Ausführende einer Aufgabe wahr, sondern als aktive Gestalterin, die Entscheidungen trifft und den Verlauf sowie das Ergebnis der Tätigkeit beeinflusst.
