@@ -14,7 +14,7 @@ wird Computerraum vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin
 </p>
 <br> <br>
 
-Als Audioingenieurin war ich außerdem für den Zustand von 18 Computern verantwortlich.
+Als Audioingenieurin war ich außerdem für den Zustand von 15 Computern verantwortlich.
 
 Zu meinen Aufgaben gehörten:
 
