@@ -34,13 +34,13 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 > [!NOTE]
 > Sozialer Aspekt des Projekts
 
-	„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
+„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
 	
-	Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
+Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
 	
-	Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
+Diese Kameras werden ein ganzes Jahr lang die Veränderungen der städtischen Umgebung festhalten, das Licht, die Schatten, die Bewegungen der Straßen und der Menschen. 	Am Ende des Jahres werden die Aufnahmen digitalisiert und in Kunstwerke verwandelt, die in einer Ausstellung im BlackSheepClub präsentiert werden.
 	
-	So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
+So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 	
 > [!NOTE]
 > Weiterentwicklung
@@ -68,7 +68,9 @@ wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne ge
 
 Eine kreative und forschende Umgebung für Jugendliche zu schaffen, in der sie durch die Arbeit mit der Sonne und die Technik der Solarografie den Lauf der Zeit und den Rhythmus des Stadtlebens erforschen und dabei eine persönliche Verbindung zum kulturellen Raum der Stadt entwickeln können.
 
-Aufgaben des Projekts
+
+> [!NOTE]
+> Aufgaben des Projekts
 Die einzigartige Verbindung Karlsruhes mit der Sonne und seiner architektonischen Struktur sichtbar machen.
 Jugendliche mit der Technik der Solarografie und der Geschichte der analogen Fotografie vertraut machen.
 Fähigkeiten im Bau von Kameras und im Umgang mit lichtempfindlichem Material vermitteln.
