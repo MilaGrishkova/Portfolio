@@ -8,11 +8,8 @@
                                
 <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
-
-Karlsruhe gehört zu den sonnigsten Städten Deutschlands. 
-
 > [!NOTE]
-> ☀️ Karlsruhe
+> ☀️ Karlsruhe gehört zu den sonnigsten Städten Deutschlands. 
 
  <br>
 <p align="center">
@@ -79,7 +76,7 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 
 
 > [!NOTE]
-> 📝 Flyer 1:
+> 📝 Flyers:
 <br>
 <p align="center">
 <img width="598" height="841" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
@@ -87,8 +84,6 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
   <em> Flyer 1 </em>
 </p>
 
-> [!NOTE]
-> 📝 Flyer 2:
 <br>
 <p align="center">
 <img width="595" height="841" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
