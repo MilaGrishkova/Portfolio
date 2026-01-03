@@ -38,12 +38,6 @@ Die Hauptmusik ist ein Mix, den ich aus dem NASA-Sound von Jupiter und Kompositi
 
 Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zufällig. Die Klänge wurden in der Glitch - Ästhetik gemacht. Für die benutzte ich Samples aus John Zorn [«Simulacrum»](https://en.wikipedia.org/wiki/Simulacrum). 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube1](https://www.youtube.com/watch?v=H5vdiQGo92U)
-
-&nbsp;&nbsp;&nbsp;&nbsp;• [YouTube2](https://www.youtube.com/watch?v=R-V_-KbjHTw)
-
-
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
