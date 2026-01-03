@@ -16,7 +16,7 @@ Ich habe diese Seite auf GitHub als Webseite programmiert, auf der ich mein Port
 Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
 Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
 
-
+🙂 Viel Spaß! 
 
 
 
@@ -70,8 +70,6 @@ Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign
 
 💌 [Kontakt](https://github.com/MilaGrishkova/Portfolio/tree/main/💌Kontakt)
 
-Die Inhalte sind in Form von PDFs, Videos und Code-Beispielen dokumentiert. 
 
-🙂 Viel Spaß! 
 🌼 LG
 ✨ Mila
