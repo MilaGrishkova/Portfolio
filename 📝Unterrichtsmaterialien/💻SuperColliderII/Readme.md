@@ -1,17 +1,5 @@
 In diesem Abschnitt werden Lernmaterialien und Hausaufgaben zum Studium von SuperCollider II vorgestellt.
 
-> [!IMPORTANT]
-> Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail (milagrishkova.de@gmail.com) eingesendet werden.
-
-Schreibt mir gerne
-<br> <br>
-
-<p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/a778cc5b-5233-400b-b92b-032ed7c2125b" />
- <br>
-  <em>Email Adresse</em>
-</p>
-
 Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [1. SuperCollider & LogicPro I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/01)
@@ -36,6 +24,19 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [11. Projekte](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII/11)
 
+
+
+> [!IMPORTANT]
+> Gelöste Hausaufgaben sowie Fragen bei auftretenden Schwierigkeiten sollen per E-Mail (milagrishkova.de@gmail.com) eingesendet werden.
+
+Schreibt mir gerne
+<br> <br>
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/a778cc5b-5233-400b-b92b-032ed7c2125b" />
+ <br>
+  <em>Email Adresse</em>
+</p>
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
