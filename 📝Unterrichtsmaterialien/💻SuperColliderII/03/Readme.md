@@ -1,7 +1,7 @@
 # Zufall in SuperCollider
 
 > [!NOTE]
-> 🔊🔊🔊 Ambisonic 🔊🔊🔊
+> # 🔊🔊🔊 Ambisonic 🔊🔊🔊
 <br> <br>
 
 Das Projekt wurde in der Umgebung SuperCollider unter Verwendung von ambisonischem Klang (Ambisonics) realisiert.
