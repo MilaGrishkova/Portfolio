@@ -17,7 +17,7 @@ Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeu
 </p>
 <br> <br>
 
-Über einen MIDI-Port werden diese Daten an Logic Pro übertragen, wo die Signale auf verschiedene Kanäle verteilt werden. Jedem Kanal kann ein eigenes Instrument zugewiesen und Audio-Plugins wie Kompressor, Equalizer oder Reverb angewendet werden, wodurch das Klangbild flexibel gestaltet werden kann.
+Über einen MIDI-Port werden diese Daten an Logic Pro übertragen, wo die Signale auf verschiedene Kanäle verteilt werden. 
 <br> <br>
 <p align="center">
 <img width="700" alt="Logic2" src="https://github.com/user-attachments/assets/72f6858b-0617-4555-863e-65948553ef20" />
@@ -25,6 +25,16 @@ Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeu
   <em>Logic & SuperCollider</em>
 </p>
 <br> <br>
+
+Jedem Kanal kann ein eigenes Instrument zugewiesen und Audio-Plugins wie Kompressor, Equalizer oder Reverb angewendet werden, wodurch das Klangbild flexibel gestaltet werden kann.
+<br> <br>
+<p align="center">
+<img width="700" alt="SCCompressor" src="https://github.com/user-attachments/assets/4fa07ae5-11e6-4b62-a83a-2d4ef42e80bb" />
+<br>
+  <em>Logic & SuperCollider</em>
+</p>
+<br> <br>
+
 Die algorithmisierte Melodie basiert auf der Komposition Kraftwerk „Computer Love“.
 <br> <br>
 > [!TIP]
