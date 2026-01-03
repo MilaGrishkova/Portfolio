@@ -1,13 +1,22 @@
 # Zufall in SuperCollider
 
+> [!NOTE]
+> 🔊🔊🔊 Ambisonic 🔊🔊🔊
+<br> <br>
+
 Das Projekt wurde in der Umgebung SuperCollider unter Verwendung von ambisonischem Klang (Ambisonics) realisiert.
 
+<br> <br>
 <p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtu.be/sJ28qc3-nIM">
 <img width="700" alt="love" src="https://github.com/user-attachments/assets/ebb7a729-af2c-4800-8343-e5c413b90cdd" />
-<br>
-  <em>love.scd</em>
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
 </p>
-
+<br> <br
 
 Im Zentrum des Projekts steht die Philosophie des Zufalls als zentrales konzeptuelles Prinzip. 
 Die Arbeit setzt sich mit Fragen auseinander, die die Ungewissheit menschlicher Erfahrung betreffen: Ist die Begegnung mit der Liebe Schicksal oder das Ergebnis zufälliger Ereignisse? 
@@ -24,9 +33,7 @@ Die Klangkomposition wird auf 16 Lautsprecher verteilt und erzeugt einen mehrkan
 Diese räumliche Verteilung des Klangs verstärkt das Gefühl der Immersion und unterstreicht den Übergang von Fragmentierung und Zufälligkeit hin zu Ganzheitlichkeit und Vollendung.
 
 > [!TIP]
-> Hier kann man es sehen: [Video](https://youtu.be/sJ28qc3-nIM)
-
-# ATK
+> # ATK
 [Hier](https://github.com/ambisonictoolkit/atk-sc3) kann man über ATK lesen.
 
 [Hier](https://github.com/MilaGrishkova/Portfolio/blob/main/📝Unterrichtsmaterialien/💻SuperColliderII/03/love.scd) kann man den Code sehen.
