@@ -22,7 +22,7 @@ Im Rahmen des Projekts wird in SuperCollider eine algorithmisierte Melodie erzeu
 <p align="center">
 <img width="700" alt="Logic2" src="https://github.com/user-attachments/assets/72f6858b-0617-4555-863e-65948553ef20" />
 <br>
-  <em>Logic & SuperCollider</em>
+  <em>Logic Pro</em>
 </p>
 <br> <br>
 
@@ -31,7 +31,7 @@ Jedem Kanal kann ein eigenes Instrument zugewiesen und Audio-Plugins wie Kompres
 <p align="center">
 <img width="700" alt="SCCompressor" src="https://github.com/user-attachments/assets/4fa07ae5-11e6-4b62-a83a-2d4ef42e80bb" />
 <br>
-  <em>Logic & SuperCollider</em>
+  <em>Compressor</em>
 </p>
 <br> <br>
 
