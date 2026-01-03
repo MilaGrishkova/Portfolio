@@ -1,16 +1,25 @@
 # Sampler in SuperCollider
 
-> [!TIP]
-> Hier kann man es sehen: [Video](https://youtu.be/4UfLf6k_EF8)
-
-
-<p align="center">
-<img width="700" alt="love" src="https://github.com/user-attachments/assets/3f3338a5-2777-4b9a-89cc-42ffffadf091" />
-<br>
-  <em>Sampler in SuperCollider</em>
-</p>
+> [!NOTE]
+> 🎛️ Sampler in SuperCollider
+<br> <br>
 
 Ein Sampler in der Umgebung SuperCollider stellt eine Synthesizer-Struktur dar, die zur Wiedergabe von zuvor aufgenommenem Audiomaterial (Samples) dient, das in Buffers gespeichert ist. Die Wiedergabe erfolgt über Buffer-Objekte, die Audiodateien in den Arbeitsspeicher des Servers laden und einen schnellen Echtzeitzugriff ermöglichen.
+
+<br> <br>
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtu.be/4UfLf6k_EF8">
+<img width="700" alt="love" src="https://github.com/user-attachments/assets/3f3338a5-2777-4b9a-89cc-42ffffadf091" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
+<br> <br
+ 
+
+
 
 Die Grundlage des Samplers bilden UGens (Unit Generators) wie PlayBuf, BufRd oder GrainBuf, die es erlauben, Audiodaten aus dem Buffer mit variabler Geschwindigkeit abzuspielen, vorwärts oder rückwärts, mit der Möglichkeit zum Loopen und zur präzisen Positionierung des Wiedergabestarts. Die Steuerung der Abspielgeschwindigkeit ist direkt mit dem Parameter Pitch verknüpft, wodurch eine Transposition des Samples und eine Veränderung seiner klanglichen Eigenschaften möglich ist.
 
