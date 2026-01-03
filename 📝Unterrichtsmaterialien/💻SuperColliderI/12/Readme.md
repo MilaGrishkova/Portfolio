@@ -3,7 +3,7 @@
 
 künstlerische Arbeiten anderer oder relevante Themen aus der Welt des Creative Codings.
 
-Erstellt eine Präsentation eurer Ideen (ca. 10 Minuten).
+Erstellt eine Präsentation eurer Ideen (ca. 20 Minuten).
 
 > [!NOTE]
 > 📝 Email
