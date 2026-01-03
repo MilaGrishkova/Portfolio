@@ -8,9 +8,14 @@
 > 
 > Mila Grishkova
                                
-<img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
+<img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/7a30168b-26f6-48ae-8980-d4858300af3d" />
 
-
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/4b1d6fd6-f94e-4d1e-bf55-0353f83839e8" />
+ <br>
+  <em> Beispiel 1 </em>
+</p>
 ![Logo_Stadt-Karlsruhe_rgb_Zusatz2024-scaled](https://github.com/user-attachments/assets/7a30168b-26f6-48ae-8980-d4858300af3d)
 
 
