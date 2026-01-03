@@ -1,9 +1,9 @@
 > [!NOTE]
 >In diesem Bereich werden von mir entwickelte Unterrichtsmaterialien für verschiedene Kurse veröffentlicht.
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [SuperColliderI](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI)
+&nbsp;&nbsp;&nbsp;&nbsp;• [SuperCollider I](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [SuperColliderII](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII)
+&nbsp;&nbsp;&nbsp;&nbsp;• [SuperCollider II](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderII)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Gestaltung Ton](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/🔊Gestaltung%20Ton)
 
