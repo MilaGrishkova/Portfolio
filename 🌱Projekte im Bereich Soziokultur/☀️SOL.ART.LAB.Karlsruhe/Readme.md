@@ -5,6 +5,8 @@
 > Projekt „Straßengeist“ 2026
 > 
 > Mila Grishkova
+>
+> Gefördert durch Stadt Karlsruhe
                                
 <img width="161" height="173" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
 
