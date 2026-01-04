@@ -203,7 +203,6 @@ Das Spiel wurde in Unity erstellt, das Sounddesign und die Musik wurden mit Logi
 <br> <br>
 Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen sind Masterkanäle und verschiedene Effekte zugewiesen.
 
-
 <br> <br>
 <p align="center">
 <img width="700" alt="AudioCode" src="https://github.com/user-attachments/assets/cfcf6e0e-0c0a-4265-8925-2575d0ffafdc" />
@@ -213,6 +212,7 @@ Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen si
 <br> <br>
 Die Skripte sind an verschiedene Objekte angehängt und werden während des Spiels aufgerufen. An den Player ist das Skript Audiocollection angehängt, das verschiedene Geräusche abspielt.
 
+<br> <br>
 # Fazit
 
 1. Die Funktion des Schlafes als Erzeugung einer Grenzerfahrung (Heiligung des Schlafes, Traum als Wahnsinn). 
