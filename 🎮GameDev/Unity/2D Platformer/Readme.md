@@ -19,9 +19,9 @@ Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann �
 Gleichzeitig eröffnet das Projekt die Möglichkeit einer freien musikalischen Interaktion mit dem Spielraum. Das Durchspielen des Levels ist nicht zwingend erforderlich – vielmehr kann der Spieler das Level als musikalisches Instrument nutzen, mit Klängen experimentieren und durch spielerische Handlungen Musik erzeugen.
 
 > [!NOTE]
-> [Hier](https://play.unity.com/en/games/d6f010d8-a973-4a7d-a8fb-b92abe2d8f48/webgl-builds) kann man das Spiel spielen.
-
-&nbsp;&nbsp;&nbsp;&nbsp;• 👩‍💻[Code](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer/Code)
+> 🎮 [Hier](https://play.unity.com/en/games/d6f010d8-a973-4a7d-a8fb-b92abe2d8f48/webgl-builds) kann man das Spiel spielen.
+>
+> 👩‍💻[Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/2D%20Platformer/Code) kann man den Code sehen.
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
