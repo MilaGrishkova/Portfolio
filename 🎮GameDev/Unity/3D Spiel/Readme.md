@@ -213,6 +213,8 @@ Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen si
 <br> <br>
 Die Skripte sind an verschiedene Objekte angehängt und werden während des Spiels aufgerufen. An den Player ist das Skript Audiocollection angehängt, das verschiedene Geräusche abspielt.
 
+# Fazit
+
 1. Die Funktion des Schlafes als Erzeugung einer Grenzerfahrung (Heiligung des Schlafes, Traum als Wahnsinn). 
 Im Spiel wird der Traum als sakrales Phänomen dargestellt, welches mit dem Sterben verglichen wird. Das Thema des Fliegens dient als maßgeblicher Bestandteil für die Entwicklung des Hauptcharakters. Das Fliegen durch die Spielwelt entspricht im Traum seiner „Natur“. Beim Wechsel der Level im Spiel werden Videoclips gezeigt. Diese Clips ähneln Träumen. Die Träume sind obsessiv und werden als psychopathische Visionen dargestellt.
 
