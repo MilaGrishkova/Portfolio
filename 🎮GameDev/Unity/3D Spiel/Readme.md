@@ -160,11 +160,46 @@ Daher gibt es in dem eigenen Spiel zwei Spielwelten. Eine Welt ist das Hauptspie
 
 # Sound Design und Musik
 
+Das Spiel wurde in Unity erstellt, das Sounddesign und die Musik wurden mit Logic Pro und den Soundbibliotheken von Native Instruments, Dark Era, erstellt. Albtraumhafte Träume wurden in iMovie montiert.
+<br> <br>
+<p align="center">
+<img width="700" alt="Logic" src="https://github.com/user-attachments/assets/69c675a0-0134-4b66-9d6b-496ea5100ded" />
+ <br>
+  <em> Logic  </em>
+</p>
+<br> <br>
+
+
+<br> <br>
+<p align="center">
+<img width="700" alt="NI" src="https://github.com/user-attachments/assets/ace109d7-4528-4a24-a6f6-0c3518ef764c" />
+ <br>
+  <em> Native Instruments </em>
+</p>
+<br> <br>
+
+<br> <br>
+<p align="center">
+<img width="700" alt="DarkEra" src="https://github.com/user-attachments/assets/34d4566e-1c5b-4f06-ae5d-654fca418e16" />
+ <br>
+  <em> Dark Era </em>
+</p>
+<br> <br>
+
+<br> <br>
+<p align="center">
+<img width="700" alt="iMovie" src="https://github.com/user-attachments/assets/92e40934-57df-44a0-8299-8c3841d0fe95" />
+ <br>
+  <em> iMovie </em>
+</p>
+<br> <br>
+
+
 <br> <br>
 <p align="center">
 <img width="700" alt="Master" src="https://github.com/user-attachments/assets/d93eec29-5113-4baa-96a1-a84a66eb1e83" />
  <br>
-  <em> Pause  </em>
+  <em> Master </em>
 </p>
 <br> <br>
 Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen sind Masterkanäle und verschiedene Effekte zugewiesen.
@@ -174,7 +209,7 @@ Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen si
 <p align="center">
 <img width="700" alt="AudioCode" src="https://github.com/user-attachments/assets/cfcf6e0e-0c0a-4265-8925-2575d0ffafdc" />
  <br>
-  <em> Pause  </em>
+  <em> Audio Code Unity </em>
 </p>
 <br> <br>
 Die Skripte sind an verschiedene Objekte angehängt und werden während des Spiels aufgerufen. An den Player ist das Skript Audiocollection angehängt, das verschiedene Geräusche abspielt.
