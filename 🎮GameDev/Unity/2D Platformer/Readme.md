@@ -9,6 +9,15 @@
 <br> <br>
 
 
+
+<p align="center">
+<img width="700"  alt="2D" src="https://github.com/user-attachments/assets/ebdedc57-41d5-4127-9757-cf3fe25604d1" />
+ <br>
+  <em> 2D Spiel </em>
+</p>
+<br> <br>
+
+
 Der Fokus dieses Spiels liegt auf dem Sounddesign. 
 Es beinhaltet die Arbeit mit Kollidern und verschiedenen Oberflächen. Musik ist im Spiel bewusst nicht vorhanden.
 
