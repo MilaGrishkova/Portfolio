@@ -10,8 +10,8 @@
 
 <p align="right">
 „Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie, 
- der die Lebensart der Völker der Gegenwart untersucht“ 
- (J. Schell, 48).
+ 
+ der die Lebensart der Völker der Gegenwart untersucht“. J. Schell
 </p>
 <br> <br>
 
