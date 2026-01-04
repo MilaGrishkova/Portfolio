@@ -1,7 +1,11 @@
 
 # 3D-Spiel
 > [!NOTE]
-> Dieser 2D-Plattformer wurde von mir als Bachelorarbeit im Studiengang Musikinformatik an der Hochschule für Musik Karlsruhe entwickelt.
+> Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie,
+>
+> der die Lebensart der Völker der Gegenwart untersucht“.
+>
+> J. Schell
 <br> <br>
 
 <p align="right">
