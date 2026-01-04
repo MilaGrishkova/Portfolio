@@ -1,8 +1,10 @@
 
 # 2D-Spiel
+> [!NOTE]
+> 2D
 
 <p align="center">
-<img width="700"  alt="2D" src="https://github.com/user-attachments/assets/c61a416f-d577-49f4-8023-50bb2a2851cf" />
+<img width="300"  alt="2D" src="https://github.com/user-attachments/assets/c61a416f-d577-49f4-8023-50bb2a2851cf" />
  <br>
   <em>🎵 2D Spiel </em>
 </p>
