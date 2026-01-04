@@ -9,6 +9,25 @@
   <em>3D Nightmare</em>
 </p>
 
+<p align="right">
+„Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie, der die Lebensart der Völker der Gegenwart untersucht“ 
+(J. Schell, 48).
+</p>
+
+Schon im alten Ägypten wurde die Fähigkeit des Menschen, Träume zu erleben, dokumentiert. Am Übergang vom 20. zum 21. Jahrhundert wandelte sich das fortwährende Interesse an Träumen in systematische Untersuchungen, die die Aufmerksamkeit von Wissenschaftlern wie Soziologen, Anthropologen, Kulturwissenschaftlern und Religionswissenschaftlern wie D.E. Durkheim, J.G. Frazer, C. Lévi-Strauss, M. Eliade und anderen auf sich zogen. Dank der Forschungen dieser Autoren, wurde das Phänomen der Träume als soziales und kulturelles Phänomen untersucht.
+
+In der Philosophie wurde das Thema des Schlafs von Artemidoros, Platon, Aristoteles, Kant und anderen Philosophen diskutiert. Ein einzigartiger Beitrag zu dieser Masterarbeit ist das Werk von E. Levinas „Die Zeit und der Andere“ und das darin behandelte Thema der Schlaflosigkeit.
+
+Psychologie und Psychoanalyse haben einen erheblichen Beitrag zur Erforschung des Phänomens der Träume, der Natur von Albträumen und der Problematik der Schlaflosigkeit geleistet. Sowohl S. Freud als auch M. Heidegger haben sich mit der Natur des „Unheimlichen“ auseinandergesetzt. Das Thema des „Unheimlichen“ korrespondiert zweifellos mit dem Thema der Albträume und wird im Rahmen dieser Masterarbeit behandelt.
+
+Das Studium des Phänomens der Träume und Schlaflosigkeit aus der Perspektive der Philosophie, Psychologie und Psychoanalyse ermöglicht es, sich auf die subjektiven Aspekte des untersuchten Phänomens zu konzentrieren.
+
+Moderne Traumforschungsmethoden umfassen Techniken wie die Polysomnographie, Elektroenzephalographie (EEG) und Elektrookulographie (EOG).
+
+Das Thema Träume wird häufig in der Literatur behandelt, im Kino verarbeitet, in der Malerei dargestellt und findet auch in Videospielen wie Little Nightmares, Twisted Lands: Insomniac, Fallout 4, Baldur's Gate, Abyss Odyssey, Dragon Age, Among the Sleep, S.T.A.L.K.E.R, Dreamfall: The Longest Journey, Darkwood, Superliminal, The Sand Man, Darkness Within, Knock-Knock, Insomnia Theater in the Head, Insomnia 2 Scary Games usw. seinen Ausdruck.
+
+Diese Masterarbeit konzentriert sich auf die vergleichende Analyse des Phänomens der Träume und der Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie und modernen Videospielen. Die gewonnenen Daten werden zur Erstellung eines eigenen Computerspiels verwendet.
+
 
 <br> <br>
 <p align="center">
