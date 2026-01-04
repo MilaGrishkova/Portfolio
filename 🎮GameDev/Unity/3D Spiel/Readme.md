@@ -101,12 +101,10 @@ Das Gameplay des Spiels ist nach den Prinzipien der Schlaflosigkeit gestaltet, w
 Das Thema „Schlaflosigkeit“ wurde als grundlegend für die Entwicklung eines eigenen Computerspiels gewählt. Die „Schlaflosigkeit“, wie sie von Levinas dargestellt wird, wurde zum Hauptkonzept für die kreative Interpretation. Levinas' Buch bietet ein einzigartiges Verständnis vom Phänomen des Bewusstseins. Das Bewusstsein ist immer wach. Es ist gegenwärtig, existiert und kann nicht nicht existieren. Es kann sich nicht von sich selbst befreien und es kann sich nicht von sich selbst erholen.
 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;• 👩‍💻[Code](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code)
-
-Click 🎮[Play](https://play.unity.com/en/games/45447153-8b3a-4fcc-881c-72d7d41fd834/dont-sleep) to play the game!
-
-
+> [!NOTE]
+> [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code) kann man den 👩‍💻Code sehen.
+>
+> [Hier](https://play.unity.com/en/games/45447153-8b3a-4fcc-881c-72d7d41fd834/dont-sleep) kann man das 🎮Spiel Testen (Das Video im Spiel wird möglicherweise in einigen Browsern nicht unterstützt).
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
