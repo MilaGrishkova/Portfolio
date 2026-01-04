@@ -26,7 +26,7 @@ Psychologie und Psychoanalyse leisteten wesentliche Beiträge zur Erforschung vo
 
 Das Thema Träume wird häufig in der Literatur behandelt, im Kino verarbeitet, in der Malerei dargestellt und findet auch in Videospielen wie Little Nightmares, Twisted Lands: Insomniac, Fallout 4, Baldur's Gate, Abyss Odyssey, Dragon Age, Among the Sleep, S.T.A.L.K.E.R, Dreamfall: The Longest Journey, Darkwood, Superliminal, The Sand Man, Darkness Within, Knock-Knock, Insomnia Theater in the Head, Insomnia 2 Scary Games usw. seinen Ausdruck.
 
-Diese Masterarbeit konzentriert sich auf die vergleichende Analyse der Phänomene von Träumen und Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie sowie in modernen Videospielen. Die gewonnenen Erkenntnisse werden für die Entwicklung eines eigenen Computerspiels genutzt. Das Autorenspiel basiert zudem auf einer interpretierenden Auseinandersetzung mit den in Emmanuel Levinas’ Werk „Die Zeit und der Andere“ formulierten Ideen.
+Diese Masterarbeit konzentriert sich auf die vergleichende Analyse der Phänomene von Träumen und Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie sowie in modernen Videospielen. Die gewonnenen Erkenntnisse werden für die Entwicklung eines eigenen Computerspiels genutzt. Das Autorenspiel basiert zudem auf einer interpretierenden Auseinandersetzung mit den in [**Emmanuel Levinas**’ Werk „Die Zeit und der Andere“](https://circulosemiotico.wordpress.com/wp-content/uploads/2012/10/levinas_emmanuel_time_and_the_other_1987-1.pdf) formulierten Ideen.
 
 <p align="center">
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/f4365eb1-3080-47c9-9574-d18264843ecc" />
