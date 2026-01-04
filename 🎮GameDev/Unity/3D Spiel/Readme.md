@@ -179,20 +179,26 @@ Sie sind durch die integrierten Funktionen von Unity integriert. Den Klängen si
 <br> <br>
 Die Skripte sind an verschiedene Objekte angehängt und werden während des Spiels aufgerufen. An den Player ist das Skript Audiocollection angehängt, das verschiedene Geräusche abspielt.
 
-Die Funktion des Schlafes als Erzeugung einer Grenzerfahrung (Heiligung des Schlafes, Traum als Wahnsinn). Im Spiel wird der Traum als sakrales Phänomen dargestellt, welches mit dem Sterben verglichen wird. Das Thema des Fliegens dient als maßgeblicher Bestandteil für die Entwicklung des Hauptcharakters. Das Fliegen durch die Spielwelt entspricht im Traum seiner „Natur“. Beim Wechsel der Level im Spiel werden Videoclips gezeigt. Diese Clips ähneln Träumen. Die Träume sind obsessiv und werden als psychopathische Visionen dargestellt.
-Die Funktion der Schlaflosigkeit in Spielen. Das Konzept der Schlaflosigkeit wird durch wiederholtes Zurückkehren des Hauptcharakters zu derselben Szene in eine Spielwelt ohne die Möglichkeit zu schlafen oder aufzuwachen, umgesetzt, was die Metapher des „sinnlosen Wachens ohne Ziel“ (wie von Levinas beschrieben) ausdrückt.
-Die Funktion des Schlafes als Übergang in andere Welten. Der Übergang zwischen einzelnen Szenen wird in Form von kinematografischen Einsätzen umgesetzt, die dem Spiel eine Atmosphäre eines fortlaufenden Filmstreifens verleihen.
-Die Funktion des Schlafes als Erzeugung eines veränderten Raumes und einer veränderten Zeit im Spiel. Im entworfenen Spiel ist die Welt auf besondere Weise gestaltet. Der Raum der Welt ist durch ein Zimmer begrenzt und was darin geschieht, wird auf den Horizont projiziert, welcher dieses Zimmer umgibt. Zeit spielt ebenfalls eine wichtige Rolle, wie aus dem Namen hervorgeht. Die Zeit steuert die Level und startet sie immer wieder, bis der Spieler einen Ausweg findet.
-Die Funktion des Schlafes als Offenbarung des psychologischen Porträts des Hauptcharakters.  Das entworfene Spiel basiert auf psychologischer Spannung. Der Spieler muss herausfinden, ob der Hauptcharakter verrückt ist oder ob er ein Geist ist.
-Die Funktion des Schlafes als Möglichkeit, beim Spieler das Gefühl des „Unheimlichen“ hervorzurufen.  Das „Unheimliche“ kehrt durch alltägliche Gegenstände zurück. Nach dem Erwachen in einer vertrauten, häuslichen Umgebung entdeckt der Hauptcharakter, dass er von Monstern umgeben ist.
-Die Funktion des Schlafes, die mit dem sozialen Status des Träumers korreliert. Der Titel des Spiels „Die Zeit und der Andere“ stellt den Kontext her, in dem „der Andere“ eine wichtige Figur ist. Der Hauptcharakter ist nicht allein im Spiel. Genauer gesagt, in der Spielwelt sind zwei Hauptfiguren. Die Entdeckung des anderen Hauptcharakters und die Kontrolle über ihn ermöglichen es, das Spiel zu beenden. Im Spiel gibt es auch andere gefährliche Monster. Monster können Schaden anrichten und den Spielcharakter töten. 
+1. Die Funktion des Schlafes als Erzeugung einer Grenzerfahrung (Heiligung des Schlafes, Traum als Wahnsinn). 
+Im Spiel wird der Traum als sakrales Phänomen dargestellt, welches mit dem Sterben verglichen wird. Das Thema des Fliegens dient als maßgeblicher Bestandteil für die Entwicklung des Hauptcharakters. Das Fliegen durch die Spielwelt entspricht im Traum seiner „Natur“. Beim Wechsel der Level im Spiel werden Videoclips gezeigt. Diese Clips ähneln Träumen. Die Träume sind obsessiv und werden als psychopathische Visionen dargestellt.
+
+2. Die Funktion der Schlaflosigkeit in Spielen. Das Konzept der Schlaflosigkeit wird durch wiederholtes Zurückkehren des Hauptcharakters zu derselben Szene in eine Spielwelt ohne die Möglichkeit zu schlafen oder aufzuwachen, umgesetzt, was die Metapher des „sinnlosen Wachens ohne Ziel“ (wie von Levinas beschrieben) ausdrückt.
+
+3. Die Funktion des Schlafes als Übergang in andere Welten. Der Übergang zwischen einzelnen Szenen wird in Form von kinematografischen Einsätzen umgesetzt, die dem Spiel eine Atmosphäre eines fortlaufenden Filmstreifens verleihen.
+
+4. Die Funktion des Schlafes als Erzeugung eines veränderten Raumes und einer veränderten Zeit im Spiel. Im entworfenen Spiel ist die Welt auf besondere Weise gestaltet. Der Raum der Welt ist durch ein Zimmer begrenzt und was darin geschieht, wird auf den Horizont projiziert, welcher dieses Zimmer umgibt. Zeit spielt ebenfalls eine wichtige Rolle, wie aus dem Namen hervorgeht. Die Zeit steuert die Level und startet sie immer wieder, bis der Spieler einen Ausweg findet.
+
+5. Die Funktion des Schlafes als Offenbarung des psychologischen Porträts des Hauptcharakters.  Das entworfene Spiel basiert auf psychologischer Spannung. Der Spieler muss herausfinden, ob der Hauptcharakter verrückt ist oder ob er ein Geist ist.
+
+6. Die Funktion des Schlafes als Möglichkeit, beim Spieler das Gefühl des „Unheimlichen“ hervorzurufen.  Das „Unheimliche“ kehrt durch alltägliche Gegenstände zurück. Nach dem Erwachen in einer vertrauten, häuslichen Umgebung entdeckt der Hauptcharakter, dass er von Monstern umgeben ist.
+
+7. Die Funktion des Schlafes, die mit dem sozialen Status des Träumers korreliert. Der Titel des Spiels „Die Zeit und der Andere“ stellt den Kontext her, in dem „der Andere“ eine wichtige Figur ist. Der Hauptcharakter ist nicht allein im Spiel. Genauer gesagt, in der Spielwelt sind zwei Hauptfiguren. Die Entdeckung des anderen Hauptcharakters und die Kontrolle über ihn ermöglichen es, das Spiel zu beenden. Im Spiel gibt es auch andere gefährliche Monster. Monster können Schaden anrichten und den Spielcharakter töten. 
 
 Auf diese Weise vereint das Spiel geschickt archaische Vorstellungen von Träumen aus verschiedenen Kulturen mit innovativen Ideen und schafft damit einen einzigartigen und fesselnden Spielraum.
 
 Die wissenschaftliche und praktische Bedeutung dieser Forschung besteht darin, ein eigenes Computerspiel auf theoretischen und empirischen Grundlagen zu entwickeln, die im Laufe der Arbeit herausgearbeitet wurden. Dieses Spiel ist eine Interpretation des untersuchten Themas und vereint Elemente der Sakralität von Träumen, der Erfahrung des „Unheimlichen“, der „Schlaflosigkeit“ und moderner Spielmechaniken.
 
 Die weitere Entwicklung des Themas des Traumphänomens in Computerspielen könnte eine tiefere Analyse der Auswirkungen von Computerspielen auf den psychischen Zustand der Spieler, die Nutzung verschiedener Sensoren und die Anwendung neuer Technologien zur Schaffung virtueller Spielräume umfassen.
-
 
 
 
