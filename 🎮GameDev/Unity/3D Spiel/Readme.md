@@ -236,7 +236,7 @@ Die wissenschaftliche und praktische Bedeutung dieser Forschung besteht darin, e
 
 Die weitere Entwicklung des Themas des Traumphänomens in Computerspielen könnte eine tiefere Analyse der Auswirkungen von Computerspielen auf den psychischen Zustand der Spieler, die Nutzung verschiedener Sensoren und die Anwendung neuer Technologien zur Schaffung virtueller Spielräume umfassen.
 
-<br> <br>
+<br> 
 
 > [!NOTE]
 > [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code) kann man den Code👩‍💻 sehen.
