@@ -2,8 +2,7 @@
 # 3D-Spiel
 > [!NOTE]
 > Dieses 3D-Spiel wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
->
-> J. Schell
+
 <br> <br>
 
 <p align="right">
