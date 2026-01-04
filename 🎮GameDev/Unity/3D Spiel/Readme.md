@@ -1,7 +1,7 @@
 
 # 3D-Spiel
 > [!NOTE]
-> Dieses 3D-Spiel wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
+> Das Spiel „Die Zeit und der Andere“ wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
 
 <br> <br>
 
@@ -34,14 +34,34 @@ Das Thema Träume wird häufig in der Literatur behandelt, im Kino verarbeitet, 
 
 Diese Masterarbeit konzentriert sich auf die vergleichende Analyse des Phänomens der Träume und der Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie und modernen Videospielen. Die gewonnenen Daten werden zur Erstellung eines eigenen Computerspiels verwendet.
 
+In den meisten traditionellen Kulturen werden Träume als heilig betrachtet, da sie als Mittel der Kommunikation zwischen Menschen und der Welt der Toten verstanden werden. 
+Die mediale Funktion des Schlafs findet ihren Ursprung im Verständnis des Traumraums als eines speziellen Raums, in dem eine Kommunikation zwischen den Welten der Toten und der Vorfahren (Urvorfahren), zwischen der Welt der Geister, der Götter und der Menschen möglich ist. Der Traum wird als die Reise der Seele in eine andere Welt verstanden. 
+In Kulturen, in denen Traditionen konservativ und streng sind, hängt die Bedeutung von Träumen direkt mit dem sozialen Status des Träumers zusammen. Träume werden als legitim anerkannte Methode zur Einführung von Neuerungen genutzt (zum Beispiel das Entdecken neuer Lehren in Träumen, die Visionen von Priestern und Herrschern). 
+Durch Träume kann der Träumer neues Wissen und Fähigkeiten erlangen, die Zukunft vorhersagen. Der Träumer kann im Traum nicht nur Nutzen, sondern auch spürbaren Schaden erleiden, indem er auf böse Geister trifft.
+
+In dem entwickelten Spiel „Die Zeit und der Andere“ fanden die oben genannten Konzepte ihren Platz.
+
+
+<p align="center">
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/f4365eb1-3080-47c9-9574-d18264843ecc" />
+ <br>
+  <em> Don't play </em>
+</p>
+
+
+Das Spiel beginnt mit einer Warnung „Nicht spielen“. Diese Warnung steht auf dem Startknopf, dessen Betätigung das Spiel startet.
+
+Das Spiel „Die Zeit und der Andere“ ist ein Plattformer mit Elementen des Survival-Horrors und beinhaltet auch Puzzle-Elemente. In dem Spiel wechseln sich Ebenen ab: Es gibt Szenen aus der Egoperspektive und der Third-Person-Perspektive.
 
 <br> <br>
 <p align="center">
 <img width="700"   alt="3D1" src="https://github.com/user-attachments/assets/5f996cc0-c50c-49bc-8f63-3c9013f44597" />
  <br>
-  <em> 2D-Plattformer </em>
+  <em> Monstern </em>
 </p>
 <br> <br>
+
+Nach dem Erwachen aus dem Schlaf befindet sich der Hauptcharakter in seinem Zimmer unter dem Bett, umgeben von Monstern.
 
 
 
@@ -51,7 +71,7 @@ Diese Masterarbeit konzentriert sich auf die vergleichende Analyse des Phänomen
 <p align="center">
 <img width="700" alt="3D2" src="https://github.com/user-attachments/assets/c24e5fe0-cef7-43e1-989e-7b4da9d46f04" />
  <br>
-  <em> 2D-Plattformer </em>
+  <em> Monstern </em>
 </p>
 <br> <br>
 
