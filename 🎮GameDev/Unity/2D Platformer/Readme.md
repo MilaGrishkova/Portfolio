@@ -17,9 +17,10 @@ Im Rahmen des Projekts wird das Spiel zugleich als spielerische Handlung und als
 Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann als gewöhnlicher Plattformer. Wird das Level in einem bestimmten Tempo durchlaufen, wird eine elektronische Musikkomposition ausgelöst. Die Struktur des Levels orientiert sich an Prinzipien elektronischer Komposition: Durch die Interaktion mit Objekten der Spielwelt initiiert der Spieler Klangereignisse, die sich zu einem musikalischen Gesamtwerk zusammensetzen.
 
 Eine elektronische Komposition hat ihre eigene Struktur.
+<br> <br>
 
 <p align="center">
-<img width="400" alt="Struktur" src="https://github.com/user-attachments/assets/2ef41ca6-ad4f-4abf-a57a-dea3a277b258" />
+<img width="700" alt="Struktur" src="https://github.com/user-attachments/assets/2ef41ca6-ad4f-4abf-a57a-dea3a277b258" />
  <br>
   <em> 2D-Plattformer </em>
 </p>
@@ -38,9 +39,9 @@ so organisiert, dass der Spieler beim Passieren mit verschiedenen Objekten in Ko
 
 Wenn der Spieler auf seinem Weg seine ersten Münzen und einen Schlüssel trifft, kann er, nachdem er sie gesammelt hat, feststellen, dass er die Tür benutzen kann, indem er sie öffnet.
 
-
+<br> <br>
 <p align="center">
-<img width="400" alt="Door1" src="https://github.com/user-attachments/assets/a46368e4-8940-4e8f-94ac-566438e6b3c2" />
+<img width="700" alt="Door1" src="https://github.com/user-attachments/assets/a46368e4-8940-4e8f-94ac-566438e6b3c2" />
  <br>
   <em> Die Tür </em>
 </p>
@@ -53,7 +54,7 @@ Auf diese Weise reproduziert der Spieler das grundlegende Element, das die Musik
 Wenn wir das Level-Design mit dem Notentext schreiben würden, dann würde diese Stelle in den Noten so aussehen:
 
 <p align="center">
-<img width="400" alt="Door2" src="https://github.com/user-attachments/assets/8148027b-214f-4d0c-b313-41f9288367c2" />
+<img width="700" alt="Door2" src="https://github.com/user-attachments/assets/8148027b-214f-4d0c-b313-41f9288367c2" />
  <br>
   <em> Notentext </em>
 </p>
@@ -64,7 +65,7 @@ Es scheint sehr wahrscheinlich, dass der Spieler versucht, durch die Tür zu geh
 in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter voranbringt. Im Code ist diese Stelle wie folgt implementiert:
 
 <p align="center">
-<img width="400" alt="Door3" src="https://github.com/user-attachments/assets/b1bab76a-d2d6-450b-afe5-45d5b7249a0a" />
+<img width="700" alt="Door3" src="https://github.com/user-attachments/assets/b1bab76a-d2d6-450b-afe5-45d5b7249a0a" />
  <br>
   <em> Code Unity </em>
 </p>
