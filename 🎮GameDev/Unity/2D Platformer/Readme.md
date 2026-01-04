@@ -55,7 +55,7 @@ Nachdem der Spieler die Tür passiert hat, kommt er wider Erwarten nicht im Spie
 Auf diese Weise reproduziert der Spieler das grundlegende Element, das die Musik bildet die Wiederholung.
 
 Wenn wir das Level-Design mit dem Notentext schreiben würden, dann würde diese Stelle in den Noten so aussehen:
-
+<br> <br>
 <p align="center">
 <img width="700" alt="Door2" src="https://github.com/user-attachments/assets/8148027b-214f-4d0c-b313-41f9288367c2" />
  <br>
@@ -66,7 +66,7 @@ Wenn wir das Level-Design mit dem Notentext schreiben würden, dann würde diese
 Es scheint sehr wahrscheinlich, dass der Spieler versucht, durch die Tür zu gehen und dabei das Prinzip der Wiederholung zu entdecken. An diesem Punkt des Spiels spricht das Spiel die grundlegende Neugier des Spielers und die grundlegende Vertrauenserfahrung an, da das Aufnehmen des Schlüssels und das Betreten der Tür
 
 in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter voranbringt. Im Code ist diese Stelle wie folgt implementiert:
-
+<br> <br>
 <p align="center">
 <img width="700" alt="Door3" src="https://github.com/user-attachments/assets/b1bab76a-d2d6-450b-afe5-45d5b7249a0a" />
  <br>
@@ -76,7 +76,7 @@ in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter vor
 
 
 Auf der Ebene der musikalischen Struktur wird dies durch Breakdown repräsentiert. Im Spiel entspricht dies dem Moment, in dem der Spieler ins Wasser fällt. Das Spieltempo verlangsamt sich. Das Geräusch, das durch Kontakt mit Wasser erzeugt wird, ist ruhig.
-
+<br> <br>
 <p align="center">
 <img width="700" alt="Wasser" src="https://github.com/user-attachments/assets/53a55c78-492d-46da-937d-ce847a494440" />
  <br>
@@ -86,7 +86,7 @@ Auf der Ebene der musikalischen Struktur wird dies durch Breakdown repräsentier
 
 In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch eine Säge, eine Säge an einer Kette und durch Stacheln dargestellt. Bei Berührung wird ein Ton erzeugt, der in Atmosphäre und Stil ähnlich dem Dubstep ist. Die an dieser Stelle des Levels platzierten Herzen helfen dem Spieler einerseits, in einem eher schwierigen Gebiet am Leben zu bleiben und den Level zu bestehen. Andererseits helfen sie auch dem Soundtrack, wodurch der Sound des Spiels abwechslungsreicher und melodischer wird.
 
-
+<br> <br>
 <p align="center">
 <img width="700" alt="Säge" src="https://github.com/user-attachments/assets/7f4a529d-c117-40bb-a83d-ead70f218f05" />
  <br>
@@ -96,7 +96,7 @@ In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch
 
 Da dieser Moment musikalisch aktiv und aggressiv genug ist, um eine Überlastung im Klangraum zu vermeiden, wurde eine Art Objekt geschaffen, das den Klang einmal auslöst und das Objekt selbst durch ein anderes ersetzt, das keinen Klang mehr reproduzieren kann. Optisch kann dieser Ersatz für den Spieler offensichtlich sein ein Plattformtyp wird durch einen anderen ersetzt. Oder es ist nicht offensichtlich, die Art der Plattform wird durch genau die gleiche ersetzt, aber sie gibt bei der Interaktion keinen Ton wieder.
 
-
+<br> <br>
 <p align="center">
 <img width="700" alt="Diamanten" src="https://github.com/user-attachments/assets/4a8b3166-5498-4ff3-8233-fa6daa9c6461" />
  <br>
@@ -109,6 +109,7 @@ Im Moment des Spiels, der Main1 entspricht, sammelt der Spieler Diamanten. Diama
 
 Outro entspricht im Spiel dem letzten Level-Segment. Die Aufgaben in diesem Bereich sind für den Spieler ruhiger. Durch mechanisches Schieben von Kisten muss der Spieler die Kiste auf den Knopf fallen lassen, der den Durchgang öffnet. Der Fall der Kiste wird von einem Sounddesign begleitet.
 
+<br> <br>
 <p align="center">
 <img width="700" alt="Box" src="https://github.com/user-attachments/assets/b69877b2-d67b-4ad2-822b-4eb30f7bcdf0" />
  <br>
