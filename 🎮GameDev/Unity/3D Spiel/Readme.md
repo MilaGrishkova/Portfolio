@@ -102,9 +102,9 @@ Das Thema „Schlaflosigkeit“ wurde als grundlegend für die Entwicklung eines
 
 
 > [!NOTE]
-> [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code) kann man den 👩‍💻Code sehen.
+> [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code) kann man den Code👩‍💻 sehen.
 >
-> [Hier](https://play.unity.com/en/games/45447153-8b3a-4fcc-881c-72d7d41fd834/dont-sleep) kann man das 🎮Spiel Testen (Das Video im Spiel wird möglicherweise in einigen Browsern nicht unterstützt).
+> [Hier](https://play.unity.com/en/games/45447153-8b3a-4fcc-881c-72d7d41fd834/dont-sleep) kann man das Spiel🎮 spielen (Das Video im Spiel wird möglicherweise in einigen Browsern nicht unterstützt).
 
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev">
