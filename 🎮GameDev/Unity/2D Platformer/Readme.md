@@ -14,7 +14,62 @@ Dem Projekt liegt das Konzept „Homo Ludens“ von Johan Huizinga zugrunde, in 
 
 Im Rahmen des Projekts wird das Spiel zugleich als spielerische Handlung und als Ausübung eines Musikinstruments konzipiert.
 
-Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann – als gewöhnlicher Plattformer. Wird das Level in einem bestimmten Tempo durchlaufen, wird eine elektronische Musikkomposition ausgelöst. Die Struktur des Levels orientiert sich an Prinzipien elektronischer Komposition: Durch die Interaktion mit Objekten der Spielwelt initiiert der Spieler Klangereignisse, die sich zu einem musikalischen Gesamtwerk zusammensetzen.
+Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann als gewöhnlicher Plattformer. Wird das Level in einem bestimmten Tempo durchlaufen, wird eine elektronische Musikkomposition ausgelöst. Die Struktur des Levels orientiert sich an Prinzipien elektronischer Komposition: Durch die Interaktion mit Objekten der Spielwelt initiiert der Spieler Klangereignisse, die sich zu einem musikalischen Gesamtwerk zusammensetzen.
+
+Eine elektronische Komposition hat ihre eigene Struktur.
+
+<p align="center">
+<img width="400" alt="Struktur" src="https://github.com/user-attachments/assets/2ef41ca6-ad4f-4abf-a57a-dea3a277b258" />
+ <br>
+  <em> 2D-Plattformer </em>
+</p>
+<br> <br>
+
+Sie hat einen ruhigen Start. Dann kommen Entwicklung und Dämpfung.
+
+Danach ein kraftvoller Höhepunkt und das Ende. Diese Struktur bildete die Grundlage des Spieles als seinen rhythmischen Teil.
+
+Dieses Prinzip wurde bei der Erstellung des Spiel-Levels komplett wiederholt, die Struktur der Komposition bildete die Grundlage des Level- Designs.
+
+Am Anfang verläuft das Spiel ziemlich ruhig. Das Spiel am Anfang entspricht dem Intro und Breaks (siehe das Foto des Track-Aufbaus) im Aufbau der Musikkomposition. Der Spieler bewegt sich vorwärts und macht sich mit der Spielmechanik und seinen Regeln vertraut.
+Im weiteren Verlauf stellt der Spieler fest, dass bestimmte Elemente des Spiels besonders klingen. Das Intro wird automatisch implementiert, der Level ist bewusst
+
+so organisiert, dass der Spieler beim Passieren mit verschiedenen Objekten in Kontakt kommt und Geräusche verursacht.
+
+Wenn der Spieler auf seinem Weg seine ersten Münzen und einen Schlüssel trifft, kann er, nachdem er sie gesammelt hat, feststellen, dass er die Tür benutzen kann, indem er sie öffnet.
+
+
+<p align="center">
+<img width="400" alt="Door1" src="https://github.com/user-attachments/assets/a46368e4-8940-4e8f-94ac-566438e6b3c2" />
+ <br>
+  <em> Die Tür </em>
+</p>
+<br> <br>
+
+Nachdem der Spieler die Tür passiert hat, kommt er wider Erwarten nicht im Spiel vor, sondern er wird gleich zu Beginn des Spiels bewegt. Dieser Zug wird den Spieler mit der Notwendigkeit konfrontieren, den Level erneut zu durchlaufen, wobei er wieder mit den Elementen des Spiels in Kontakt kommt und die Klänge neu erzeugt.
+
+Auf diese Weise reproduziert der Spieler das grundlegende Element, das die Musik bildet die Wiederholung.
+
+Wenn wir das Level-Design mit dem Notentext schreiben würden, dann würde diese Stelle in den Noten so aussehen:
+
+<p align="center">
+<img width="400" alt="Door2" src="https://github.com/user-attachments/assets/8148027b-214f-4d0c-b313-41f9288367c2" />
+ <br>
+  <em> Notentext </em>
+</p>
+<br> <br>
+
+Es scheint sehr wahrscheinlich, dass der Spieler versucht, durch die Tür zu gehen und dabei das Prinzip der Wiederholung zu entdecken. An diesem Punkt des Spiels spricht das Spiel die grundlegende Neugier des Spielers und die grundlegende Vertrauenserfahrung an, da das Aufnehmen des Schlüssels und das Betreten der Tür
+
+in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter voranbringt. Im Code ist diese Stelle wie folgt implementiert:
+
+<p align="center">
+<img width="400" alt="Door3" src="https://github.com/user-attachments/assets/b1bab76a-d2d6-450b-afe5-45d5b7249a0a" />
+ <br>
+  <em> Code Unity </em>
+</p>
+<br> <br>
+
 
 Gleichzeitig eröffnet das Projekt die Möglichkeit einer freien musikalischen Interaktion mit dem Spielraum. Das Durchspielen des Levels ist nicht zwingend erforderlich – vielmehr kann der Spieler das Level als musikalisches Instrument nutzen, mit Klängen experimentieren und durch spielerische Handlungen Musik erzeugen.
 
