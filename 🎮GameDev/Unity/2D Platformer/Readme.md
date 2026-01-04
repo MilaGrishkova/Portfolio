@@ -89,7 +89,7 @@ In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch
 Da dieser Moment musikalisch aktiv und aggressiv genug ist, um eine Überlastung im Klangraum zu vermeiden, wurde eine Art Objekt geschaffen, das den Klang einmal auslöst und das Objekt selbst durch ein anderes ersetzt, das keinen Klang mehr reproduzieren kann. Optisch kann dieser Ersatz für den Spieler offensichtlich sein ein Plattformtyp wird durch einen anderen ersetzt. Oder es ist nicht offensichtlich, die Art der Plattform wird durch genau die gleiche ersetzt, aber sie gibt bei der Interaktion keinen Ton wieder.
 
 <p align="center">
-<img width="700" alt="Säge" src="https://github.com/user-attachments/assets/b8e20fee-cfb1-4967-8da6-dad91f40c167" />
+<img width="700" alt="Säge" src="https://github.com/user-attachments/assets/77ca0f57-fd83-4259-b9bd-e3a1fdc5c001" />
  <br>
   <em> Ein aktiver, aggressiver musikalischer Moment </em>
 </p>
