@@ -1,9 +1,7 @@
 
 # 3D-Spiel
 > [!NOTE]
-> Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie,
->
-> der die Lebensart der Völker der Gegenwart untersucht“.
+> Dieses 3D-Spiel wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
 >
 > J. Schell
 <br> <br>
