@@ -4,15 +4,6 @@
 > 2D
 
 <p align="center">
-<img width="300"  alt="2D" src="https://github.com/user-attachments/assets/c61a416f-d577-49f4-8023-50bb2a2851cf" />
- <br>
-  <em>🎵 2D Spiel </em>
-</p>
-<br> <br>
-
-
-
-<p align="center">
 <img width="700"  alt="2D6.2" src="https://github.com/user-attachments/assets/a1f7d800-15f4-4813-b35f-6d3e690f80d9" />
  <br>
   <em> 2D Spiel </em>
