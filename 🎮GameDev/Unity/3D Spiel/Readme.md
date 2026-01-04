@@ -13,7 +13,7 @@
 <br> <br>
 
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/f4365eb1-3080-47c9-9574-d18264843ecc" />
+<img width="700" alt="MAT" src="https://github.com/user-attachments/assets/3ff6fbb0-7025-4744-8e0f-7cc84404a993" />
  <br>
   <em>3D Nightmare</em>
 </p>
