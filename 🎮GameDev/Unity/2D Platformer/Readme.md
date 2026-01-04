@@ -16,6 +16,9 @@ Im Rahmen des Projekts wird das Spiel zugleich als spielerische Handlung und als
 
 Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann als gewöhnlicher Plattformer. Wird das Level in einem bestimmten Tempo durchlaufen, wird eine elektronische Musikkomposition ausgelöst. Die Struktur des Levels orientiert sich an Prinzipien elektronischer Komposition: Durch die Interaktion mit Objekten der Spielwelt initiiert der Spieler Klangereignisse, die sich zu einem musikalischen Gesamtwerk zusammensetzen.
 
+Gleichzeitig eröffnet das Projekt die Möglichkeit einer freien musikalischen Interaktion mit dem Spielraum. Das Durchspielen des Levels ist nicht zwingend erforderlich – vielmehr kann der Spieler das Level als musikalisches Instrument nutzen, mit Klängen experimentieren und durch spielerische Handlungen Musik erzeugen.
+
+
 Eine elektronische Komposition hat ihre eigene Struktur.
 <br> <br>
 
@@ -72,7 +75,27 @@ in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter vor
 <br> <br>
 
 
-Gleichzeitig eröffnet das Projekt die Möglichkeit einer freien musikalischen Interaktion mit dem Spielraum. Das Durchspielen des Levels ist nicht zwingend erforderlich – vielmehr kann der Spieler das Level als musikalisches Instrument nutzen, mit Klängen experimentieren und durch spielerische Handlungen Musik erzeugen.
+Auf der Ebene der musikalischen Struktur wird dies durch Breakdown repräsentiert. Im Spiel entspricht dies dem Moment, in dem der Spieler ins Wasser fällt. Das Spieltempo verlangsamt sich. Das Geräusch, das durch Kontakt mit Wasser erzeugt wird, ist ruhig.
+
+<p align="center">
+<img width="700" alt="Wasser" src="https://github.com/user-attachments/assets/c2e34cac-989b-474f-9cba-292b8733fcb4" />
+ <br>
+  <em> Ein ruhiger musikalischer Moment </em>
+</p>
+<br> <br>
+
+In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch eine Säge, eine Säge an einer Kette und durch Stacheln dargestellt. Bei Berührung wird ein Ton erzeugt, der in Atmosphäre und Stil ähnlich dem Dubstep ist. Die an dieser Stelle des Levels platzierten Herzen helfen dem Spieler einerseits, in einem eher schwierigen Gebiet am Leben zu bleiben und den Level zu bestehen. Andererseits helfen sie auch dem Soundtrack, wodurch der Sound des Spiels abwechslungsreicher und melodischer wird.
+
+Da dieser Moment musikalisch aktiv und aggressiv genug ist, um eine Überlastung im Klangraum zu vermeiden, wurde eine Art Objekt geschaffen, das den Klang einmal auslöst und das Objekt selbst durch ein anderes ersetzt, das keinen Klang mehr reproduzieren kann. Optisch kann dieser Ersatz für den Spieler offensichtlich sein ein Plattformtyp wird durch einen anderen ersetzt. Oder es ist nicht offensichtlich, die Art der Plattform wird durch genau die gleiche ersetzt, aber sie gibt bei der Interaktion keinen Ton wieder.
+
+<p align="center">
+<img width="700" alt="Säge" src="https://github.com/user-attachments/assets/33c74230-0b2a-4845-97be-85790a10bc8d" />
+ <br>
+  <em> Ein aktiver, aggressiver musikalischer Moment </em>
+</p>
+<br> <br>
+
+
 
 > [!NOTE]
 > 🎮 [Hier](https://play.unity.com/en/games/d6f010d8-a973-4a7d-a8fb-b92abe2d8f48/webgl-builds) kann man das Spiel spielen.
