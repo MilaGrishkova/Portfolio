@@ -1,18 +1,22 @@
 
 # 2D-Spiel
 > [!NOTE]
-> 2D
+> Dieser 2D-Plattformer wurde von mir als Bachelorarbeit im Studiengang Musikinformatik an der Hochschule für Musik Karlsruhe entwickelt.
 
 <p align="center">
 <img width="700"  alt="2D6.2" src="https://github.com/user-attachments/assets/a1f7d800-15f4-4813-b35f-6d3e690f80d9" />
  <br>
-  <em> 2D Spiel </em>
+  <em> 2D-Plattformer </em>
 </p>
 <br> <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dem Projekt liegt das Konzept „Homo Ludens“ von Johan Huizinga zugrunde, in dem Spiel als grundlegende Form kultureller Tätigkeit verstanden wird. 
 
-Der Fokus dieses Spiels liegt auf dem Sounddesign. 
-Es beinhaltet die Arbeit mit Kollidern und verschiedenen Oberflächen. Musik ist im Spiel bewusst nicht vorhanden.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Im Rahmen des Projekts wird das Spiel zugleich als spielerische Handlung und als Ausübung eines Musikinstruments konzipiert.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Das Level ist so gestaltet, dass es im klassischen Sinne gespielt werden kann – als gewöhnlicher Plattformer. Wird das Level in einem bestimmten Tempo durchlaufen, wird eine elektronische Musikkomposition ausgelöst. Die Struktur des Levels orientiert sich an Prinzipien elektronischer Komposition: Durch die Interaktion mit Objekten der Spielwelt initiiert der Spieler Klangereignisse, die sich zu einem musikalischen Gesamtwerk zusammensetzen.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleichzeitig eröffnet das Projekt die Möglichkeit einer freien musikalischen Interaktion mit dem Spielraum. Das Durchspielen des Levels ist nicht zwingend erforderlich – vielmehr kann der Spieler das Level als musikalisches Instrument nutzen, mit Klängen experimentieren und durch spielerische Handlungen Musik erzeugen.
 
 Click the [link](https://play.unity.com/en/games/d6f010d8-a973-4a7d-a8fb-b92abe2d8f48/webgl-builds) to play the game!
 
