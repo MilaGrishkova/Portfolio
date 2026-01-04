@@ -1,5 +1,5 @@
 
-# 3D-Spiel
+# 3D-Spiel „Die Zeit und der Andere“
 > [!NOTE]
 > Das Spiel „Die Zeit und der Andere“ wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
 
