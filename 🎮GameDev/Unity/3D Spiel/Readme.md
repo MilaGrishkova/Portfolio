@@ -101,6 +101,39 @@ Das Gameplay des Spiels ist nach den Prinzipien der Schlaflosigkeit gestaltet, w
 Das Thema „Schlaflosigkeit“ wurde als grundlegend für die Entwicklung eines eigenen Computerspiels gewählt. Die „Schlaflosigkeit“, wie sie von Levinas dargestellt wird, wurde zum Hauptkonzept für die kreative Interpretation. Levinas' Buch bietet ein einzigartiges Verständnis vom Phänomen des Bewusstseins. Das Bewusstsein ist immer wach. Es ist gegenwärtig, existiert und kann nicht nicht existieren. Es kann sich nicht von sich selbst befreien und es kann sich nicht von sich selbst erholen.
 
 
+<br> <br>
+<p align="center">
+<img width="700" alt="Timer" src="https://github.com/user-attachments/assets/e954064a-f1b5-4749-95a8-a9cddda98bf9" />
+ <br>
+  <em> Schlaflosigkeit  </em>
+</p>
+<br> <br>
+
+
+Der Übergang von Szene zu Szene wird durch einen Timer gesteuert. 
+Die Szene, in der das finale Rätsel versteckt ist, wird ebenfalls durch die Zeit gesteuert. Wenn der Spieler die Aufgabe nicht innerhalb einer bestimmten Zeit löst, wird der Hauptcharakter erneut in eine Reihe von Albträumen gezogen. Die Szene wird ebenfalls durch einen Timer gesteuert  (Abb. 37).
+
+<br> <br>
+<p align="center">
+<img width="700" alt="Spielende1" src="https://github.com/user-attachments/assets/75610bfb-26bb-487c-8b04-01c741de9608" />
+ <br>
+  <em> Das Spielende  </em>
+</p>
+<br> <br>
+
+
+Auf einer der Oberflächen befindet sich eine weitere Dimension des Spiels. Das Rätsel: ein Spiel im Spiel (Add.29). Sobald der Spieler den Hauptcharakter steuert, das Spiel im Spiel spielt und es gewinnt, endet das Spiel. 
+
+<br> <br>
+<p align="center">
+<img width="700" alt="Spielende2" src="https://github.com/user-attachments/assets/86284360-4c8f-4851-97dd-da4ab08dc6e8" />
+ <br>
+  <em> Schlaflosigkeit  </em>
+</p>
+<br> <br>
+
+
+
 > [!NOTE]
 > [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/3D%20Spiel/Code) kann man den Code👩‍💻 sehen.
 >
