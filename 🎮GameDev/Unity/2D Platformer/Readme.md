@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img width="700"  alt="2D" src="https://github.com/user-attachments/assets/ebdedc57-41d5-4127-9757-cf3fe25604d1" />
+<img width="700"  alt="2D6.2" src="https://github.com/user-attachments/assets/a1f7d800-15f4-4813-b35f-6d3e690f80d9" />
  <br>
   <em> 2D Spiel </em>
 </p>
