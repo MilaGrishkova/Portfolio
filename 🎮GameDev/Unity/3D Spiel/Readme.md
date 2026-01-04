@@ -64,28 +64,35 @@ Nach dem Erwachen aus dem Schlaf befindet sich der Hauptcharakter in seinem Zimm
 <br> <br>
 
 
-
+Die Monster greifen so schnell an, dass der Spieler keine Zeit hat zu reagieren und der Held stirbt. Danach wacht der Hauptcharakter wieder im selben Zimmer, aber bereits in seinem Bett auf.  
 
 
 <br> <br>
 <p align="center">
 <img width="700" alt="3D3" src="https://github.com/user-attachments/assets/f22ac457-a67d-4ed6-a019-6c52c4c86f9f" />
  <br>
-  <em> 2D-Plattformer </em>
+  <em> Zimmer </em>
 </p>
 <br> <br>
 
-
+Von den ersten Sekunden an lässt das Spiel den Spieler im Unklaren darüber, ob der Angriff der Monster ein Traum war oder ob alles tatsächlich passiert.
+Die Serie von Übergängen von einem Albtraum zum nächsten wiederholt sich, bis der Spieler in einer Szene landet, in der er die Spielumgebung erkunden kann. 
+Sobald der Spieler das Rätsel löst, ist das Spiel vorbei. Wenn der Spieler es nicht rechtzeitig schafft, wird der Hauptcharakter erneut in eine Serie albtraumhafter Erwachenszustände gezogen. 
 
 
 <br> <br>
 <p align="center">
 <img width="700" alt="3D4" src="https://github.com/user-attachments/assets/2e27f360-0a85-4a92-a147-a9d102df4a1f" />
  <br>
-  <em> 2D-Plattformer </em>
+  <em> Albtraum </em>
 </p>
 <br> <br>
 
+Das Gameplay des Spiels ist nach den Prinzipien der Schlaflosigkeit gestaltet, wie sie in Levinas' Werk „Die Zeit und der Andere“ dargestellt ist. Das Wechselspiel von Todesfällen und Erwachensphasen erweckt den Eindruck der Unvermeidlichkeit des Daseins und verwirrt mit der Frage, ob es möglich ist, aus diesem Albtraum aufzuwachen. Wer ist letztendlich der Träumer dieser Serie von Albträumen? Die Zeit geht nirgendwo hin, alles ist erstarrt, es gibt nur waches Sein ohne Ziel. Das ewige Erwachen in einem Raum, der den Hauptcharakter gefangen hält, als wäre er in einer Einzelzelle eingesperrt.
+
+Die Funktion der Schlaflosigkeit in Spielen
+
+Das Thema „Schlaflosigkeit“ wurde als grundlegend für die Entwicklung eines eigenen Computerspiels gewählt. Die „Schlaflosigkeit“, wie sie von Levinas dargestellt wird, wurde zum Hauptkonzept für die kreative Interpretation. Levinas' Buch bietet ein einzigartiges Verständnis vom Phänomen des Bewusstseins. Das Bewusstsein ist immer wach. Es ist gegenwärtig, existiert und kann nicht nicht existieren. Es kann sich nicht von sich selbst befreien und es kann sich nicht von sich selbst erholen.
 
 
 
@@ -93,10 +100,11 @@ Nach dem Erwachen aus dem Schlaf befindet sich der Hauptcharakter in seinem Zimm
 <p align="center">
 <img width="700" alt="3D5" src="https://github.com/user-attachments/assets/d397de17-8d2a-4913-be6b-c8edc7942e72" />
  <br>
-  <em> 2D-Plattformer </em>
+  <em> Schlaflosigkeit  </em>
 </p>
 <br> <br>
 
+Das Thema „Schlaflosigkeit“ wurde als grundlegend für die Entwicklung eines eigenen Computerspiels gewählt. Die „Schlaflosigkeit“, wie sie von Levinas dargestellt wird, wurde zum Hauptkonzept für die kreative Interpretation. Levinas' Buch bietet ein einzigartiges Verständnis vom Phänomen des Bewusstseins. Das Bewusstsein ist immer wach. Es ist gegenwärtig, existiert und kann nicht nicht existieren. Es kann sich nicht von sich selbst befreien und es kann sich nicht von sich selbst erholen.
 
 
 
