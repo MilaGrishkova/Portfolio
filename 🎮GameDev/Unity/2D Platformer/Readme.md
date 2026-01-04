@@ -86,6 +86,14 @@ Auf der Ebene der musikalischen Struktur wird dies durch Breakdown repräsentier
 
 In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch eine Säge, eine Säge an einer Kette und durch Stacheln dargestellt. Bei Berührung wird ein Ton erzeugt, der in Atmosphäre und Stil ähnlich dem Dubstep ist. Die an dieser Stelle des Levels platzierten Herzen helfen dem Spieler einerseits, in einem eher schwierigen Gebiet am Leben zu bleiben und den Level zu bestehen. Andererseits helfen sie auch dem Soundtrack, wodurch der Sound des Spiels abwechslungsreicher und melodischer wird.
 
+
+<p align="center">
+<img width="700" alt="Säge" src="https://github.com/user-attachments/assets/7f4a529d-c117-40bb-a83d-ead70f218f05" />
+ <br>
+  <em> Ein aktiver und aggressiver musikalischer Moment </em>
+</p>
+<br> <br>
+
 Da dieser Moment musikalisch aktiv und aggressiv genug ist, um eine Überlastung im Klangraum zu vermeiden, wurde eine Art Objekt geschaffen, das den Klang einmal auslöst und das Objekt selbst durch ein anderes ersetzt, das keinen Klang mehr reproduzieren kann. Optisch kann dieser Ersatz für den Spieler offensichtlich sein ein Plattformtyp wird durch einen anderen ersetzt. Oder es ist nicht offensichtlich, die Art der Plattform wird durch genau die gleiche ersetzt, aber sie gibt bei der Interaktion keinen Ton wieder.
 
 
