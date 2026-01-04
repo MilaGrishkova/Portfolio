@@ -2,7 +2,7 @@
 # 2D-Spiel
 > [!NOTE]
 > Dieser 2D-Plattformer wurde von mir als Bachelorarbeit im Studiengang Musikinformatik an der Hochschule für Musik Karlsruhe entwickelt.
-
+<br> <br>
 <p align="center">
 <img width="700"  alt="2D6.2" src="https://github.com/user-attachments/assets/a1f7d800-15f4-4813-b35f-6d3e690f80d9" />
  <br>
