@@ -1,9 +1,9 @@
 > [!NOTE]
 > Mila Grishkova
 >
-> Kontakt: milagrishkova.de@gmail.com
+> 💌 milagrishkova.de@gmail.com
 >
-> 0176 45298013
+> ☎️ 0176 45298013
 
 <br> <br>
 <p align="center">
