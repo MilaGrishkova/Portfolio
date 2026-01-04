@@ -78,7 +78,7 @@ in den meisten Spielen eine sichere Situation bedeuten, die das Spiel weiter vor
 Auf der Ebene der musikalischen Struktur wird dies durch Breakdown repräsentiert. Im Spiel entspricht dies dem Moment, in dem der Spieler ins Wasser fällt. Das Spieltempo verlangsamt sich. Das Geräusch, das durch Kontakt mit Wasser erzeugt wird, ist ruhig.
 
 <p align="center">
-<img width="700" alt="Wasser" src="https://github.com/user-attachments/assets/c2e34cac-989b-474f-9cba-292b8733fcb4" />
+<img width="700" alt="Wasser" src="https://github.com/user-attachments/assets/53a55c78-492d-46da-937d-ce847a494440" />
  <br>
   <em> Ein ruhiger musikalischer Moment </em>
 </p>
