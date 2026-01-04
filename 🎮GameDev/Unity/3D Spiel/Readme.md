@@ -17,6 +17,7 @@
  <br>
   <em>3D Nightmare</em>
 </p>
+<br> <br>
 
 Das Phänomen der Träume ist seit der Antike bekannt und wurde bereits im alten Ägypten dokumentiert. Im 20. und 21. Jahrhundert entwickelte sich das Interesse an Träumen zu einem interdisziplinären Forschungsfeld, das unter anderem von Soziologie, Anthropologie, Kultur- und Religionswissenschaft geprägt wurde. Träume wurden dabei als soziale und kulturelle Phänomene untersucht.
 
