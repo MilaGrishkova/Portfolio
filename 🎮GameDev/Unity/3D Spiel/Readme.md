@@ -3,16 +3,21 @@
 > [!NOTE]
 > Dieser 2D-Plattformer wurde von mir als Bachelorarbeit im Studiengang Musikinformatik an der Hochschule für Musik Karlsruhe entwickelt.
 <br> <br>
+
+<p align="right">
+„Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie, 
+ der die Lebensart der Völker der Gegenwart untersucht“ 
+ (J. Schell, 48).
+</p>
+<br> <br>
+
 <p align="center">
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/f4365eb1-3080-47c9-9574-d18264843ecc" />
  <br>
   <em>3D Nightmare</em>
 </p>
 
-<p align="right">
-„Besonders interessant für Game Designer ist der Bereich der Kulturanthropologie, der die Lebensart der Völker der Gegenwart untersucht“ 
-(J. Schell, 48).
-</p>
+
 
 Schon im alten Ägypten wurde die Fähigkeit des Menschen, Träume zu erleben, dokumentiert. Am Übergang vom 20. zum 21. Jahrhundert wandelte sich das fortwährende Interesse an Träumen in systematische Untersuchungen, die die Aufmerksamkeit von Wissenschaftlern wie Soziologen, Anthropologen, Kulturwissenschaftlern und Religionswissenschaftlern wie D.E. Durkheim, J.G. Frazer, C. Lévi-Strauss, M. Eliade und anderen auf sich zogen. Dank der Forschungen dieser Autoren, wurde das Phänomen der Träume als soziales und kulturelles Phänomen untersucht.
 
