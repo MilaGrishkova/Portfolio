@@ -12,12 +12,57 @@
 
 <br> <br>
 <p align="center">
-<img width="700"  alt="2D6.2" src="https://github.com/user-attachments/assets/a1f7d800-15f4-4813-b35f-6d3e690f80d9" />
+<img width="700"   alt="3D1" src="https://github.com/user-attachments/assets/5f996cc0-c50c-49bc-8f63-3c9013f44597" />
  <br>
   <em> 2D-Plattformer </em>
 </p>
 <br> <br>
 
+
+
+
+
+<br> <br>
+<p align="center">
+<img width="700" alt="3D2" src="https://github.com/user-attachments/assets/c24e5fe0-cef7-43e1-989e-7b4da9d46f04" />
+ <br>
+  <em> 2D-Plattformer </em>
+</p>
+<br> <br>
+
+
+
+
+
+<br> <br>
+<p align="center">
+<img width="700" alt="3D3" src="https://github.com/user-attachments/assets/f22ac457-a67d-4ed6-a019-6c52c4c86f9f" />
+ <br>
+  <em> 2D-Plattformer </em>
+</p>
+<br> <br>
+
+
+
+
+<br> <br>
+<p align="center">
+<img width="700" alt="3D4" src="https://github.com/user-attachments/assets/2e27f360-0a85-4a92-a147-a9d102df4a1f" />
+ <br>
+  <em> 2D-Plattformer </em>
+</p>
+<br> <br>
+
+
+
+
+<br> <br>
+<p align="center">
+<img width="700" alt="3D5" src="https://github.com/user-attachments/assets/d397de17-8d2a-4913-be6b-c8edc7942e72" />
+ <br>
+  <em> 2D-Plattformer </em>
+</p>
+<br> <br>
 
 
 
