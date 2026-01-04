@@ -88,10 +88,23 @@ In diesem Bereich trifft der Spieler auf die meisten Feinde. Feinde werden durch
 
 Da dieser Moment musikalisch aktiv und aggressiv genug ist, um eine Überlastung im Klangraum zu vermeiden, wurde eine Art Objekt geschaffen, das den Klang einmal auslöst und das Objekt selbst durch ein anderes ersetzt, das keinen Klang mehr reproduzieren kann. Optisch kann dieser Ersatz für den Spieler offensichtlich sein ein Plattformtyp wird durch einen anderen ersetzt. Oder es ist nicht offensichtlich, die Art der Plattform wird durch genau die gleiche ersetzt, aber sie gibt bei der Interaktion keinen Ton wieder.
 
+
 <p align="center">
-<img width="700" alt="Säge" src="https://github.com/user-attachments/assets/bb5e0d2e-c204-4e5d-95f3-3ff991df8331" />
+<img width="700" alt="Diamanten" src="https://github.com/user-attachments/assets/4a8b3166-5498-4ff3-8233-fa6daa9c6461" />
  <br>
-  <em> Ein aktiver, aggressiver musikalischer Moment </em>
+  <em> Diamanten </em>
+</p>
+<br> <br>
+
+
+Im Moment des Spiels, der Main1 entspricht, sammelt der Spieler Diamanten. Diamanten wiederum fungieren als Elemente, die zur Entwicklung der Musik beitragen und die Musik näher an den Outro-Teil bringen.
+
+Outro entspricht im Spiel dem letzten Level-Segment. Die Aufgaben in diesem Bereich sind für den Spieler ruhiger. Durch mechanisches Schieben von Kisten muss der Spieler die Kiste auf den Knopf fallen lassen, der den Durchgang öffnet. Der Fall der Kiste wird von einem Sounddesign begleitet.
+
+<p align="center">
+<img width="700" alt="Box" src="https://github.com/user-attachments/assets/b69877b2-d67b-4ad2-822b-4eb30f7bcdf0" />
+ <br>
+  <em> Main </em>
 </p>
 <br> <br>
 
