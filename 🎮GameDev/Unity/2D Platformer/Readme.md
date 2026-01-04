@@ -44,7 +44,7 @@ Wenn der Spieler auf seinem Weg seine ersten Münzen und einen Schlüssel trifft
 
 <br> <br>
 <p align="center">
-<img width="700" alt="Door1" src="https://github.com/user-attachments/assets/a46368e4-8940-4e8f-94ac-566438e6b3c2" />
+<img width="700" alt="Door" src="https://github.com/user-attachments/assets/35428210-d6ca-42ce-a284-b333a76d72ad" />
  <br>
   <em> Die Tür </em>
 </p>
