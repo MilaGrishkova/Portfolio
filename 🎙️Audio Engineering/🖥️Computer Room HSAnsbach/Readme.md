@@ -21,7 +21,7 @@ Die Aktualisierung der Software:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Native Instruments Libraries & Plugins
 
-&nbsp;&nbsp;&nbsp;&nbsp;• ✅ sowie die Installation neuer Plugins für die Arbeit von Professorinnen und Studierenden.
+&nbsp;&nbsp;&nbsp;&nbsp;• ✅ sowie die Installation neuer Plugins für die Arbeit von Professor*innen und Studierenden.
 
 &nbsp;&nbsp;&nbsp;&nbsp;• ✅ Beyerdynamic DT770Pro Kopfhörer 
 
