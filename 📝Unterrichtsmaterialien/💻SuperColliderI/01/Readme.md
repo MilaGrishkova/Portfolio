@@ -89,7 +89,7 @@ Schreibt mir gerne
 <p align="center">
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/a778cc5b-5233-400b-b92b-032ed7c2125b" />
  <br>
-  <em>Email Adresse</em>
+  <em>E-Mail-Adresse</em>
 </p>
 
 
@@ -97,7 +97,7 @@ Schreibt mir gerne
 > 📝 Kriterien fürs Bestehen des Kurses:
 <br>
 
-Hausaufgaben werden nicht bewerten
+Hausaufgaben werden nicht bewertet
 <br> <br>
 
 <p align="center">
@@ -120,7 +120,7 @@ Erfahrung? Erwartungen?
 </p>
 
 > [!NOTE]
-> 📝 Loss geht's:
+> 📝 Los geht's:
 <br>
 
 SuperCollider
