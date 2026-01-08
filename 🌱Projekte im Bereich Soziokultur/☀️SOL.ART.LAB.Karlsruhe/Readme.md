@@ -98,7 +98,7 @@ Mit der kreativen Technik der Solarographie werden Fotografien des städtischen 
  <br>
   <em>  Universität Bayreuth </em>
 </p>
-wird der Universität Bayreuth vorgeschlagen deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
+wird der Universität Bayreuth vorgeschlagen, deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
 
 
 > [!NOTE]
