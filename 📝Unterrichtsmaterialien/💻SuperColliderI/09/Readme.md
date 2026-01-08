@@ -6,7 +6,7 @@ Unterrichtsinhalte:
 
 > [!TIP]
 > Den Pfad zur Audiodatei kann man im Code hinzufügen, indem man sie einfach hinzieht (wie man normale Dateien hinzieht).
-> Wenn die Datei nicht abgespielt wird, löscht ihr sie und zieht ihr die Audiodatei erneut in den Code.
+> Wenn die Datei nicht abgespielt wird, löscht ihr sie und zieht die Audiodatei erneut in den Code.
 
 
 > [!NOTE]
