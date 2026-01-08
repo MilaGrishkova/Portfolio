@@ -7,7 +7,7 @@ Themen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [1. Einführung in SuperCollider](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/01)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [2. Grundlagen: Mathe, Liste](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/02)
+&nbsp;&nbsp;&nbsp;&nbsp;• [2. Grundlagen: Mathematik, Liste](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/02)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [3. Grundlagen: Variablen(locale, globale), SinOsc](https://github.com/MilaGrishkova/Portfolio/tree/main/📝Unterrichtsmaterialien/💻SuperColliderI/03)
 
