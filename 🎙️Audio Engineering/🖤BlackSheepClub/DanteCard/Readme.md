@@ -8,7 +8,7 @@
 > [!NOTE]
 > 🔌 Schritt 1:
 <br>
-Gerät ausschalten
+Gerät ausschalten<br>
 Den Mischer mit dem Netzschalter ausschalten.
 <br> <br>
 
