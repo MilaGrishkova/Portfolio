@@ -1,6 +1,6 @@
 **Schlagzeugmikrofonierung**
 > [!NOTE]
-> Mic's:
+> Mics:
 13. Kick Drum (shure Beta 52A)
 14. Snare main Top (Earthworks)
 15. Snare main Bottom (Beyerdynamic)
