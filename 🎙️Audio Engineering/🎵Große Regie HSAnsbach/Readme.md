@@ -1,7 +1,7 @@
 > [!NOTE]
 > In diesem Bereich
 
-wird das Tonstudio vorgestellt, welches ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
+wird ein Tonstudio vorgestellt, welches ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
 
 
