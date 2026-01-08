@@ -44,7 +44,7 @@ Supercollider
 > 📝 Semesterbeschreibung:
 <br>
 
-Wintersemester, Sommersemester, Kriterien für's Bestehen des Kurses.
+Wintersemester, Sommersemester, Kriterien fürs Bestehen des Kurses.
 <br> <br>
 
  
