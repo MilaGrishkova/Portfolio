@@ -218,9 +218,9 @@ Die Skripte sind an verschiedene Objekte angehängt und werden während des Spie
 1. Die Funktion des Schlafes als Erzeugung einer Grenzerfahrung (Heiligung des Schlafes, Traum als Wahnsinn). 
 Im Spiel wird der Traum als sakrales Phänomen dargestellt, welches mit dem Sterben verglichen wird. Das Thema des Fliegens dient als maßgeblicher Bestandteil für die Entwicklung des Hauptcharakters. Das Fliegen durch die Spielwelt entspricht im Traum seiner „Natur“. Beim Wechsel der Level im Spiel werden Videoclips gezeigt. Diese Clips ähneln Träumen. Die Träume sind obsessiv und werden als psychopathische Visionen dargestellt.
 
-2. Die Funktion der Schlaflosigkeit in Spielen. Das Konzept der Schlaflosigkeit wird durch wiederholtes Zurückkehren des Hauptcharakters zu derselben Szene in eine Spielwelt ohne die Möglichkeit zu schlafen oder aufzuwachen, umgesetzt, was die Metapher des „sinnlosen Wachens ohne Ziel“ (wie von Levinas beschrieben) ausdrückt.
+2. Die Funktion der Schlaflosigkeit in Spielen.  Das Konzept der Schlaflosigkeit wird durch wiederholtes Zurückkehren des Hauptcharakters zu derselben Szene in eine Spielwelt ohne die Möglichkeit zu schlafen oder aufzuwachen, umgesetzt, was die Metapher des „sinnlosen Wachens ohne Ziel“ (wie von Levinas beschrieben) ausdrückt.
 
-3. Die Funktion des Schlafes als Übergang in andere Welten. Der Übergang zwischen einzelnen Szenen wird in Form von kinematografischen Einsätzen umgesetzt, die dem Spiel eine Atmosphäre eines fortlaufenden Filmstreifens verleihen.
+3. Die Funktion des Schlafes als Übergang in andere Welten.  Der Übergang zwischen einzelnen Szenen wird in Form von kinematografischen Einsätzen umgesetzt, die dem Spiel eine Atmosphäre eines fortlaufenden Filmstreifens verleihen.
 
 4. Die Funktion des Schlafes als Erzeugung eines veränderten Raumes und einer veränderten Zeit im Spiel. Im entworfenen Spiel ist die Welt auf besondere Weise gestaltet. Der Raum der Welt ist durch ein Zimmer begrenzt und was darin geschieht, wird auf den Horizont projiziert, welcher dieses Zimmer umgibt. Zeit spielt ebenfalls eine wichtige Rolle, wie aus dem Namen hervorgeht. Die Zeit steuert die Level und startet sie immer wieder, bis der Spieler einen Ausweg findet.
 
