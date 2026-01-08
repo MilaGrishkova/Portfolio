@@ -59,8 +59,8 @@ musikalischen Form ausdrücken können.
 der Nähe bin, vermeide ich es, Emotionen oder Mimik zu zeigen, um den Prozess
 nicht durch eine subjektive Bewertung zu beeinflussen. Ich stehe für Fragen oder
 Unterstützung zur Verfügung, halte mich aber zurück, was wichtig für die
-Unabhängigkeit und Freiheit des Jugendlichen ist. Gleichzeitig gebe ich zu verstehen,
-dass ich ihn voll unterstütze und auf seiner Seite bin.
+Unabhängigkeit und Freiheit der Jugendlichen ist. Gleichzeitig gebe ich zu verstehen,
+dass ich sie voll unterstütze und auf ihrer Seite bin.
 
 Beispiel:
 
