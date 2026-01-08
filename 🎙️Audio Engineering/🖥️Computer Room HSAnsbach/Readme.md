@@ -1,7 +1,7 @@
 > [!NOTE]
 > In diesem Bereich
 
-wird Computerraum vorgestellt, das ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
+wird ein Computerraum vorgestellt, den ich in meiner Tätigkeit als Audioingenieurin begleitet habe, sowie verschiedene technische Geräte, mit denen ich in meiner beruflichen Praxis gearbeitet habe.
 
 Als Audioingenieurin war ich außerdem für den Zustand von 15 Computern verantwortlich.
 
