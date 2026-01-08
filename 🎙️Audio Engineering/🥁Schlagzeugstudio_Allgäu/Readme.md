@@ -59,7 +59,7 @@ Stell die Mikrofone auf.
 
 
 
- Schließe die Mikrofone über XLR-Kabel an den Multicore-Snake an. Im Studio gibt es zwei Multicore-Snakes.  Die zweite Multicore-Snake hat die Kanäle 13 bis 24 beschriftet. Im Routing sind die Kanäle ebenfalls von 1 bis 24 angeordnet, und sie werden eins zu eins abgebildet. 
+ Schließe die Mikrofone über XLR-Kabel an den Multicore-Snake an. Im Studio gibt es zwei Multicore-Snakes.  Die zweite Multicore-Snake hat die Kanäle 13 bis 24 beschriftet. Im Routing sind die Kanäle ebenfalls von 1 bis 24 angeordnet und sie werden eins zu eins abgebildet. 
 
 
 > [!NOTE]
@@ -179,7 +179,7 @@ Der Multicore-Snake ist korrekt mit dem Avid Digisnake verbunden. Da der Multico
 
 
 
-Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von rechts nach links, wenn man von hinten, von der Anschlussseite aus, schaut.
+Die Avid Digisnakes sind mit der Matrix verbunden. Die Nummerierung erfolgt von rechts nach links, wenn man von  der hinten befindlichen Anschlussseite aus schaut.
 
 
 
