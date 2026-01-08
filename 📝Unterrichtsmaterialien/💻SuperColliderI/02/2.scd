@@ -14,7 +14,7 @@ s.boot
 // Kommentare über eine Zeile: //
 
 /*
-Kommentare über mehrere Zeile:
+Kommentare über mehrere Zeilen:
 */
 
 // Hilfe (+ Shortcuts)
