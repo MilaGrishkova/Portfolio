@@ -32,11 +32,11 @@ Die Erde wurde von einer Covid-Karte gebildet. Die Pandemie hat die Trennung der
 
 Aus musikalischer Sicht ist dieses Projekt letztendlich ein Musikinstrument, das mit Musik im Glitch-Stil gespielt werden kann.
 
-Glitch wurde als eine ["Ästhetik des Scheiterns"](https://de.wikipedia.org/wiki/Scheitern_(Misserfolg)) beschrieben, die sich durch den bewussten Einsatz von Störunge, Audiomedien und anderen Klangartefakten auszeichnet. Wiki sagt «Scheitern ist also – anders als bei den bedeutungsähnlichen Verben – nicht rückgängig zu machen».
+Glitch wurde als eine ["Ästhetik des Scheiterns"](https://de.wikipedia.org/wiki/Scheitern_(Misserfolg)) beschrieben, die sich durch den bewussten Einsatz von Störungen, Audiomedien und anderen Klangartefakten auszeichnet. Wiki sagt «Scheitern ist also – anders als bei den bedeutungsähnlichen Verben – nicht rückgängig zu machen».
 
 Die Hauptmusik ist ein Mix, den ich aus dem NASA-Sound von Jupiter und Kompositionen «The Bug» aus dem Album (Juni 2021) [Return to Solaris](https://phantomlimblabel.bandcamp.com/album/return-to-solaris) by Kevin Richard Martin erstellt habe. 
 
-Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zufällig. Die Klänge wurden in der Glitch - Ästhetik gemacht. Für die benutzte ich Samples aus John Zorn [«Simulacrum»](https://en.wikipedia.org/wiki/Simulacrum). 
+Klänge (die durch Klicken auf jede Kugel abgespielt werden können) kommen zufällig. Die Klänge wurden in der Glitch - Ästhetik gemacht. Für die benutzte ich Samples aus John Zorns [«Simulacrum»](https://en.wikipedia.org/wiki/Simulacrum). 
 
 > [!Note]
 > [Hier](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/Vuforia/UnityCode) kann man den Code 👩‍💻 sehen.
