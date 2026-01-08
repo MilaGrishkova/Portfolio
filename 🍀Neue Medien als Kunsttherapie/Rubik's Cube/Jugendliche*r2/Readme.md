@@ -33,7 +33,7 @@ Er stimmte freudig zu.
 Gemäß den Spielregeln wird die Musik im Spiel ständig wiederholt.  
 Daher haben wir die Musik auch auf Wiederholung gestellt.  
 
-Aus therapeutischer Sicht war es notwendig, die Komposition genau so oft zu hören, wie es H1benötigte.  
+Aus therapeutischer Sicht war es notwendig, die Komposition genau so oft zu hören, wie es H1 benötigte.  
 Es gibt Studien zur Märchentherapie, in denen beschrieben wird, wie Kinder immer wieder die gleichen Geschichten hören, bis sie für sie einen erleichternden Effekt haben. Ähnlich ist es in diesem Projekt. Der Jugendliche, der eine Komposition erstellt und seine Gefühle ausgedrückt hat, bekommt die Möglichkeit, diese Emotionen von außen zu beobachten und zu verarbeiten. Er kann die Komposition so oft anhören, wie es für ihn wichtig ist.  
 
 H1 reagierte lebhaft und sagte, dass er seine Komposition hören wolle.  
@@ -48,7 +48,7 @@ H1 hat tiefe Bedeutungen und Gefühle in seine Komposition eingebracht. Das wied
 H1 war mit seinen Gefühlen nicht allein und das hat ihm offensichtlich Halt gegeben.  
 Es ist interessant zu beobachten, wie H1 den Fokus von der Drehung des Würfels (den Anstrengungen) auf die Melodie selbst (das Leben) verlagert. 
 
-Ebenso wichtig ist es zu betonen, dass H1 den Würfel (die Persönlichkeit) klar in Flächen für sich selbst und Flächen für andere unterteilt. Die Fläche für andere hat stets unterschiedliche Farben, abhängig davon, mit wem Heiko interagiert. 
+Ebenso wichtig ist es zu betonen, dass H1 den Würfel (die Persönlichkeit) klar in Flächen für sich selbst und Flächen für andere unterteilt. Die Fläche für andere hat stets unterschiedliche Farben, abhängig davon, mit wem H1 interagiert. 
 
 Bedeutsam ist auch, dass H1 ein klares Verständnis davon hat, wie er für sich selbst ist. Das Vorhandensein einer Fläche für andere verändert seine Persönlichkeit nicht. Obwohl H1 erkennt, dass er sich mit jedem Menschen anders zeigt, bleibt er für sich selbst immer in den Farben Weiß, Violett und Orange.
 
