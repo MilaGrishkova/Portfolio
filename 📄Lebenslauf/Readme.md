@@ -8,7 +8,7 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 **Berufliche Erfahrung**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Lehrprozesse organisierte, 
 
@@ -62,7 +62,7 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 <img width="700" alt="Lebenslauf_Grishkova" src="https://github.com/user-attachments/assets/fd8491cd-cfd7-414b-8346-c90631335af2" />
  <br>
 </p>
-
+ <br> <br>
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
 </a>
