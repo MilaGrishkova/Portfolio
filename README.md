@@ -4,7 +4,6 @@
   <em> Hallo, ich heiße Mila Grishkova!</em>
 </p>
 <p align="center">
-🎵✨〰️✨**Portfolio**✨〰️✨🎵
  
 Dieses Portfolio dokumentiert meine praktische und pädagogische Arbeit im Feld der digitalen Audio- und Medienpraxis. Es ist aus langjähriger Tätigkeit in der Arbeit mit Klang, Code, Spielen und Menschen entstanden: in Lehrkontexten, Studios, performativen Settings sowie in soziokulturellen Projekten.
 
