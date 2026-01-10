@@ -114,7 +114,7 @@ Erfahrung? Erwartungen?
 <br> <br>
 
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/d66b1c7b-d0eb-4e1e-b0b2-cf9236532927" />
+<img width="300" alt="1" src="https://github.com/user-attachments/assets/d66b1c7b-d0eb-4e1e-b0b2-cf9236532927" />
  <br>
   <em>Gruppenvorstellung</em>
 </p>
