@@ -6,13 +6,13 @@ Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie so
 
 Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
 
-Berufliche Erfahrung:
+**Berufliche Erfahrung**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audioingenieurin an der Hochschule Ansbach: Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound Design, Musikproduktion und interaktiven Audiosystemen, Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung der Audioabteilung bei 1001 Perspektiven: Umsetzung interdisziplinärer Projekte und Jugendprogramme im psychotherapeutischen Kontext, Akquise von Fördermitteln von Stadt und Sponsoren, Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung von Unity-basierten Spielen im audiotherapeutischen Kontext.
 
-Kernkompetenzen:
+**Kernkompetenzen**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung und Projektmanagement (5 Jahre Erfahrung, Aufbau von Netzwerken für Projekte und Kooperationen);
 
