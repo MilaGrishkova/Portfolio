@@ -18,7 +18,7 @@ Künsltern:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Chelistin (Roland Kaiser, Alex Christensen usw).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Chelistin (Roland Kaiser usw).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SaMo](https://www.saltatio-mortis.com): Rock/Wcken.
 
