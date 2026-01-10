@@ -40,7 +40,8 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Akquise von Fördermitteln von Stadt und Sponsoren, 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung von Unity-basierten Spielen im audiotherapeutischen Kontext.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;von Unity-basierten Spielen im audiotherapeutischen Kontext.
 
 **Kernkompetenzen**:
 
@@ -48,7 +49,7 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Pädagogik (über 5 Jahre Erfahrung in eigenen Lehr- und soziokulturellen Programmen);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, 
 
