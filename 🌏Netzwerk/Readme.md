@@ -9,7 +9,6 @@ Städtische Institutionen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Guntram Prochaska](https://guntram-prochaska.de): [Grötzinger Kulturmeile](https://www.kulturmeile-groetzingen.de).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Jubez](https://jubez.de)
 
 
 Künsltern:
@@ -23,11 +22,13 @@ Künsltern:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
 
+
 Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Vincent Sorg](https://de.wikipedia.org/wiki/Vincent_Sorg): Musikproduzent.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Claudio Malaguti](https://www.cl-audio-klangoptimierung.de): FOH (Alligatoah, Saltatio Mortis usw).
+
 
 
 Medizin, Psychologie:
@@ -39,6 +40,7 @@ Medizin, Psychologie:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Felix Bechberger](https://www.walter-eucken-schule.de/ansprechpartner/sonderpädagogischer-dienst/): Sonderpädagogik, Autismus.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am KIT (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
+
 
 
 Universitäten:
@@ -55,8 +57,11 @@ Universitäten:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Sigmund Freud Dream Museum](https://en.freud.ru): Psychoanalyse.
 
+
 Sport:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss)
+
+USW...
 
 
 <br> <br>
