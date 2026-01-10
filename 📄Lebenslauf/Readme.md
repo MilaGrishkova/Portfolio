@@ -1,30 +1,21 @@
-Mein Name ist Mila Grishkova. 
+Mein Name ist Mila Grishkova.
 
-Ich bin Musikinformatikerin und Audioingenieurin mit Leidenschaft für digitale Klanggestaltung, Game Audio und interaktive Medien, die schon in meiner Kindheit begann: als ich Kiind war, baute mein Vater meinen ersten Computer (ZX Spectrum), auf dem Spiele über Audiokassetten geladen wurden, ein prägendes Erlebnis für meine Begeisterung für Audio und digitale Systeme.
+Ich bin Musikinformatikerin und Audioingenieurin mit großer Leidenschaft für digitale Klanggestaltung, Game Audio und interaktive Medien, die bereits in meiner Kindheit begann: Mein Vater baute meinen ersten Computer (ZX Spectrum), auf dem Spiele über Audiokassetten geladen wurden. Dieses Erlebnis weckte meine Begeisterung für Audio und digitale Systeme.
 
-Ich habe Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe studiert, mit Schwerpunkt auf Spielentwicklung und Sounddesign, und mehrere 2D- und 3D-Spiele in Unity entwickelt. Derzeit bereite ich meine Promotion in Computerspielwissenschaften an der Universität Bayreuth vor, in der ich meine Kenntnisse in Mythologie, Philosophie und Religionswissenschaften mit Game- und Sounddesign verbinde. Ziel ist die systematische Analyse mythologischer Strukturen in Videospielen zur Entwicklung innovativer Spiel- und Lehrformate.
+Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie sowie Religionswissenschaften studiert, mit Schwerpunkt auf Kunst- und Musiktherapie. Beruflich war ich Leiterin eines Musikstudios an einem Polytechnischen College, wo ich Lehrprozesse organisierte, musikalische und kulturelle Projekte plante und durchführte, Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Darüber hinaus arbeitete ich als Kunst- und Musiktherapeutin und entwickelte meine eigene musiktherapeutische Methodik.
 
-Mein interdisziplinärer Hintergrund in Psychologie, Philosophie, Religionswissenschaften, Mythologie und Kulturwissenschaften unterstützt meine konzeptionelle Arbeit in Game Design und digitaler Komposition.
+Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
 
-Beruflich verfüge ich über umfangreiche Erfahrung in Leitung, Projektmanagement und Pädagogik:
+Berufliche Erfahrung:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audioingenieurin an der Hochschule Ansbach: Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound Design, Musikproduktion und interaktiven Audiosystemen, Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leiterin des Musikstudios am Polytechnischen College
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung der Audioabteilung bei 1001 Perspektiven: Umsetzung interdisziplinärer Projekte und Jugendprogramme im psychotherapeutischen Kontext, Akquise von Fördermitteln von Stadt und Sponsoren, Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung von Unity-basierten Spielen im audiotherapeutischen Kontext.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audioingenieurin an der Hochschule Ansbach (Tonstudios, Workshops, Sound-Integration)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung der Audioabteilung bei 1001 Perspektiven, mit interdisziplinären Projekten und Jugendprogrammen in psychotherapeutischen Kontexten
-
-
-Meine Kompetenzen umfassen:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Leitung & Projektmanagement (5 Jahre, Aufbau von Netzwerken für Projekte und Kooperationen)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Pädagogik (über 5 Jahre Erfahrung in eigenen Lehr- und Soziokulturprogrammen)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Musikinformatik & digitale Komposition (Algorithmische Komposition, Creative Coding, Immersives Audio, SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic)
-
+Kernkompetenzen:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung und Projektmanagement (5 Jahre Erfahrung, Aufbau von Netzwerken für Projekte und Kooperationen);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Pädagogik (über 5 Jahre Erfahrung in eigenen Lehr- und soziokulturellen Programmen);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
 
 <br> <br>
 <p align="center">
