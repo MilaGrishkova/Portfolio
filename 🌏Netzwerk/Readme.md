@@ -38,6 +38,10 @@ Audio:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
+Social Media
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Simon Volz](https://simonvolz.de).
+
+<br>
 Medizin, Psychologie:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Hochschule Ansbach](https://www.hs-ansbach.de/hochschule/fakultaeten/fakultaet-technik): Industrielle Biotechnologie.
