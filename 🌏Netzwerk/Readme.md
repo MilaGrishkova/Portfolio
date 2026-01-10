@@ -33,6 +33,8 @@ Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken](https://www.wacken.com/de/alle-news/).
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Feuertanz-Festival](https://www.feuertanz-festival.com).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
