@@ -12,7 +12,27 @@ An der Hochschule Ansbach war ich als Audioingenieurin tätig und verantwortete 
 Aktuell leite ich die Audioabteilung bei 1001 Perspektiven, wo ich interdisziplinäre Projekte und Jugendprogramme im psychotherapeutischen Kontext konzipiere und umsetze. Zu meinen Aufgaben gehören die Akquise von Fördermitteln bei kommunalen Institutionen und Sponsor:innen sowie die Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“, das auf der Entwicklung Unity-basierter Spiele im audiotherapeutischen Kontext basiert.
 
 
-Meine **Kernkompetenzen** liegen in der Leitung und im Projektmanagement mit über fünf Jahren Erfahrung, einschließlich des Aufbaus nachhaltiger Netzwerke für Projekte und Kooperationen, in der Pädagogik mit mehr als fünf Jahren Erfahrung in eigenen Lehr- und soziokulturellen Programmen sowie in Musikinformatik und digitaler Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio mit Unity, FMOD und Wwise). Ergänzt wird dies durch fundierte Expertise im Audio Engineering, insbesondere mit Pro Tools, Logic, Ableton und Reaper, Live- und FOH-Systemen (Avid, Stagetec, Allen & Heath), Routing- und Audionetzwerken (Dante, DADman, Nexus) sowie immersiven Audioformaten wie Dolby Atmos und Ambisonics (Sennheiser Ambeo).
+Meine **Kernkompetenzen** liegen in der Leitung und im Projektmanagement mit über fünf Jahren Erfahrung, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• einschließlich des Aufbaus nachhaltiger Netzwerke für Projekte und Kooperationen, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• in der Pädagogik mit mehr als fünf Jahren Erfahrung in eigenen Lehr- und soziokulturellen Programmen sowie in Musikinformatik und digitaler Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio mit Unity, FMOD und Wwise). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Ergänzt wird dies durch fundierte Expertise im Audio Engineering, insbesondere mit Pro Tools, Logic, Ableton und Reaper, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Live- und FOH-Systemen (Avid, Stagetec, Allen & Heath), 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Routing- und Audionetzwerken (Dante, DADman, Nexus) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• sowie immersiven Audioformaten wie Dolby Atmos und Ambisonics (Sennheiser Ambeo).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
+
 
 <br> <br>
 <p align="center">
