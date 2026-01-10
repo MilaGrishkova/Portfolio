@@ -4,7 +4,7 @@ Ich bin Musikinformatikerin und Audioingenieurin mit umfassender Erfahrung in Au
 
 Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie sowie Religionswissenschaften studiert, mit Schwerpunkt auf Kunst- und Musiktherapie. 
 
-Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
+Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor. 
 
 **Berufliche Erfahrung** 
 
