@@ -8,7 +8,13 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 **Berufliche Erfahrung**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich Lehrprozesse organisierte, musikalische und kulturelle Projekte plante und durchführte, Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Darüber hinaus arbeitete ich als Kunst- und Musiktherapeutin und entwickelte meine eigene musiktherapeutische Methodik.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Lehrprozesse organisierte, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• musikalische und kulturelle Projekte plante und durchführte, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• einschließlich der Vorbereitung auf städtische Musikwettbewerbe. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Darüber hinaus arbeitete ich als **Kunst- und Musiktherapeutin** und entwickelte meine eigene musiktherapeutische Methodik.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Audioingenieurin an der Hochschule Ansbach**: 
 
