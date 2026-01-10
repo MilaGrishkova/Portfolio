@@ -9,7 +9,8 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 **Berufliche Erfahrung**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audioingenieurin an der Hochschule Ansbach: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound Design, Musikproduktion und interaktiven Audiosystemen, Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound Design, Musikproduktion und interaktiven Audiosystemen, Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung der Audioabteilung bei 1001 Perspektiven: Umsetzung interdisziplinärer Projekte und Jugendprogramme im psychotherapeutischen Kontext, Akquise von Fördermitteln von Stadt und Sponsoren, Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung von Unity-basierten Spielen im audiotherapeutischen Kontext.
 
