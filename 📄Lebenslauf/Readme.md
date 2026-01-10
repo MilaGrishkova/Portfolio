@@ -20,7 +20,7 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Darüber hinaus arbeitete ich als **Kunst- und Musiktherapeutin** und entwickelte meine eigene musiktherapeutische 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Methodik.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Methodik.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Audioingenieurin an der Hochschule Ansbach**: 
 
