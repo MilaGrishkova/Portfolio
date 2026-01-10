@@ -2,6 +2,7 @@
 > 🌏 My Netzwerk
 
 In diesem Abschnitt gebe ich eine kurze Liste meiner beruflichen Kontakte an.
+<br>
 
 Städtische Institutionen:
 
@@ -9,7 +10,7 @@ Städtische Institutionen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Guntram Prochaska](https://guntram-prochaska.de): [Grötzinger Kulturmeile](https://www.kulturmeile-groetzingen.de).
 
-
+<br>
 
 Künsltern:
 
@@ -22,7 +23,7 @@ Künsltern:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
 
-
+<br>
 Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Vincent Sorg](https://de.wikipedia.org/wiki/Vincent_Sorg): Musikproduzent.
@@ -30,7 +31,7 @@ Audio:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Claudio Malaguti](https://www.cl-audio-klangoptimierung.de): FOH (Alligatoah, Saltatio Mortis usw).
 
 
-
+<br>
 Medizin, Psychologie:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Hochschule Ansbach](https://www.hs-ansbach.de/hochschule/fakultaeten/fakultaet-technik): Industrielle Biotechnologie.
@@ -42,7 +43,7 @@ Medizin, Psychologie:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am KIT (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
 
 
-
+<br>
 Universitäten:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Hochschule Ansbach](https://www.hs-ansbach.de/hochschule/fakultaeten): Medien und Kommunikationen, Game.
@@ -57,10 +58,11 @@ Universitäten:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Sigmund Freud Dream Museum](https://en.freud.ru): Psychoanalyse.
 
-
+<br>
 Sport:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss)
+<br>
 USW...
 
 
