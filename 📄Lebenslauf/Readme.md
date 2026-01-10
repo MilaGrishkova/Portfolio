@@ -18,13 +18,17 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• einschließlich der Vorbereitung auf städtische Musikwettbewerbe. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Darüber hinaus arbeitete ich als **Kunst- und Musiktherapeutin** und entwickelte meine eigene musiktherapeutische Methodik.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Darüber hinaus arbeitete ich als **Kunst- und Musiktherapeutin** und entwickelte meine eigene musiktherapeutische 
+
+Methodik.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Audioingenieurin an der Hochschule Ansbach**: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound Design, Musikproduktion und interaktiven Audiosystemen, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound 
+
+Design, Musikproduktion und interaktiven Audiosystemen, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), 
 
