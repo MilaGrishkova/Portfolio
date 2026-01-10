@@ -6,56 +6,13 @@ Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie so
 
 Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
 
-**Berufliche Erfahrung**:
+**Berufliche Erfahrung** 
+Ich verfüge über umfassende berufliche Erfahrung in Leitung, Projektmanagement, Audiotechnik und Pädagogik. Als Leiterin eines Musikstudios an einem Polytechnischen College war ich für die Organisation und Weiterentwicklung von Lehrprozessen verantwortlich, plante und realisierte Musik- und Kulturprojekte, begleitete Konzerte und kulturelle Veranstaltungen technisch und organisatorisch und betreute Studierende pädagogisch, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Parallel dazu arbeitete ich als Kunst- und Musiktherapeutin und entwickelte eine eigene musiktherapeutische Methodik.
+An der Hochschule Ansbach war ich als Audioingenieurin tätig und verantwortete den Betrieb, die Wartung und das Management von drei Tonstudios und 18 Arbeitsplätzen (u. a. Dante-Netzwerke, Dolby Atmos, Stagetec, SQ5). Dort führte ich Workshops und praxisorientierte Lehrveranstaltungen durch, unterstützte studentische Projekte in Sound Design, Musikproduktion und interaktiven Audiosystemen und entwickelte sowie betreute Praktika für bis zu 90 Studierende pro Semester. Zudem implementierte ich professionelle Workflows in Pro Tools, SuperCollider und Max/MSP sowie im Umgang mit audiotechnischer Hardware.
+Aktuell leite ich die Audioabteilung bei 1001 Perspektiven, wo ich interdisziplinäre Projekte und Jugendprogramme im psychotherapeutischen Kontext konzipiere und umsetze. Zu meinen Aufgaben gehören die Akquise von Fördermitteln bei kommunalen Institutionen und Sponsor:innen sowie die Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“, das auf der Entwicklung Unity-basierter Spiele im audiotherapeutischen Kontext basiert.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Lehrprozesse organisierte, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• musikalische und kulturelle Projekte plante und durchführte, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• einschließlich der Vorbereitung auf städtische Musikwettbewerbe. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Darüber hinaus arbeitete ich als **Kunst- und Musiktherapeutin** und entwickelte meine eigene musiktherapeutische 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Methodik.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Audioingenieurin an der Hochschule Ansbach**: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Durchführung von Workshops und praktischen Lehrveranstaltungen, Unterstützung von Projekten in Sound 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design, Musikproduktion und interaktiven Audiosystemen, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Entwicklung und Betreuung von Praktika für Studierende (bis zu 90 Personen pro Semester), 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Leitung der Audioabteilung bei 1001 Perspektiven**: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Umsetzung interdisziplinärer Projekte und Jugendprogramme im psychotherapeutischen Kontext, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Akquise von Fördermitteln von Stadt und Sponsoren, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“ mit Entwicklung 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;von Unity-basierten Spielen im audiotherapeutischen Kontext.
-
-**Kernkompetenzen**:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung und Projektmanagement (5 Jahre Erfahrung, Aufbau von Netzwerken für Projekte und Kooperationen);
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Pädagogik (über 5 Jahre Erfahrung in eigenen Lehr- und soziokulturellen Programmen);
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
+Meine **Kernkompetenzen** liegen in der Leitung und im Projektmanagement mit über fünf Jahren Erfahrung, einschließlich des Aufbaus nachhaltiger Netzwerke für Projekte und Kooperationen, in der Pädagogik mit mehr als fünf Jahren Erfahrung in eigenen Lehr- und soziokulturellen Programmen sowie in Musikinformatik und digitaler Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio mit Unity, FMOD und Wwise). Ergänzt wird dies durch fundierte Expertise im Audio Engineering, insbesondere mit Pro Tools, Logic, Ableton und Reaper, Live- und FOH-Systemen (Avid, Stagetec, Allen & Heath), Routing- und Audionetzwerken (Dante, DADman, Nexus) sowie immersiven Audioformaten wie Dolby Atmos und Ambisonics (Sennheiser Ambeo).
 
 <br> <br>
 <p align="center">
