@@ -2,13 +2,15 @@ Mein Name ist Mila Grishkova.
 
 Ich bin Musikinformatikerin und Audioingenieurin mit großer Leidenschaft für digitale Klanggestaltung, Game Audio und interaktive Medien, die bereits in meiner Kindheit begann: Mein Vater baute meinen ersten Computer (ZX Spectrum), auf dem Spiele über Audiokassetten geladen wurden. Dieses Erlebnis weckte meine Begeisterung für Audio und digitale Systeme.
 
-Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie sowie Religionswissenschaften studiert, mit Schwerpunkt auf Kunst- und Musiktherapie. Beruflich war ich Leiterin eines Musikstudios an einem Polytechnischen College, wo ich Lehrprozesse organisierte, musikalische und kulturelle Projekte plante und durchführte, Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Darüber hinaus arbeitete ich als Kunst- und Musiktherapeutin und entwickelte meine eigene musiktherapeutische Methodik.
+Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie sowie Religionswissenschaften studiert, mit Schwerpunkt auf Kunst- und Musiktherapie. 
 
 Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
 
 **Berufliche Erfahrung**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audioingenieurin an der Hochschule Ansbach: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Beruflich **war ich Leiterin eines Musikstudios** an einem Polytechnischen College, wo ich Lehrprozesse organisierte, musikalische und kulturelle Projekte plante und durchführte, Konzerte und kulturelle Veranstaltungen begleitete sowie Studierende pädagogisch betreute, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Darüber hinaus arbeitete ich als Kunst- und Musiktherapeutin und entwickelte meine eigene musiktherapeutische Methodik.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Audioingenieurin an der Hochschule Ansbach**: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Verwaltung und Wartung von drei Tonstudios und 18 Arbeitsplätzen (Dante, Dolby Atmos, Stagetec, SQ5), 
 
@@ -18,7 +20,7 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•Implementierung professioneller Workflows in Pro Tools, SuperCollider, Max/MSP und Hardware.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung der Audioabteilung bei 1001 Perspektiven: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Leitung der Audioabteilung bei 1001 Perspektiven**: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Umsetzung interdisziplinärer Projekte und Jugendprogramme im psychotherapeutischen Kontext, 
 
