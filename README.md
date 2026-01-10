@@ -7,14 +7,14 @@
   <em>👋 Hallo, ich heiße Mila Grishkova🎵</em>
 </p>
 <br> <br>
+                                                                           
+Dieses Portfolio dokumentiert meine praktische und pädagogische Arbeit im Feld der digitalen Audio- und Medienpraxis. Es ist aus langjähriger Tätigkeit in der Arbeit mit Klang, Code, Spielen und Menschen entstanden – in Lehrkontexten, Studios, performativen Settings sowie in soziokulturellen Projekten.
 
-                                                                             
+Der Fokus liegt sowohl auf den Ergebnissen als auch auf den zugrunde liegenden Prozessen: der Entwicklung fachlicher Kompetenzen, der Umsetzung konkreter Projekte und der Transformation von Ideen in funktionale Systeme, Lehrformate und interaktive Spielwelten.
 
+Präsentiert werden Arbeiten aus den Bereichen Audio Programming, Game Development, Sound Design und Audio Engineering sowie Lehrmaterialien und Beispiele aus der Arbeit mit Studierenden und Jugendlichen.
 
-Ich habe diese Seite auf GitHub als Webseite programmiert, auf der ich mein Portfolio präsentiere. GitHub ist dafür sehr praktisch: Hier finden Sie Videos, Fotos, PDF-Materialien und vor allem den Code.
-
-Dieses Portfolio bietet einen Überblick über meine Projekte im Bereich:
-Programmierung, Unterrichtsmaterialien, Audio Engineering, Game Dev, SoundDesign, soziokulturellen Projekte und Art-Therapie.                                                                               
+Ich habe mich bewusst dafür entschieden, mein Portfolio auf der Plattform GitHub zu veröffentlichen, da sie die Möglichkeit bietet, Videos, Fotos, PDF-Materialien und insbesondere den **Quellcode** zu präsentieren.
 
 🙂 Viel Spaß! 
 
