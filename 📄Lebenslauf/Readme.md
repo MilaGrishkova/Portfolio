@@ -13,8 +13,11 @@ Berufliche Erfahrung:
 
 Kernkompetenzen:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Leitung und Projektmanagement (5 Jahre Erfahrung, Aufbau von Netzwerken für Projekte und Kooperationen);
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Pädagogik (über 5 Jahre Erfahrung in eigenen Lehr- und soziokulturellen Programmen);
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
 
 <br> <br>
