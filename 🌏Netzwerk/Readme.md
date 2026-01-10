@@ -64,10 +64,12 @@ Universitäten:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Sigmund Freud Dream Museum](https://en.freud.ru): Psychoanalyse.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
+
 <br>
 Sport:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss)
+
 <br>
 USW...
 
