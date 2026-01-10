@@ -8,9 +8,7 @@
 </p>
 <br> <br>
                                                                            
-Dieses Portfolio dokumentiert meine praktische und pädagogische Arbeit im Feld der digitalen Audio- und Medienpraxis. Es ist aus langjähriger Tätigkeit in der Arbeit mit Klang, Code, Spielen und Menschen entstanden – in Lehrkontexten, Studios, performativen Settings sowie in soziokulturellen Projekten.
-
-Der Fokus liegt sowohl auf den Ergebnissen als auch auf den zugrunde liegenden Prozessen: der Entwicklung fachlicher Kompetenzen, der Umsetzung konkreter Projekte und der Transformation von Ideen in funktionale Systeme, Lehrformate und interaktive Spielwelten.
+Dieses Portfolio dokumentiert meine praktische und pädagogische Arbeit im Feld der digitalen Audio- und Medienpraxis. Es ist aus langjähriger Tätigkeit in der Arbeit mit Klang, Code, Spielen und Menschen entstanden: in Lehrkontexten, Studios, performativen Settings sowie in soziokulturellen Projekten.
 
 Präsentiert werden Arbeiten aus den Bereichen Audio Programming, Game Development, Sound Design und Audio Engineering sowie Lehrmaterialien und Beispiele aus der Arbeit mit Studierenden und Jugendlichen.
 
