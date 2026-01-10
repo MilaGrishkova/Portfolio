@@ -10,7 +10,7 @@ Städtische Institutionen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Guntram Prochaska](https://guntram-prochaska.de): [Grötzinger Kulturmeile](https://www.kulturmeile-groetzingen.de).
 
-USW...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
 
@@ -22,7 +22,7 @@ Künsltern:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
-USW...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
 Audio:
@@ -33,7 +33,7 @@ Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken](https://www.wacken.com/de/alle-news/).
 
-USW...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
 Medizin, Psychologie:
@@ -46,7 +46,7 @@ Medizin, Psychologie:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am KIT (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
 
-USW...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
 Universitäten:
@@ -63,7 +63,7 @@ Universitäten:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Sigmund Freud Dream Museum](https://en.freud.ru): Psychoanalyse.
 
-USW...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 <br>
 Sport:
 
