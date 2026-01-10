@@ -3,9 +3,16 @@
 
 In diesem Abschnitt gebe ich eine kurze Liste meiner beruflichen Kontakte an.
 
+Künsltern:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Chelistin (Roland Kaiser, Alex Christensen usw).
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SaMo](https://www.saltatio-mortis.com): Rock.
 
+Audio:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Vincent Sorg](https://de.wikipedia.org/wiki/Vincent_Sorg): Musikproduzent.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Claudio Malaguti](https://www.cl-audio-klangoptimierung.de): FOH (Alligatoah, Saltatio Mortis usw).
 
 Medizin, Psychologie:
 
