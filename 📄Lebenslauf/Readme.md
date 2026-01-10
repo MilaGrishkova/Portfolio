@@ -36,7 +36,9 @@ Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Mu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Musikinformatik und digitale Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio Unity 2D/3D, FMOD, Wwise);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Audio Engineering (Pro Tools, Logic, Ableton, Reaper; Live/FOH: Avid, Stagetec, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Allen & Heath; Dante, DADman, Nexus; Dolby Atmos, Sennheiser Ambeo Mic).
 
 <br> <br>
 <p align="center">
