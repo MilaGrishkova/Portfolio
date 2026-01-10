@@ -1,6 +1,6 @@
 Mein Name ist Mila Grishkova.
 
-Ich bin Musikinformatikerin und Audioingenieurin mit großer Leidenschaft für digitale Klanggestaltung, Game Audio und interaktive Medien, die bereits in meiner Kindheit begann: Mein Vater baute meinen ersten Computer [ZX Spectrum](https://www.youtube.com/watch?v=Jl1ZlM-DGe4&list=PLxOanVBhqd3v59YrzjzbYUuUJQfKaZqH0), auf dem Spiele [über Audiokassetten](https://www.youtube.com/watch?v=MtBoRp_cSxQ) geladen wurden. Dieses Erlebnis weckte meine Begeisterung für Audio und digitale Systeme.
+Ich bin Musikinformatikerin und Audioingenieurin mit umfassender Erfahrung in Audio Programming, Game Audio, Sounddesign, interaktiven Medien sowie Veranstaltungs- und Studiotechnik. Meine Leidenschaft für digitale Klanggestaltung und Computerspiele entwickelte sich bereits in meiner Kindheit: mein Vater baute meinen ersten Computer [ZX Spectrum](https://www.youtube.com/watch?v=Jl1ZlM-DGe4&list=PLxOanVBhqd3v59YrzjzbYUuUJQfKaZqH0), auf dem Spiele [über Audiokassetten](https://www.youtube.com/watch?v=MtBoRp_cSxQ) geladen wurden. Dieses Erlebnis weckte meine Begeisterung für Audio und digitale Systeme.
 
 Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie sowie Religionswissenschaften studiert, mit Schwerpunkt auf Kunst- und Musiktherapie. 
 
@@ -35,7 +35,7 @@ Meine **Kernkompetenzen**:
 
 <br> <br>
 <p align="center">
-<img width="700" alt="Lebenslauf_Grishkova" src="https://github.com/user-attachments/assets/fd8491cd-cfd7-414b-8346-c90631335af2" />
+<img width="700" src="https://github.com/user-attachments/assets/8f02b31c-c6ab-4748-85e0-85540e8b1e4a" />
  <br>
 </p>
  <br> <br>
