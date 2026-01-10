@@ -73,7 +73,7 @@ Hausaufgaben werden nicht bewertet
 > 📝 Über mich:
 <br>
 <p align="center">
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/e6af53eb-4319-4db5-9c95-e7b6f1c2c5fa" />
+<img width="700" alt="CVMilaGrishkovaGit" src="https://github.com/user-attachments/assets/5c43d04b-c150-42e2-8fb1-e94a8b109a8b" />
  <br>
   <em>Über mich</em>
 </p>
