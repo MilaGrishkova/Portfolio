@@ -3,8 +3,6 @@
  <br>
   <em>👋 Hallo, ich heiße Mila Grishkova🎵</em>
 </p>
-<br> <br>
-
 <p align="center">
 ✨〰️✨**Portfolio**✨〰️✨ 
  
