@@ -13,7 +13,7 @@ Künsltern:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken](https://www.wacken.com/de/alle-news/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
 Audio:
 
@@ -33,7 +33,17 @@ Medizin, Psychologie:
 
 Universitätrn:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Hochschule Ansbach](https://www.hs-ansbach.de/hochschule/fakultaeten): Medien und Kommunikationen, Game.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Universität Bayreuth](https://www.uni-bayreuth.de): [Computerspielwissenschaften](https://computerspielwissenschaften.uni-bayreuth.de).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Hochschule für Musik Karlsruhe](https://hfm-karlsruhe.de): [Musikinformatik](https://hfm-karlsruhe.de/hochschule/institute/institut-fuer-musikinformatik-und-musikwissenschaft).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Southern Illinois University](https://siu.edu): [Communication and Media](https://academics.siu.edu/comm-media/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Russische Christlich-Humanitäre Akademie Sankt Petersburg](https://rhga.ru): Psychologie, Philosophie.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Sigmund Freud Dream Museum](https://en.freud.ru): Psychoanalyse.
 
 
 <br> <br>
