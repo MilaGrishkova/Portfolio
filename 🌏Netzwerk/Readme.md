@@ -7,9 +7,16 @@ Künsltern:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Chelistin (Roland Kaiser, Alex Christensen usw).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SaMo](https://www.saltatio-mortis.com): Rock.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SaMo](https://www.saltatio-mortis.com): Rock/Wcken.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Guntram Prochaska](https://guntram-prochaska.de): [Grötzinger Kulturmeile](https://www.kulturmeile-groetzingen.de).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken](https://www.wacken.com/de/alle-news/).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [
 
 Audio:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Vincent Sorg](https://de.wikipedia.org/wiki/Vincent_Sorg): Musikproduzent.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Claudio Malaguti](https://www.cl-audio-klangoptimierung.de): FOH (Alligatoah, Saltatio Mortis usw).
@@ -23,6 +30,9 @@ Medizin, Psychologie:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Felix Bechberger](https://www.walter-eucken-schule.de/ansprechpartner/sonderpädagogischer-dienst/): Sonderpädagogik, Autismus.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am KIT (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
+
+Universitätrn:
+
 
 
 
