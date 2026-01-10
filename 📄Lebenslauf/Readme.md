@@ -7,7 +7,6 @@ Ich habe einen Abschluss in Psychologie erworben und Psychologie, Philosophie so
 Später habe ich Musikinformatik (Bachelor und Master) an der Hochschule für Musik Karlsruhe mit Schwerpunkt auf Game Development und Sounddesign studiert und mehrere 2D- und 3D-Spiele in Unity entwickelt, in die ich Sound und Musik integrierte. Derzeit bereite ich meine Promotion im Bereich Computerspielwissenschaften an der Universität Bayreuth vor, in der ich mein Wissen in Mythologie, Philosophie und Religionswissenschaft mit Game- und Sounddesign verbinde. 
 
 **Berufliche Erfahrung** 
-
 Ich verfüge über umfassende berufliche Erfahrung in Leitung, Projektmanagement, Audiotechnik und Pädagogik. Als _Leiterin eines Musikstudios_ an einem Polytechnischen College war ich für die Organisation und Weiterentwicklung von Lehrprozessen verantwortlich, plante und realisierte Musik- und Kulturprojekte, begleitete Konzerte und kulturelle Veranstaltungen technisch und organisatorisch und betreute Studierende pädagogisch, einschließlich der Vorbereitung auf städtische Musikwettbewerbe. Parallel dazu arbeitete ich als Kunst- und Musiktherapeutin und entwickelte eine eigene musiktherapeutische Methodik.
 
 An der Hochschule Ansbach war ich als _Audioingenieurin_ tätig und verantwortete den Betrieb, die Wartung und das Management von drei Tonstudios und 18 Arbeitsplätzen (u. a. Dante-Netzwerke, Dolby Atmos, Stagetec, SQ5). Dort führte ich Workshops und praxisorientierte Lehrveranstaltungen durch, unterstützte studentische Projekte in Sound Design, Musikproduktion und interaktiven Audiosystemen und entwickelte sowie betreute Praktika für bis zu 90 Studierende pro Semester. Zudem implementierte ich professionelle Workflows in Pro Tools, SuperCollider und Max/MSP sowie im Umgang mit audiotechnischer Hardware.
@@ -15,7 +14,8 @@ An der Hochschule Ansbach war ich als _Audioingenieurin_ tätig und verantwortet
 Aktuell _leite ich die Audioabteilung_ bei 1001 Perspektiven, wo ich interdisziplinäre Projekte und Jugendprogramme im psychotherapeutischen Kontext konzipiere und umsetze. Zu meinen Aufgaben gehören die Akquise von Fördermitteln bei kommunalen Institutionen und Sponsor:innen sowie die Konzeption und Durchführung des eigenen Projekts „Neue Medien als Kunsttherapie“, das auf der Entwicklung Unity-basierter Spiele im audiotherapeutischen Kontext basiert.
 
 
-Meine **Kernkompetenzen** liegen in der Leitung und im Projektmanagement mit über fünf Jahren Erfahrung, 
+Meine **Kernkompetenzen**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• liegen in der Leitung und im Projektmanagement mit über fünf Jahren Erfahrung, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• einschließlich des Aufbaus nachhaltiger Netzwerke für Projekte und Kooperationen, 
 
