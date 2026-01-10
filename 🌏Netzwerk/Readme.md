@@ -38,7 +38,8 @@ Audio:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
 <br>
-Social Media
+Social Media:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Simon Volz](https://simonvolz.de).
 
 <br>
