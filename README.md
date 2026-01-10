@@ -1,7 +1,7 @@
 <p align="center">
 <img width="300" alt="Foto" src="https://github.com/user-attachments/assets/7ac61a10-d9ea-476f-ae6f-3c3b6daba66c" />
  <br>
-  <em>👋 Hallo, ich heiße Mila Grishkova🎵</em>
+  <em> Hallo, ich heiße Mila Grishkova🎵</em>
 </p>
 <p align="center">
 ✨〰️✨**Portfolio**✨〰️✨ 
