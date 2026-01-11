@@ -65,6 +65,18 @@ Im Verlauf eines Jahres sind vier Workshops und vier Installationen der Arbeiten
 So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
 
 > [!NOTE]
+> Evangelische Stadtkirche Karlsruhe:
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/525efa8c-c96a-499d-af7b-3b57103e7b3a" />
+ <br>
+  <em> Evangelische Stadtkirche Karlsruhe </em>
+</p>
+	
+Die Evangelische Stadtkirche Karlsruhe wurde zu einem der Orte, an denen wir unsere Kameras installiert haben.
+
+
+> [!NOTE]
 > 📝 Flyers:
 <br>
 <p align="center">
@@ -88,7 +100,21 @@ So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität
 
 Mit der kreativen Technik der Solarographie werden Fotografien des städtischen Raums erstellt. Zur Teilnahme an dem Projekt werden Studierende der Hochschule für Musik Karlsruhe Fach [Musikinformatik](https://hfm-karlsruhe.de/studieren/faecher-und-instrumente/musikinformatik) eingeladen.
 	Durch kreatives Programmieren können die Fotografien „vertont“ werden, unter Verwendung von SuperCollider, Max/MSP und TouchDesign. Die im Rahmen des Projekts entstandenen Musikkompositionen werden bei der Eröffnung der Ausstellung zu hören sein.
-	
+
+
+> [!NOTE]
+> FLUX:
+<br>
+<p align="center">
+<img width="400" alt="Dozen und Menschen" src="https://github.com/user-attachments/assets/aa6b79a8-3ede-4d4e-b56f-fa404e926df6)" />
+ <br>
+  <em> FLUX </em>
+</p>
+
+Dieses Projekt ist bewusst freundlich und inklusiv angelegt. Es stellt keine übermäßigen Anforderungen und ist für alle Interessierten offen. Im Rahmen des Projekts nahmen Mitglieder der Gruppe FLUX teil, eines Safer Spaces für Menschen, die sich selbst auf dem neurodiversen Spektrum verorten oder mehr über Neurodiversität erfahren möchten.
+
+Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interessieren, Teil einer unterstützenden Community sein möchten oder einen geschützten Raum für Austausch suchen.
+
 > [!NOTE]
 > 📍 Der nächste Standort des Projekts
 
