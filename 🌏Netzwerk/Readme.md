@@ -14,13 +14,13 @@ Städtische Institutionen:
 
 <br>
 
-Künstlern:
+Künstler:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Chelistin (Roland Kaiser usw).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Live/Studio Musikerin, Arrangeurin, Produzentin (Roland Kaiser )
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [SaMo](https://www.saltatio-mortis.com): Rock/Wcken.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Saltatio Mortis](https://www.saltatio-mortis.com): Rockband
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
