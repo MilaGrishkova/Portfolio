@@ -29,7 +29,7 @@ Meine **Kernkompetenzen**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Live- und FOH-Systemen (Avid, Stagetec, Allen & Heath), 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Routing- und Audionetzwerken (Dante, DADman, Nexus) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Routing- und Audionetzwerken (Dante, DADman, Nexus), 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• sowie immersiven Audioformaten wie Dolby Atmos und Ambisonics (Sennheiser Ambeo).
 
