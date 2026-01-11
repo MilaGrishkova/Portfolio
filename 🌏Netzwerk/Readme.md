@@ -14,7 +14,7 @@ Städtische Institutionen:
 
 <br>
 
-Künstдern:
+Künstlern:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de).
 
