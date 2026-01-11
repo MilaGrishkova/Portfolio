@@ -10,7 +10,7 @@ Städtische Institutionen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Guntram Prochaska](https://guntram-prochaska.de): [Grötzinger Kulturmeile](https://www.kulturmeile-groetzingen.de).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• etc...
 
 <br>
 
@@ -22,7 +22,7 @@ Künstler:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Saltatio Mortis](https://www.saltatio-mortis.com): Rockband
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• etc...
 
 <br>
 Audio:
@@ -35,14 +35,14 @@ Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Feuertanz-Festival](https://www.feuertanz-festival.com)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• etc...
 
 <br>
 Social Media:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Simon Volz](https://simonvolz.de).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Simon Volz](https://simonvolz.de)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• etc...
 
 <br>
 Medizin, Psychologie:
@@ -53,7 +53,7 @@ Medizin, Psychologie:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Felix Bechberger](https://www.walter-eucken-schule.de/ansprechpartner/sonderpädagogischer-dienst/): Sonderpädagogik, Autismus.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am KIT (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flux](https://flux-ka.de): Neurodivergente Hochschulgruppe am Karsruher Institut für Technologie (ASD, ADHS, Legasthenie, Dyspraxie, Dyskalkulie, Hochsensible, usw.). 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
@@ -77,10 +77,10 @@ Universitäten:
 <br>
 Sport:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Dennis Kohlruss](https://de.wikipedia.org/wiki/Dennis_Kohlruss): Stärkster Mann Deutschlands, Strongman
 
 <br>
-USW...
+etc...
 
 
 <br> <br>
