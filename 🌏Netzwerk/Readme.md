@@ -16,7 +16,7 @@ Städtische Institutionen:
 
 Künstler:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Thomas Blug](https://thomasblug.de): Musiker, Komponist
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Lee Caspi](https://www.leecaspi.com): Live/Studio Musikerin, Arrangeurin, Produzentin (Roland Kaiser )
 
