@@ -31,9 +31,9 @@ Audio:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Claudio Malaguti](https://www.cl-audio-klangoptimierung.de): FOH (Alligatoah, Sido, Samy Deluxe etc.)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken Open Air](https://www.wacken.com/de/alle-news/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Wacken Open Air](https://www.wacken.com/de/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Feuertanz-Festival](https://www.feuertanz-festival.com).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Feuertanz-Festival](https://www.feuertanz-festival.com)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• usw...
 
