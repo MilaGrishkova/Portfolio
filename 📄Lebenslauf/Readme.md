@@ -23,7 +23,7 @@ Meine **Kernkompetenzen**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• in der Pädagogik mit mehr als fünf Jahren Erfahrung in eigenen Lehr- und soziokulturellen Programmen, 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• sowie in Musikinformatik und digitaler Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio mit Unity, FMOD und Wwise). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• sowie in Musikinformatik und digitaler Komposition (algorithmische Komposition, Creative Coding, Immersive Audio, SuperCollider, Max/MSP, Game Audio mit Unity, FMOD und Wwise), 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Ergänzt wird dies durch fundierte Expertise im Audio Engineering, insbesondere mit Pro Tools, Logic, Ableton und Reaper, 
 
