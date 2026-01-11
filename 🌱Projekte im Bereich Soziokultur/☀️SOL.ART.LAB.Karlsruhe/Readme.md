@@ -75,24 +75,6 @@ So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität
 	
 Die Evangelische Stadtkirche Karlsruhe wurde zu einem der Orte, an denen wir unsere Kameras installiert haben.
 
-
-> [!NOTE]
-> 📝 Flyers:
-<br>
-<p align="center">
-<img width="400" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
- <br>
-  <em> Flyer 1 </em>
-</p>
-
-<br>
-<p align="center">
-<img width="400" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
- <br>
-  <em> Flyer 2 </em>
-</p>
-
-
 # Weiterentwicklung
 	
 > [!NOTE]
@@ -106,7 +88,7 @@ Mit der kreativen Technik der Solarographie werden Fotografien des städtischen 
 > FLUX:
 <br>
 <p align="center">
-<img width="400" alt="Dozen und Menschen" src="https://github.com/user-attachments/assets/aa6b79a8-3ede-4d4e-b56f-fa404e926df6)" />
+<img width="400" alt="Dozen und Menschen" src="https://github.com/user-attachments/assets/aa6b79a8-3ede-4d4e-b56f-fa404e926df6" />
  <br>
   <em> FLUX </em>
 </p>
@@ -163,6 +145,21 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
 
 
 
+> [!NOTE]
+> 📝 Flyers:
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/9c128d2b-8f5d-4a2f-94bf-5829adbd2534" />
+ <br>
+  <em> Flyer 1 </em>
+</p>
+
+<br>
+<p align="center">
+<img width="400" alt="2" src="https://github.com/user-attachments/assets/4a2f60e7-650b-498a-a036-0fa0cc6cd4fb" />
+ <br>
+  <em> Flyer 2 </em>
+</p>
 
 
 Fotos / Inspiration:
