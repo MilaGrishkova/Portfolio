@@ -98,6 +98,17 @@ Dieses Projekt ist bewusst freundlich und inklusiv angelegt. Es stellt keine üb
 Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interessieren, Teil einer unterstützenden Community sein möchten oder einen geschützten Raum für Austausch suchen.
 
 > [!NOTE]
+> FLUX:
+<br>
+<p align="center">
+<img width="400" alt="Dosen2" src="https://github.com/user-attachments/assets/fa773298-e7c2-431f-b036-c247d61f8831" />
+" />
+ <br>
+  <em> FLUX Gruppe </em>
+</p>
+
+
+> [!NOTE]
 > 📍 Der nächste Standort des Projekts
 
  <br>
