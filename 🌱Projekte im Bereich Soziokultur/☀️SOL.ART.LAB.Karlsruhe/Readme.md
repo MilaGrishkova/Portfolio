@@ -108,7 +108,7 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 
 
 
-
+Mehrere Kameras verblieben auf dem Dach des Jubez Kunst- und Kulturzentrums in Karlsruhe.
 
 > [!NOTE]
 > Jubez:
@@ -121,6 +121,7 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 
 
 
+Ein weiterer wichtiger Bezugspunkt des Projekts ist die Kulturküche, die sich im ältesten mehrstöckigen Gebäude der Karlsruher Innenstadt befindet, das im Jahr 1723 errichtet wurde.
 > [!NOTE]
 > Kulturküche:
 <br>
