@@ -107,8 +107,6 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 </p>
 
 
-> [!NOTE]
-> 📍 Der nächste Standort des Projekts
 
 
 
@@ -122,6 +120,19 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 </p>
 
 
+
+> [!NOTE]
+> Kulturküche:
+<br>
+<p align="center">
+<img width="400" alt="Dosen2" alt="KuKü" src="https://github.com/user-attachments/assets/69e114d8-d7a8-43ef-abb2-9a5dd7c8d3a1" />
+ <br>
+  <em> Kulturküche </em>
+</p>
+
+
+> [!NOTE]
+> 📍 Der nächste Standort des Projekts
 
  <br>
 <p align="center">
