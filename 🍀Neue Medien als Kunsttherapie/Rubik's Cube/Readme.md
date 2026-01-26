@@ -66,7 +66,7 @@ Beispiel:
 
 &nbsp;&nbsp;&nbsp;&nbsp;• [Jugendliche*r1](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r1)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• [Jgendliche*r2](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r2)
+&nbsp;&nbsp;&nbsp;&nbsp;• [Jugendliche*r2](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Jugendliche*r2)
 
 [Unity_Code](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie/Rubik's%20Cube/Unity_Code)
 
