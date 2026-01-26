@@ -102,7 +102,6 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 <br>
 <p align="center">
 <img width="400" alt="Dosen2" src="https://github.com/user-attachments/assets/fa773298-e7c2-431f-b036-c247d61f8831" />
-" />
  <br>
   <em> FLUX Gruppe </em>
 </p>
@@ -110,6 +109,19 @@ Die Gruppe FLUX richtet sich an alle, die sich für neurodiverse Themen interess
 
 > [!NOTE]
 > 📍 Der nächste Standort des Projekts
+
+
+
+> [!NOTE]
+> Jubez:
+<br>
+<p align="center">
+<img width="400" alt="Dosen2" alt="Jubez" src="https://github.com/user-attachments/assets/4165dd19-9dca-494f-81a6-b3e1f030f117" />
+ <br>
+  <em> Jubez </em>
+</p>
+
+
 
  <br>
 <p align="center">
