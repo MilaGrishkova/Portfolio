@@ -9,7 +9,7 @@ wird eine kleine Auswahl an Soundeffekten und Musikstücken präsentiert, die sp
 
 <br> <br>
 <p align="center">
-<img width="700" alt="SoundDesign" src="https://github.com/user-attachments/assets/d5a416d2-7006-47c1-80b5-36b9110ff113" />
+<img width="400" alt="SoundDesign" src="https://github.com/user-attachments/assets/d5a416d2-7006-47c1-80b5-36b9110ff113" />
  <br>
 </p>
  <br> <br>
