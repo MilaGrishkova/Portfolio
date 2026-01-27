@@ -35,7 +35,9 @@ Ich habe mich bewusst dafür entschieden, mein Portfolio auf der Plattform GitHu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Unity, SuperCollider & MotionCapture](https://github.com/MilaGrishkova/Portfolio/tree/main/🎮GameDev/Unity/SuperCollider%20%26%20MotionCapture)
 
-🎶📚 [Sound Library](https://github.com/MilaGrishkova/Portfolio/tree/main/🎶📚Sound Library)
+
+🎶📚 [Sound Library](https://github.com/MilaGrishkova/Portfolio/tree/main/🎶📚SoundLibrary)
+
 
 🎙 [Audio Engineering](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering):
 
