@@ -131,19 +131,6 @@ Ein weiterer wichtiger Bezugspunkt des Projekts ist die Kulturküche, die sich i
   <em> Kulturküche </em>
 </p>
 
-
-> [!NOTE]
-> 📍 Der nächste Standort des Projekts
-
- <br>
-<p align="center">
-<img width="400" alt="UniBayreuthSonne" src="https://github.com/user-attachments/assets/d7f93600-f751-4288-8739-c0c1cf25c2df" />
- <br>
-  <em>  Universität Bayreuth </em>
-</p>
-wird der Universität Bayreuth vorgeschlagen, deren Campus in Form einer Sonne gestaltet ist, was harmonisch mit dem Konzept der Solarographie übereinstimmt.
-
-
 > [!NOTE]
 > Ziel des Projekts
 
