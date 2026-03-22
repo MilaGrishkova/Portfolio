@@ -7,8 +7,8 @@
 > Gefördert durch die Stadt Karlsruhe
 > 
 > Mila Grishkova
-<br>
-> [!IMPORTANT]
+<br><br>
+> [!NOTE]
 > 
 > Projektbeschreibung
 <br>
