@@ -5,17 +5,6 @@
 > Projekt „Straßengeist“ 2026
 > 
 > Mila Grishkova
-                               
-
-<br><br>
-<p align="center">
-<img width="100" height="100" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
-<img width="100" alt="1" src="https://github.com/user-attachments/assets/7a30168b-26f6-48ae-8980-d4858300af3d" />
- <br>
-  <em> Gefördert durch die Stadt Karlsruhe </em>
-</p>
-<br><br>
-
 > [!IMPORTANT]
 > Projektbeschreibung
 
@@ -186,6 +175,15 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
   <em> Flyer 2 </em>
 </p>
 
+
+<br><br>
+<p align="center">
+<img width="100" height="130" alt="2" src="https://github.com/user-attachments/assets/fb0525e7-fbb5-45f7-bdbe-975ca8438b02" />
+<img width="100" alt="1" src="https://github.com/user-attachments/assets/7a30168b-26f6-48ae-8980-d4858300af3d" />
+ <br>
+  <em> Gefördert durch die Stadt Karlsruhe </em>
+</p>
+<br><br>
 
 Fotos / Inspiration:
 
