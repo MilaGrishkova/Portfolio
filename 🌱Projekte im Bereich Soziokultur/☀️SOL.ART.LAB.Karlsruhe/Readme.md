@@ -7,6 +7,7 @@
 > Gefördert durch die Stadt Karlsruhe
 
 <br>
+
 > [!NOTE]
 > Projektbeschreibung
 <br>
