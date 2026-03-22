@@ -27,9 +27,7 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 > [!NOTE]
 > Sozialer Aspekt des Projekts
 
-„Straßengeist“ ist ein sozial-künstlerisches Projekt, in dem Jugendliche den Rhythmus und den Lauf der Zeit in der Stadt durch die Kunst der Solarografie erforschen.  Für sie wird die Arbeit mit der Sonne nicht nur eine kreative Erfahrung, sondern auch ein positiver und lebensbejahender Prozess sein: Indem sie das Sonnenlicht beobachten, erkennen sie, wie es das Leben der Stadt und ihr eigenes beeinflusst.
-
-Die Teilnehmenden bauen ihre eigenen Kameras aus einfachen Materialien und installieren sie an bedeutenden Orten im Zentrum von Karlsruhe. 	Die vom Schloss ausgehenden Straßen dienen dabei als Orientierungslinien, entlang derer geeignete Standorte für die Kameras ausgewählt werden.
+SOLARTLAB realisiert ein soziokulturelles Projekt mit einer Laufzeit von einem Jahr, das jährlich neu gestartet wird. Ziel des Projekts ist die Schaffung eines kreativen und therapeutischen Prozesses für Jugendliche mit Hilfe kunsttherapeutischer Methoden und kreativer Arbeitsweisen, in dessen Rahmen junge Menschen die Möglichkeit erhalten, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Es unterstützt Jugendliche dabei, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Darüber hinaus schafft das Projekt regelmäßige kulturell relevante Veranstaltungen in der Stadt Karlsruhe, insbesondere Ausstellungen, die das städtische Kulturleben bereichern. Projekt „Straẞengeist“ wird in Kooperation zwischen 1001 Perspektiven (Black Sheep Club) und der Stadt Karlsruhe durchgeführt. Das Projekt wurde von der Stadt Karlsruhe gefördert. Das Projekt lädt Partnerinstitutionen zur Kooperation ein (darunter Jubez, Kulturküche, die Evangelische Kirche, FLUX, KIT und weitere) und baut ein stabiles Netzwerk zwischen 1001 Perspektiven und den kulturellen sowie sozialen Institutionen der Stadt Karlsruhe auf.
 
 <br> <br>
 <p align="center">
