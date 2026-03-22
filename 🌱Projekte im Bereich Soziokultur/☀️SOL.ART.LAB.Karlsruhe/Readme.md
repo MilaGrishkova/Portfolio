@@ -15,12 +15,12 @@ Projekt „Straẞengeist“ ist ein soziokulturelles und kunsttherapeutisches P
 <br>
 
 > [!NOTE]
-> 📝 Ausstellung am 19.02.2026
+> 📝 Lochkamera
 <br>
 <p align="center">
-<img width="400" alt="1" src="https://github.com/user-attachments/assets/dd705f45-630a-4418-9452-61a61f970d33" />
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/49208cdf-ebbb-49d5-8531-5d8677888273" />
  <br>
-  <em> BLACK SHEEP CLUB Gravity Venue </em>
+  <em> Lochkamera: Blick auf das Schloss Karlsruhe </em>
 </p>
 
 
@@ -34,6 +34,18 @@ Projekt „Straẞengeist“ ist ein soziokulturelles und kunsttherapeutisches P
 Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	
 
 Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
+
+
+
+> [!NOTE]
+> 📝 Ausstellung am 19.02.2026
+<br>
+<p align="center">
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/dd705f45-630a-4418-9452-61a61f970d33" />
+ <br>
+  <em> BLACK SHEEP CLUB Gravity Venue </em>
+</p>
+
 
 > [!NOTE]
 > Sozialer Aspekt des Projekts
