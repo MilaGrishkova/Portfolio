@@ -36,20 +36,6 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 </p>
 <br>
 
-<br> <br>
-> [!NOTE]
-> Workshop: Wie baut man eine Lochkamera?
-<p align="center">
-<em>  Klick auf das Bild, um das Video zu schauen👇</em>
-  <p align="center">
-<a href="https://youtube.com/shorts/wr-RBX7xmQ4">
- <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
- <br>
-</a>
- <em> Klick auf das Bild, um das Video zu schauen☝️</em>
-</p>
-<br> <br>
-
 > [!NOTE]
 > 📝 Ausstellung am 19.02.2026
 <br>
@@ -81,6 +67,22 @@ Zeitplanung Das Projekt gliedert sich in vier Phasen:
 2. Aufnahmephase: Die Kameras bleiben für 2,5 Monate installiert, während das Sonnenlicht schrittweise die Fotografie erzeugt.
 3. Bildbearbeitung: Nach 2,5 Monaten werden die Kameras eingesammelt, die Bilder gemeinsam mit den Teilnehmenden gescannt und bearbeitet.
 4. Ausstellung: Im Raum Gravity werden die entstandenen Arbeiten ausgestellt. Das Projekt sieht die Möglichkeit vor, Ausstellungen auch in weiteren kulturellen Einrichtungen der Stadt Karlsruhezu realisieren, nach entsprechender Abstimmung.
+
+
+<br> <br>
+> [!NOTE]
+> Workshop: Wie baut man eine Lochkamera?
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtube.com/shorts/wr-RBX7xmQ4">
+ <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
+<br> <br>
+
 
 > [!NOTE]
 > Evangelische Stadtkirche Karlsruhe:
