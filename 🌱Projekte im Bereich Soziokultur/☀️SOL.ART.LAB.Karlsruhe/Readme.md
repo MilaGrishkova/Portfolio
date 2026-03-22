@@ -30,10 +30,12 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 SOLARTLAB realisiert ein soziokulturelles Projekt mit einer Laufzeit von einem Jahr, das jährlich neu gestartet wird. Ziel des Projekts ist die Schaffung eines kreativen und therapeutischen Prozesses für Jugendliche mit Hilfe kunsttherapeutischer Methoden und kreativer Arbeitsweisen, in dessen Rahmen junge Menschen die Möglichkeit erhalten, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Es unterstützt Jugendliche dabei, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Darüber hinaus schafft das Projekt regelmäßige kulturell relevante Veranstaltungen in der Stadt Karlsruhe, insbesondere Ausstellungen, die das städtische Kulturleben bereichern. Projekt „Straẞengeist“ wird in Kooperation zwischen 1001 Perspektiven (Black Sheep Club) und der Stadt Karlsruhe durchgeführt. Das Projekt wurde von der Stadt Karlsruhe gefördert. Das Projekt lädt Partnerinstitutionen zur Kooperation ein (darunter Jubez, Kulturküche, die Evangelische Kirche, FLUX, KIT und weitere) und baut ein stabiles Netzwerk zwischen 1001 Perspektiven und den kulturellen sowie sozialen Institutionen der Stadt Karlsruhe auf.
 
 <br> <br>
+> [!NOTE]
+> Workshop: Wie baut man eine Lochkamera?
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
-<a href="https://youtu.be/bYuAeKtO6Gg">
+<a href="https://youtube.com/shorts/wr-RBX7xmQ4">
  <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
  <br>
 </a>
@@ -50,9 +52,11 @@ SOLARTLAB realisiert ein soziokulturelles Projekt mit einer Laufzeit von einem J
   <em> Beispiel 1 </em>
 </p>
 	
-Im Verlauf eines Jahres sind vier Workshops und vier Installationen der Arbeiten geplant, wodurch alle vier Jahreszeiten einbezogen werden. Dieses Format ermöglicht es, nachzuvollziehen und zu vergleichen, wie das Sonnenlicht in den verschiedenen Jahreszeiten visuelle Bilder in der Technik der Solarographie formt und wie sich der Charakter der entstehenden „Sonnenbilder“ im Laufe des Jahres verändert.
-
-So verbindet das Projekt künstlerische Forschung mit der kulturellen Identität der Stadt und eröffnet Jugendlichen einen Weg, ihre eigene Beziehung zu Karlsruhe bewusst wahrzunehmen.
+Zeitplanung Das Projekt gliedert sich in vier Phasen: 
+1. Workshop: Bau der Camera-Obscura-Kameras und deren Installation an ausgewählten, bedeutenden Orten der Stadt.
+2. Aufnahmephase: Die Kameras bleiben für 2,5 Monate installiert, während das Sonnenlicht schrittweise die Fotografie erzeugt.
+3. Bildbearbeitung: Nach 2,5 Monaten werden die Kameras eingesammelt, die Bilder gemeinsam mit den Teilnehmenden gescannt und bearbeitet.
+4. Ausstellung: Im Raum Gravity werden die entstandenen Arbeiten ausgestellt. Das Projekt sieht die Möglichkeit vor, Ausstellungen auch in weiteren kulturellen Einrichtungen der Stadt Karlsruhezu realisieren, nach entsprechender Abstimmung.
 
 > [!NOTE]
 > Evangelische Stadtkirche Karlsruhe:
