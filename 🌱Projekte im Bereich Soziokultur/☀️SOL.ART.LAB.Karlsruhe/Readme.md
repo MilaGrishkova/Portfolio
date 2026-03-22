@@ -14,8 +14,9 @@
 Projekt „Straẞengeist“ ist ein soziokulturelles und kunsttherapeutisches Projekt von SOLARTLAB im Black Sheep Club in Karlsruhe. Im Mittelpunkt steht die Frage, wie junge Menschen ihre Stadt, sich selbst und ihre innere Welt neu wahrnehmen können. Jugendliche arbeiten mit der Technik der Solarographie und nutzen die Sonne als künstlerisches Werkzeug. Mit selbstgebauten Lochkameras halten sie nicht einen einzelnen Moment fest, sondern Zeit, Bewegung und Veränderung. Über Wochen und Monate zeichnet das Sonnenlicht Spuren des urbanen Raums auf Fotopapier. Karlsruhe, eine der sonnigsten Städte Deutschlands, wird dabei selbst zum aktiven Teil des künstlerischen Prozesses. Straßen, Gebäude und Alltagsorte verwandeln sich in Orte der Reflexion und Bedeutung. Die Stadt wird nicht nur betrachtet, sondern erlebt und neu gelesen. „Straẞengeist“ versteht Kunst als offenen Prozess und als Form der Selbstreflexion. Das Projekt schafft einen geschützten Raum, in dem kreative Arbeit therapeutisch wirksam sein kann. Die Ausstellung zeigt nicht nur Bilder, sondern sichtbare Spuren von Zeit, Licht und innerer Bewegung. Sie lädt Besucher*innen ein, Karlsruhe aus einer anderen Perspektive zu sehen.„Straẞengeist“ macht sichtbar, wie Kunst, Stadt und menschliche Erfahrung miteinander verbunden sind.
 <br>
 <br>
-> [!NOTE]
-> 📝 Lochkamera
+
+> [!IMPORTANT]
+> Lochkamera
 <br>
 <p align="center">
 <img width="400" alt="1" src="https://github.com/user-attachments/assets/49208cdf-ebbb-49d5-8531-5d8677888273" />
@@ -23,7 +24,6 @@ Projekt „Straẞengeist“ ist ein soziokulturelles und kunsttherapeutisches P
   <em> Lochkamera: Blick auf das Schloss Karlsruhe </em>
 </p>
 
-<br>
 <br>
 ☀️ Karlsruhe gehört zu den sonnigsten Städten Deutschlands. Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	
 
@@ -36,6 +36,19 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 </p>
 <br>
 
+<br> <br>
+> [!NOTE]
+> Workshop: Wie baut man eine Lochkamera?
+<p align="center">
+<em>  Klick auf das Bild, um das Video zu schauen👇</em>
+  <p align="center">
+<a href="https://youtube.com/shorts/wr-RBX7xmQ4">
+ <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
+ <br>
+</a>
+ <em> Klick auf das Bild, um das Video zu schauen☝️</em>
+</p>
+<br> <br>
 
 > [!NOTE]
 > 📝 Ausstellung am 19.02.2026
@@ -52,19 +65,7 @@ Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphän
 
 SOLARTLAB realisiert ein soziokulturelles Projekt mit einer Laufzeit von einem Jahr, das jährlich neu gestartet wird. Ziel des Projekts ist die Schaffung eines kreativen und therapeutischen Prozesses für Jugendliche mit Hilfe kunsttherapeutischer Methoden und kreativer Arbeitsweisen, in dessen Rahmen junge Menschen die Möglichkeit erhalten, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Es unterstützt Jugendliche dabei, sich selbst, ihren emotionalen Zustand sowie das Bild der Stadt, in der sie leben, positiv neu zu reflektieren. Darüber hinaus schafft das Projekt regelmäßige kulturell relevante Veranstaltungen in der Stadt Karlsruhe, insbesondere Ausstellungen, die das städtische Kulturleben bereichern. Projekt „Straẞengeist“ wird in Kooperation zwischen 1001 Perspektiven (Black Sheep Club) und der Stadt Karlsruhe durchgeführt. Das Projekt wurde von der Stadt Karlsruhe gefördert. Das Projekt lädt Partnerinstitutionen zur Kooperation ein (darunter Jubez, Kulturküche, die Evangelische Kirche, FLUX, KIT und weitere) und baut ein stabiles Netzwerk zwischen 1001 Perspektiven und den kulturellen sowie sozialen Institutionen der Stadt Karlsruhe auf.
 
-<br> <br>
-> [!NOTE]
-> Workshop: Wie baut man eine Lochkamera?
-<p align="center">
-<em>  Klick auf das Bild, um das Video zu schauen👇</em>
-  <p align="center">
-<a href="https://youtube.com/shorts/wr-RBX7xmQ4">
- <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
- <br>
-</a>
- <em> Klick auf das Bild, um das Video zu schauen☝️</em>
-</p>
-<br> <br>
+
 
 > [!NOTE]
 > 📝 Beispiel 1:
