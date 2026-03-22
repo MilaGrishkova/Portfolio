@@ -8,7 +8,7 @@
 
 <br>
 
-> [!NOTE]
+> [!IMPORTANT]
 > Projektbeschreibung
 <br>
 <br>
