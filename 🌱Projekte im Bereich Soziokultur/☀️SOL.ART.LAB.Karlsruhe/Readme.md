@@ -6,20 +6,20 @@
 > 
 > Gefördert durch die Stadt Karlsruhe
 
-<br><br>
+<br>
 > [!IMPORTANT]
 > 
 > Projektbeschreibung
 <br>
 Projekt „Straẞengeist“ ist ein soziokulturelles und kunsttherapeutisches Projekt von SOLARTLAB im Black Sheep Club in Karlsruhe. Im Mittelpunkt steht die Frage, wie junge Menschen ihre Stadt, sich selbst und ihre innere Welt neu wahrnehmen können. Jugendliche arbeiten mit der Technik der Solarographie und nutzen die Sonne als künstlerisches Werkzeug. Mit selbstgebauten Lochkameras halten sie nicht einen einzelnen Moment fest, sondern Zeit, Bewegung und Veränderung. Über Wochen und Monate zeichnet das Sonnenlicht Spuren des urbanen Raums auf Fotopapier. Karlsruhe, eine der sonnigsten Städte Deutschlands, wird dabei selbst zum aktiven Teil des künstlerischen Prozesses. Straßen, Gebäude und Alltagsorte verwandeln sich in Orte der Reflexion und Bedeutung. Die Stadt wird nicht nur betrachtet, sondern erlebt und neu gelesen. „Straẞengeist“ versteht Kunst als offenen Prozess und als Form der Selbstreflexion. Das Projekt schafft einen geschützten Raum, in dem kreative Arbeit therapeutisch wirksam sein kann. Die Ausstellung zeigt nicht nur Bilder, sondern sichtbare Spuren von Zeit, Licht und innerer Bewegung. Sie lädt Besucher*innen ein, Karlsruhe aus einer anderen Perspektive zu sehen.„Straẞengeist“ macht sichtbar, wie Kunst, Stadt und menschliche Erfahrung miteinander verbunden sind.
-
+<br>
 <br>
 <p align="center">
 <img width="400" alt="Sonne" src="https://github.com/user-attachments/assets/e92680ee-c7dd-417d-b7d1-b4149321f0cb" />
  <br>
   <em> ☀️ Karlsruhe gehört zu den sonnigsten Städten Deutschlands.  </em>
 </p>
-
+<br>
 Seine Architektur und Stadtplanung sind nach dem Sonnenprinzip aufgebaut: Von der Stadtmitte aus strahlen die Straßen wie Sonnenstrahlen in alle Richtungen. Die Stadt selbst ist wie eine Sonne organisiert. Daher ist die Arbeit mit Sonnenlicht in Karlsruhe besonders naheliegend, hier entsteht Kunst buchstäblich aus der Sonne. 	
 
 Im Projekt „Straßengeist“ wenden wir uns der Sonne nicht nur als Naturphänomen zu, sondern auch als Symbol für Lebensenergie, Zeit und Licht. Mithilfe der Technik der Solarografie verbinden wir die einzigartige Identität Karlsruhes mit einer künstlerischen Erforschung des Zeitflusses.
