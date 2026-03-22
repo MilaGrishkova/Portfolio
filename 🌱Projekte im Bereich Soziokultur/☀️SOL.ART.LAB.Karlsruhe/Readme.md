@@ -9,7 +9,7 @@
 > Mila Grishkova
 
 <br><br>
-> [!NOTE]
+> [!IMPORTANT]
 > 
 > Projektbeschreibung
 <br>
