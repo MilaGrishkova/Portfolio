@@ -77,6 +77,44 @@ Zeitplanung Das Projekt gliedert sich in vier Phasen:
   <em> Beispiel 2 </em>
 </p>
 
+
+> [!NOTE]
+> 📝 Beispiel 3:
+<br>
+<p align="center">
+<img width="400"  alt="Matthias" src="https://github.com/user-attachments/assets/0c843ae5-780b-4d1a-9575-29c1bd114af1" />
+<br>
+  <em> Beispiel 3 </em>
+</p>
+
+
+> [!NOTE]
+> 📝 Beispiel 4:
+<br>
+<p align="center">
+<img width="400" alt="Kirche3" src="https://github.com/user-attachments/assets/6d9f8c68-2330-4f54-aaab-a55108967504"/>
+<br>
+  <em> Beispiel 4 </em>
+</p>
+
+> [!NOTE]
+> 📝 Beispiel 4:
+<br>
+<p align="center">
+<img width="400" alt="Kirche2" src="https://github.com/user-attachments/assets/45083ef4-19e7-4212-887a-c9e90c119b27"/>
+<br>
+  <em> Beispiel 4 </em>
+</p>
+
+> [!NOTE]
+> 📝 Beispiel 5:
+<br>
+<p align="center">
+<img width="400" alt="Kirche1" src="https://github.com/user-attachments/assets/fe5b2df1-4c6b-4ced-9b55-9094094fcf13"/>
+<br>
+  <em> Beispiel 5 </em>
+</p>
+
 <br> <br>
 > [!NOTE]
 > Workshop: Wie baut man eine Lochkamera?
@@ -219,12 +257,6 @@ Entwicklung von Fähigkeiten zum kreativen Selbstausdruck, zur Teamarbeit und zu
   <em> Gefördert durch die Stadt Karlsruhe </em>
 </p>
 <br><br>
-
-Fotos / Inspiration:
-
->&nbsp;&nbsp;&nbsp;&nbsp;•[Beispiel 1](https://www.instagram.com/p/DEN4fj0Cinr/)
->
->&nbsp;&nbsp;&nbsp;&nbsp;•[Beispiel 2](https://en.wikipedia.org/wiki/Solarigraphy)
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🌱Projekte%20im%20Bereich%20Soziokultur">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
