@@ -98,21 +98,21 @@ Zeitplanung Das Projekt gliedert sich in vier Phasen:
 </p>
 
 > [!NOTE]
-> 📝 Beispiel 4:
+> 📝 Beispiel 5:
 <br>
 <p align="center">
 <img width="400" alt="Kirche2" src="https://github.com/user-attachments/assets/45083ef4-19e7-4212-887a-c9e90c119b27"/>
 <br>
-  <em> Beispiel 4 </em>
+  <em> Beispiel 5 </em>
 </p>
 
 > [!NOTE]
-> 📝 Beispiel 5:
+> 📝 Beispiel 6:
 <br>
 <p align="center">
 <img width="400" alt="Kirche1" src="https://github.com/user-attachments/assets/fe5b2df1-4c6b-4ced-9b55-9094094fcf13"/>
 <br>
-  <em> Beispiel 5 </em>
+  <em> Beispiel 6 </em>
 </p>
 
 <br> <br>
