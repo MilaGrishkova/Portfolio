@@ -57,10 +57,9 @@ SOLARTLAB realisiert ein soziokulturelles Projekt mit einer Laufzeit von einem J
 > 📝 Beispiel 1:
 <br>
 <p align="center">
-<img width="400" alt="kirche4" src="https://github.com/user-attachments/assets/7cba62d1-81a5-4cca-95ac-bb1b8a2d1f2b" />
+<img width="400" alt="Hanna" src="https://github.com/user-attachments/assets/aad5d035-1252-43dc-a667-ea77877ccad7" />
  <br>
   <em> Beispiel 1 </em>
-
 </p>
 	
 Zeitplanung Das Projekt gliedert sich in vier Phasen: 
