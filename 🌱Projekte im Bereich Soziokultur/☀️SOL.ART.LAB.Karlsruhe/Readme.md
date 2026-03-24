@@ -68,6 +68,14 @@ Zeitplanung Das Projekt gliedert sich in vier Phasen:
 3. Bildbearbeitung: Nach 2,5 Monaten werden die Kameras eingesammelt, die Bilder gemeinsam mit den Teilnehmenden gescannt und bearbeitet.
 4. Ausstellung: Im Raum Gravity werden die entstandenen Arbeiten ausgestellt. Das Projekt sieht die Möglichkeit vor, Ausstellungen auch in weiteren kulturellen Einrichtungen der Stadt Karlsruhezu realisieren, nach entsprechender Abstimmung.
 
+> [!NOTE]
+> 📝 Beispiel 2:
+<br>
+<p align="center">
+<img width="400" alt="Jannik" src="https://github.com/user-attachments/assets/6347a05a-5a68-4efe-b8e8-5fd83ae13daf" />
+ <br>
+  <em> Beispiel 2 </em>
+</p>
 
 <br> <br>
 > [!NOTE]
