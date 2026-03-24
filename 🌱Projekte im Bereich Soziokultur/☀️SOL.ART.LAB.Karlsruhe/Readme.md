@@ -76,13 +76,12 @@ Zeitplanung Das Projekt gliedert sich in vier Phasen:
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
 <a href="https://youtube.com/shorts/wr-RBX7xmQ4">
- <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/89d757a8-de6b-4973-89c3-2a76fa403bbb" />
+ <img width="400"  alt="1Schloss1" src="https://github.com/user-attachments/assets/e46dc03c-49a2-43b7-b475-badb7ab5c6fb"  />
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
 </p>
 <br> <br>
-
 
 > [!NOTE]
 > Evangelische Stadtkirche Karlsruhe:
