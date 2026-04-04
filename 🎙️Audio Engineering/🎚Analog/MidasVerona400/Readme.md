@@ -28,14 +28,14 @@
 [Pcm80 Presets Library Pt1.PDF](https://www.italodeangelis.com/public/contents/FX_processors_libraries/PCM80/Italo_De_Angelis_Pcm80_Presets_Library_Pt1.pdf)
 <br> 
 [Einleitung: Lexicon PCM 80](https://www.novelty.fr/wp-content/uploads/downloaded/downloads/materiel_manuels/lexicon_pcm_80_manuel.pdf)
-<br>
+<br> <br>
 
 > [!NOTE]
 > AUX2: YAMAHA SPX900
 
 <br>
 [Einleitung: YAMAHA SPX900.PDF](https://www.technikpool.org/Bedienungsanleitungen/Beschallung/Singnalbearbeitung/Yamaha%20SPX900.pdf)
-<br><br>
+<br> <br>
 
 > [!NOTE]
 > AUX3: Dynacord DRP 15
