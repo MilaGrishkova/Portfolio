@@ -51,6 +51,9 @@ Ich habe mich bewusst dafür entschieden, mein Portfolio auf der Plattform GitHu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [BlackSheepClub](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🖤BlackSheepClub)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Analog](https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎚Analog)
+<br>
+
 
 🍀 [Neue Medien als Kunsttherapie](https://github.com/MilaGrishkova/Portfolio/tree/main/🍀Neue%20Medien%20als%20Kunsttherapie): 
 
