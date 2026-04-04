@@ -39,22 +39,22 @@
 
 > [!NOTE]
 > AUX3: Dynacord DRP 15
-
 <br>
+
 [Einleitung: Dynacord DRP 15.PDF](https://www.barryrudolph.com/recall/manuals/evdynacorddrp15.pdf)
 <br><br>
 
 > [!NOTE]
 > AUX4: TC Electronic D 2 Multitap Rhythm Delay
-
 <br>
+
 [Einleitung: TC Electronic D 2 Multitap Rhythm Delay.PDF](https://toneprints.com/media/216395/tc_electronic_d-two_manual_english.pdf)
 <br><br>
 
 > [!NOTE]
 > Compressor: DPR 404
-
 <br>
+
 [Einleitung: Compressor: DPR 404.PDF](https://bssaudio.com/en/product_documents/dpr404umpdf)
 <br><br>
 
@@ -66,7 +66,6 @@
 [Einleitung: Klark-Teknik DN-370.PDF](https://images.thomann.de/pics/prod/169140-Manual.pdf)
 <br><br>
 
- <br> <br>
 
 <a href="https://github.com/MilaGrishkova/Portfolio/tree/main/🎙%EF%B8%8FAudio%20Engineering/🎚Analog">
   <img src="https://github.com/user-attachments/assets/988bc5f1-81e9-4eb5-86b3-a12c67cee97b" alt="back-button-icon" width="70">
