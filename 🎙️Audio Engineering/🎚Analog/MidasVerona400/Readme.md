@@ -32,8 +32,8 @@
 
 > [!NOTE]
 > AUX2: YAMAHA SPX900
-
 <br>
+
 [Einleitung: YAMAHA SPX900.PDF](https://www.technikpool.org/Bedienungsanleitungen/Beschallung/Singnalbearbeitung/Yamaha%20SPX900.pdf)
 <br> <br>
 
@@ -57,7 +57,6 @@
 
 [Einleitung: Compressor: DPR 404.PDF](https://bssaudio.com/en/product_documents/dpr404umpdf)
 <br><br>
-
 
 > [!NOTE]
 > EQ: Klark-Teknik DN-370
