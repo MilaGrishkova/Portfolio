@@ -11,8 +11,8 @@
 <p align="center">
 <em>  Klick auf das Bild, um das Video zu schauen👇</em>
   <p align="center">
-<a href="https://www.youtube.com/watch?v=OYplfKiy_DQ">
-  <img width="700"  alt="Sky" src="https://youtube.com/shorts/cye0TYPOqw0" />
+<a href="https://youtube.com/shorts/cye0TYPOqw0">
+  <img width="700" alt="Midas" src="https://github.com/user-attachments/assets/71354a93-8b67-409c-8a94-7dbdf0884518"/>
  <br>
 </a>
  <em> Klick auf das Bild, um das Video zu schauen☝️</em>
