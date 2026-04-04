@@ -46,12 +46,14 @@
 
 > [!NOTE]
 > AUX4: TC Electronic D 2 Multitap Rhythm Delay
+
 <br>
 [Einleitung: TC Electronic D 2 Multitap Rhythm Delay.PDF](https://toneprints.com/media/216395/tc_electronic_d-two_manual_english.pdf)
 <br><br>
 
 > [!NOTE]
 > Compressor: DPR 404
+
 <br>
 [Einleitung: Compressor: DPR 404.PDF](https://bssaudio.com/en/product_documents/dpr404umpdf)
 <br><br>
@@ -60,6 +62,7 @@
 > [!NOTE]
 > EQ: Klark-Teknik DN-370
 <br>
+
 [Einleitung: Klark-Teknik DN-370.PDF](https://images.thomann.de/pics/prod/169140-Manual.pdf)
 <br><br>
 
