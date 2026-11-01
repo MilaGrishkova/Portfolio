@@ -1,8 +1,8 @@
 
 # „Die Zeit und der Andere“ (3D Spiel)
 > [!NOTE]
-> Das Spiel „Die Zeit und der Andere“ wurde im Rahmen meiner Masterarbeit an der Hochschule für Musik Karlsruhe entwickelt.
-
+> Das Spiel „Die Zeit und der Andere“
+> 
 <br> <br>
 
 <p align="right">
@@ -19,11 +19,11 @@
 </p>
 <br> <br>
 
-Diese Masterarbeit konzentriert sich auf die vergleichende Analyse der Phänomene von Träumen und Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie sowie in modernen Videospielen. Die gewonnenen Erkenntnisse werden für die Entwicklung eines eigenen Computerspiels genutzt. Das Autorenspiel basiert zudem auf einer interpretierenden Auseinandersetzung mit den in [**Emmanuel Levinas**’ Werk „_Die Zeit und der Andere_“](https://circulosemiotico.wordpress.com/wp-content/uploads/2012/10/levinas_emmanuel_time_and_the_other_1987-1.pdf) formulierten Ideen.
+Diese Arbeit konzentriert sich auf die vergleichende Analyse der Phänomene von Träumen und Schlaflosigkeit in traditionellen Kulturen, der Philosophie, der Psychologie sowie in modernen Videospielen. Die gewonnenen Erkenntnisse werden für die Entwicklung eines eigenen Computerspiels genutzt. Das Autorenspiel basiert zudem auf einer interpretierenden Auseinandersetzung mit den in [**Emmanuel Levinas**’ Werk „_Die Zeit und der Andere_“](https://circulosemiotico.wordpress.com/wp-content/uploads/2012/10/levinas_emmanuel_time_and_the_other_1987-1.pdf) formulierten Ideen.
 
 Das Phänomen der Träume ist seit der Antike bekannt und wurde bereits im alten Ägypten dokumentiert. Im 20. und 21. Jahrhundert entwickelte sich das Interesse an Träumen zu einem interdisziplinären Forschungsfeld, das unter anderem von Soziologie, Anthropologie, Kultur- und Religionswissenschaft geprägt wurde. Träume wurden dabei als soziale und kulturelle Phänomene untersucht.
 
-In der Philosophie beschäftigten sich unter anderem Platon, Aristoteles und Kant mit dem Thema des Schlafs. Einen zentralen theoretischen Bezugspunkt dieser Masterarbeit bildet Emmanuel Levinas’ Werk „Die Zeit und der Andere“, insbesondere seine Auseinandersetzung mit Schlaflosigkeit.
+In der Philosophie beschäftigten sich unter anderem Platon, Aristoteles und Kant mit dem Thema des Schlafs. Einen zentralen theoretischen Bezugspunkt dieser Arbeit bildet Emmanuel Levinas’ Werk „Die Zeit und der Andere“, insbesondere seine Auseinandersetzung mit Schlaflosigkeit.
 Psychologie und Psychoanalyse leisteten wesentliche Beiträge zur Erforschung von Träumen, Albträumen und dem „Unheimlichen“, wie es etwa bei Sigmund Freud thematisiert wird. Ergänzt wird dieser theoretische Zugang durch moderne Traumforschungsmethoden wie Polysomnographie, EEG und EOG, die eine empirische Perspektive auf das Phänomen ermöglichen.
 
 
